@@ -1,5 +1,16 @@
-venv/
 __pycache__/
 *.pyc
-.env
-node_modules/
+
+# logs
+data/logs/
+
+# extra data
+data_extra/
+
+# results
+results/
+reports/
+
+# env
+venv/
+.venv/
