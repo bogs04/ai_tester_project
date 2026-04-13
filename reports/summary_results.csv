@@ -1,0 +1,4 @@
+model,total_steps_mean,total_steps_min,total_steps_max,passed_mean,passed_min,passed_max,failed_mean,failed_min,failed_max,errors_mean,errors_min,errors_max,score_mean,score_min,score_max
+baseline,3.0,3,3,1.1666666666666667,0,3,1.5333333333333334,0,3,0.3,0,2,38.53333333333333,0,100
+llm_advanced,1401.3,6,5613,581.4333333333333,6,2580,0.0,0,0,819.8666666666667,0,3095,53.43333333333333,14,100
+llm_template,1401.3,6,5613,1398.6,6,5595,0.0,0,0,2.7,0,25,99.43333333333334,97,100

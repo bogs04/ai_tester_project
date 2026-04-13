@@ -1,0 +1,29 @@
+STEP 1 - Check page title
+FAIL - step 1
+STEP 2 - Check H1
+ERROR - step 2: Message: no such element: Unable to locate element: {"method":"tag name","selector":"h1"}
+  (Session info: chrome=143.0.7499.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65d448245
+	0x7ff65d4482a0
+	0x7ff65d22165d
+	0x7ff65d279a33
+	0x7ff65d279d3c
+	0x7ff65d2cdf67
+	0x7ff65d2cac97
+	0x7ff65d26ac29
+	0x7ff65d26ba93
+	0x7ff65d75ffe0
+	0x7ff65d75a920
+	0x7ff65d779086
+	0x7ff65d465744
+	0x7ff65d46e6ec
+	0x7ff65d451964
+	0x7ff65d451b15
+	0x7ff65d437842
+	0x7ff8a52a7374
+	0x7ff8a6edcc91
+
+STEP 3 - Check paragraph
+PASS - step 3

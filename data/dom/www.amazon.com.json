@@ -1,0 +1,314 @@
+[
+  {
+    "tag": "html",
+    "id": null,
+    "class": [
+      "a-no-js"
+    ]
+  },
+  {
+    "tag": "head",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "title",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "script",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "script",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "script",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "script",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "script",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "body",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "a-container",
+      "a-padding-double-large"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "a-row",
+      "a-spacing-double-large"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "a-row",
+      "a-spacing-medium",
+      "a-text-center"
+    ]
+  },
+  {
+    "tag": "i",
+    "id": null,
+    "class": [
+      "a-icon",
+      "a-logo"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "a-box",
+      "a-alert",
+      "a-alert-info",
+      "a-spacing-base"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "a-box-inner"
+    ]
+  },
+  {
+    "tag": "i",
+    "id": null,
+    "class": [
+      "a-icon",
+      "a-icon-alert"
+    ]
+  },
+  {
+    "tag": "h4",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "a-section"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "a-box",
+      "a-color-offset-background"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "a-box-inner",
+      "a-padding-extra-large"
+    ]
+  },
+  {
+    "tag": "form",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "input",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "input",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "input",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "a-section",
+      "a-spacing-extra-large"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "a-row"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "a-button",
+      "a-button-primary",
+      "a-span12"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "a-button-inner"
+    ]
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "a-button-text"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "a-divider",
+      "a-divider-section"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "a-divider-inner"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "a-text-center",
+      "a-spacing-small",
+      "a-size-mini"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "a-letter-space"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "a-letter-space"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "a-letter-space"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "a-letter-space"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "a-text-center",
+      "a-size-mini",
+      "a-color-base"
+    ]
+  },
+  {
+    "tag": "script",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "img",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "noscript",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "img",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "script",
+    "id": null,
+    "class": null
+  }
+]

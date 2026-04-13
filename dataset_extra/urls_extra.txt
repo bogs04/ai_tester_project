@@ -1,0 +1,6 @@
+https://www.w3schools.com
+https://httpbin.org
+https://books.toscrape.com
+https://quotes.toscrape.com
+https://www.python.org
+https://www.wikipedia.org

@@ -1,0 +1,4112 @@
+[
+  {
+    "tag": "html",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "head",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "title",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "script",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "script",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "script",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "script",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "script",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "script",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "body",
+    "id": null,
+    "class": [
+      "page-layout"
+    ]
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": [
+      "a11y-menu"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "page-layout__banner"
+    ]
+  },
+  {
+    "tag": "mdn-placement-top",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "header",
+    "id": null,
+    "class": [
+      "page-layout__header"
+    ]
+  },
+  {
+    "tag": "nav",
+    "id": null,
+    "class": [
+      "navigation"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "navigation__logo"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "logo"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": [
+      "logo__image"
+    ]
+  },
+  {
+    "tag": "title",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": [
+      "logo__letter"
+    ]
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": [
+      "logo__text"
+    ]
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": [
+      "logo__cursor"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "navigation__search"
+    ]
+  },
+  {
+    "tag": "mdn-search-button",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "navigation__button"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": "navigation__popup",
+    "class": [
+      "navigation__popup"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "navigation__menu"
+    ]
+  },
+  {
+    "tag": "nav",
+    "id": null,
+    "class": [
+      "menu"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "menu__tab"
+    ]
+  },
+  {
+    "tag": "mdn-dropdown",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "menu__tab-button"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "menu__tab-label"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": "uid_r1tfebuzj5",
+    "class": [
+      "menu__panel"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "menu__panel-title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "menu__panel-content"
+    ]
+  },
+  {
+    "tag": "dl",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dt",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dd",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dl",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dt",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dd",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dl",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dt",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dd",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "menu__tab"
+    ]
+  },
+  {
+    "tag": "mdn-dropdown",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "menu__tab-button"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "menu__tab-label"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": "uid_2yntoqsc0nv",
+    "class": [
+      "menu__panel"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "menu__panel-title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "menu__panel-content"
+    ]
+  },
+  {
+    "tag": "dl",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dt",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dd",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dl",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dt",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dd",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dl",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dt",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dd",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "menu__tab"
+    ]
+  },
+  {
+    "tag": "mdn-dropdown",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "menu__tab-button"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "menu__tab-label"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "menu__tab-label"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": "uid_479l2erqxpt",
+    "class": [
+      "menu__panel"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "menu__panel-title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "menu__panel-content"
+    ]
+  },
+  {
+    "tag": "dl",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dt",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dd",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dl",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dt",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dd",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "menu__tab"
+    ]
+  },
+  {
+    "tag": "mdn-dropdown",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "menu__tab-button"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "menu__tab-label"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": "uid_2yaa6kpnta8",
+    "class": [
+      "menu__panel"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "menu__panel-title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "menu__panel-content"
+    ]
+  },
+  {
+    "tag": "dl",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dt",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dd",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dl",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dt",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dd",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "menu__tab"
+    ]
+  },
+  {
+    "tag": "mdn-dropdown",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "menu__tab-button"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "menu__tab-label"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": "uid_exr6q9fdp6b",
+    "class": [
+      "menu__panel"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "menu__panel-title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "menu__panel-content"
+    ]
+  },
+  {
+    "tag": "dl",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dt",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dd",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dl",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dt",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dd",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "menu__tab"
+    ]
+  },
+  {
+    "tag": "mdn-dropdown",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "menu__tab-button"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "menu__tab-label"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": "uid_shmoqet66t",
+    "class": [
+      "menu__panel"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "menu__panel-title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "menu__panel-content"
+    ]
+  },
+  {
+    "tag": "dl",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dt",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dd",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": []
+  },
+  {
+    "tag": "dl",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dt",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dd",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dl",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dt",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dd",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dl",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dt",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dd",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "menu__tab"
+    ]
+  },
+  {
+    "tag": "mdn-dropdown",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "menu__tab-button"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "menu__tab-label"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": "uid_ubd9ksep4r",
+    "class": [
+      "menu__panel"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "menu__panel-title"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "menu__panel-content"
+    ]
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "menu__panel-icon"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "menu__panel-icon"
+    ]
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "menu__tab"
+    ]
+  },
+  {
+    "tag": "mdn-dropdown",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "menu__tab-button"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "menu__tab-label"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": "uid_bykb0v4b65",
+    "class": [
+      "menu__panel"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "menu__panel-title"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "menu__panel-content"
+    ]
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "menu__panel-icon"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "menu__panel-icon"
+    ]
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "menu__panel-icon"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "menu__panel-icon",
+      "external"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "menu__tab"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "menu__tab-link"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "navigation__search"
+    ]
+  },
+  {
+    "tag": "mdn-search-button",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "mdn-user-menu",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "mdn-search-modal",
+    "id": "search",
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "breadcrumbs-bar"
+    ]
+  },
+  {
+    "tag": "ol",
+    "id": null,
+    "class": [
+      "breadcrumbs"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "mdn-color-theme",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "mdn-language-switcher",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "page-layout__main"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": "content",
+    "class": [
+      "homepage",
+      "homepage--dark"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "homepage-header"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "homepage-header__copy"
+    ]
+  },
+  {
+    "tag": "section",
+    "id": null,
+    "class": [
+      "homepage-hero"
+    ]
+  },
+  {
+    "tag": "h1",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "br",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "homepage-header__search"
+    ]
+  },
+  {
+    "tag": "mdn-homepage-search",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "homepage-header__mandala"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "mandala"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": [
+      "mandala"
+    ]
+  },
+  {
+    "tag": "title",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "defs",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": "circle1",
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": "circle2",
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": "circle3",
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": "circle4",
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": "circle5",
+    "class": null
+  },
+  {
+    "tag": "text",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "textpath",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "text",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "textpath",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "text",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "textpath",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "text",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "textpath",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "text",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "textpath",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "tspan",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "homepage"
+    ]
+  },
+  {
+    "tag": "mdn-placement-hp-main",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "homepage-body"
+    ]
+  },
+  {
+    "tag": "section",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "h2",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": [
+      "featured-articles"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "article",
+    "id": null,
+    "class": [
+      "featured-articles__article"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "featured-articles__tag"
+    ]
+  },
+  {
+    "tag": "h3",
+    "id": null,
+    "class": [
+      "featured-articles__title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "featured-articles__summary"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "article",
+    "id": null,
+    "class": [
+      "featured-articles__article"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "featured-articles__tag"
+    ]
+  },
+  {
+    "tag": "h3",
+    "id": null,
+    "class": [
+      "featured-articles__title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "featured-articles__summary"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "article",
+    "id": null,
+    "class": [
+      "featured-articles__article"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "featured-articles__tag"
+    ]
+  },
+  {
+    "tag": "h3",
+    "id": null,
+    "class": [
+      "featured-articles__title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "featured-articles__summary"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "article",
+    "id": null,
+    "class": [
+      "featured-articles__article"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "featured-articles__tag"
+    ]
+  },
+  {
+    "tag": "h3",
+    "id": null,
+    "class": [
+      "featured-articles__title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "featured-articles__summary"
+    ]
+  },
+  {
+    "tag": "section",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "h2",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": [
+      "latest-news"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "article",
+    "id": null,
+    "class": [
+      "latest-news__item"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "latest-news__source"
+    ]
+  },
+  {
+    "tag": "h3",
+    "id": null,
+    "class": [
+      "latest-news__title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "time",
+    "id": null,
+    "class": [
+      "latest-news__date"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "latest-news__summary"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "article",
+    "id": null,
+    "class": [
+      "latest-news__item"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "latest-news__source"
+    ]
+  },
+  {
+    "tag": "h3",
+    "id": null,
+    "class": [
+      "latest-news__title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "time",
+    "id": null,
+    "class": [
+      "latest-news__date"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "latest-news__summary"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "article",
+    "id": null,
+    "class": [
+      "latest-news__item"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "latest-news__source"
+    ]
+  },
+  {
+    "tag": "h3",
+    "id": null,
+    "class": [
+      "latest-news__title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "time",
+    "id": null,
+    "class": [
+      "latest-news__date"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "latest-news__summary"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "article",
+    "id": null,
+    "class": [
+      "latest-news__item"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "latest-news__source"
+    ]
+  },
+  {
+    "tag": "h3",
+    "id": null,
+    "class": [
+      "latest-news__title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "time",
+    "id": null,
+    "class": [
+      "latest-news__date"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "latest-news__summary"
+    ]
+  },
+  {
+    "tag": "section",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "h2",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": [
+      "recent-contributions"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": [
+      "recent-contributions__item"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "recent-contributions__repo"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "time",
+    "id": null,
+    "class": [
+      "recent-contributions__date"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "recent-contributions__title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": [
+      "recent-contributions__item"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "recent-contributions__repo"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "time",
+    "id": null,
+    "class": [
+      "recent-contributions__date"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "recent-contributions__title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": [
+      "recent-contributions__item"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "recent-contributions__repo"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "time",
+    "id": null,
+    "class": [
+      "recent-contributions__date"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "recent-contributions__title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": [
+      "recent-contributions__item"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "recent-contributions__repo"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "time",
+    "id": null,
+    "class": [
+      "recent-contributions__date"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "recent-contributions__title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": [
+      "recent-contributions__item"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "recent-contributions__repo"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "time",
+    "id": null,
+    "class": [
+      "recent-contributions__date"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "recent-contributions__title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": [
+      "recent-contributions__item"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "recent-contributions__repo"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "time",
+    "id": null,
+    "class": [
+      "recent-contributions__date"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "recent-contributions__title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": [
+      "recent-contributions__item"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "recent-contributions__repo"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "time",
+    "id": null,
+    "class": [
+      "recent-contributions__date"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "recent-contributions__title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": [
+      "recent-contributions__item"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "recent-contributions__repo"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "time",
+    "id": null,
+    "class": [
+      "recent-contributions__date"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "recent-contributions__title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": [
+      "recent-contributions__item"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "recent-contributions__repo"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "time",
+    "id": null,
+    "class": [
+      "recent-contributions__date"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "recent-contributions__title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": [
+      "recent-contributions__item"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "recent-contributions__repo"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "time",
+    "id": null,
+    "class": [
+      "recent-contributions__date"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "recent-contributions__title"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "homepage",
+      "homepage--dark"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "homepage-footer"
+    ]
+  },
+  {
+    "tag": "section",
+    "id": null,
+    "class": [
+      "homepage-contributor-spotlight"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "homepage-contributor-spotlight__spotlight"
+    ]
+  },
+  {
+    "tag": "h2",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "homepage-contributor-spotlight__name"
+    ]
+  },
+  {
+    "tag": "blockquote",
+    "id": null,
+    "class": [
+      "homepage-contributor-spotlight__quote"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "button"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": "label-ibu8lnjdsfk",
+    "class": [
+      "label"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "icon"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "figure",
+    "id": null,
+    "class": [
+      "homepage-contributor-spotlight__logo"
+    ]
+  },
+  {
+    "tag": "img",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "page-layout__footer"
+    ]
+  },
+  {
+    "tag": "mdn-placement-bottom",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "footer",
+    "id": null,
+    "class": [
+      "footer"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "footer__mdn"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "footer__intro"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "footer__logo"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": [
+      "footer__socials"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dl",
+    "id": null,
+    "class": [
+      "footer__links"
+    ]
+  },
+  {
+    "tag": "dt",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dd",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": []
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": []
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": []
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": []
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "dl",
+    "id": null,
+    "class": [
+      "footer__links"
+    ]
+  },
+  {
+    "tag": "dt",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dd",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": []
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": []
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": []
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "dl",
+    "id": null,
+    "class": [
+      "footer__links"
+    ]
+  },
+  {
+    "tag": "dt",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "dd",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": []
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": []
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": []
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": []
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": []
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "footer__mozilla"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "footer__logo"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "external"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "br",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  }
+]

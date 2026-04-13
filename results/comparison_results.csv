@@ -1,0 +1,16 @@
+url,model,steps,coverage,hallucination_rate,latency_ms,parse_success
+https://httpbin.org,rule,5,1.0,0.0,0.0,True
+https://httpbin.org,GPT,3,1.0,0.0,2157.9904556274414,True
+https://httpbin.org,Claude,1,0.5,0.6666666666666666,3137.587785720825,True
+https://books.toscrape.com,rule,114,1.0,0.0,0.0,True
+https://books.toscrape.com,GPT,4,1.0,0.0,1620.211124420166,True
+https://books.toscrape.com,Claude,3,1.0,0.0,4301.336050033569,True
+https://quotes.toscrape.com,rule,55,1.0,0.0,0.0,True
+https://quotes.toscrape.com,GPT,3,0.6666666666666666,0.0,1711.7228507995605,True
+https://quotes.toscrape.com,Claude,3,1.0,0.0,1486.081600189209,True
+https://www.python.org,rule,209,1.0,0.0,0.0,True
+https://www.python.org,GPT,4,0.2222222222222222,0.0,1889.6470069885254,True
+https://www.python.org,Claude,3,0.16666666666666666,0.0,1915.7183170318604,True
+https://vnexpress.net,rule,143,1.0,0.0,0.0,True
+https://vnexpress.net,GPT,4,0.25,0.0,12954.41460609436,True
+https://vnexpress.net,Claude,3,0.1875,0.0,2775.150775909424,True

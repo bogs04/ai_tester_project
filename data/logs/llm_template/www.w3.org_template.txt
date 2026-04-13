@@ -1,0 +1,107 @@
+STEP 1 - Check element html_1
+PASS - step 1
+STEP 2 - Check element head_2
+PASS - step 2
+STEP 3 - Check element title_3
+PASS - step 3
+STEP 4 - Check element meta_4
+PASS - step 4
+STEP 5 - Check element meta_5
+PASS - step 5
+STEP 6 - Check element meta_6
+PASS - step 6
+STEP 7 - Check element meta_7
+PASS - step 7
+STEP 8 - Check element style_8
+PASS - step 8
+STEP 9 - Check element meta_9
+PASS - step 9
+STEP 10 - Check element script_10
+PASS - step 10
+STEP 11 - Check element style_11
+PASS - step 11
+STEP 12 - Check element script_12
+PASS - step 12
+STEP 13 - Check element body_13
+PASS - step 13
+STEP 14 - Check element div_14
+PASS - step 14
+STEP 15 - Check element div_15
+PASS - step 15
+STEP 16 - Check element h1_16
+PASS - step 16
+STEP 17 - Check element p_17
+PASS - step 17
+STEP 18 - Check element div_18
+PASS - step 18
+STEP 19 - Check element div_19
+PASS - step 19
+STEP 20 - Check element div_20
+PASS - step 20
+STEP 21 - Check element input_21
+PASS - step 21
+STEP 22 - Check element div_22
+PASS - step 22
+STEP 23 - Check element div_23
+PASS - step 23
+STEP 24 - Check element div_24
+PASS - step 24
+STEP 25 - Check element div_25
+PASS - step 25
+STEP 26 - Check element div_26
+PASS - step 26
+STEP 27 - Check element div_27
+PASS - step 27
+STEP 28 - Check element div_28
+PASS - step 28
+STEP 29 - Check element div_29
+PASS - step 29
+STEP 30 - Check element div_30
+PASS - step 30
+STEP 31 - Check element div_31
+PASS - step 31
+STEP 32 - Check element noscript_32
+PASS - step 32
+STEP 33 - Check element div_33
+PASS - step 33
+STEP 34 - Check element span_34
+ERROR - step 34: Message: no such element: Unable to locate element: {"method":"tag name","selector":"span"}
+  (Session info: chrome=143.0.7499.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65d448245
+	0x7ff65d4482a0
+	0x7ff65d22165d
+	0x7ff65d279a33
+	0x7ff65d279d3c
+	0x7ff65d2cdf67
+	0x7ff65d2cac97
+	0x7ff65d26ac29
+	0x7ff65d26ba93
+	0x7ff65d75ffe0
+	0x7ff65d75a920
+	0x7ff65d779086
+	0x7ff65d465744
+	0x7ff65d46e6ec
+	0x7ff65d451964
+	0x7ff65d451b15
+	0x7ff65d437842
+	0x7ff8a52a7374
+	0x7ff8a6edcc91
+
+STEP 35 - Check element script_35
+PASS - step 35
+STEP 36 - Check element div_36
+PASS - step 36
+STEP 37 - Check element div_37
+PASS - step 37
+STEP 38 - Check element div_38
+PASS - step 38
+STEP 39 - Check element div_39
+PASS - step 39
+STEP 40 - Check element code_40
+PASS - step 40
+STEP 41 - Check element div_41
+PASS - step 41
+STEP 42 - Check element a_42
+PASS - step 42

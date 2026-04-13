@@ -1,0 +1,22 @@
+STEP 1 - Check element html#None.None
+PASS - step 1
+STEP 2 - Check element head#None.None
+PASS - step 2
+STEP 3 - Check element title#None.None
+PASS - step 3
+STEP 4 - Check element meta#None.None
+PASS - step 4
+STEP 5 - Check element style#None.None
+PASS - step 5
+STEP 6 - Check element body#None.None
+PASS - step 6
+STEP 7 - Check element div#None.None
+PASS - step 7
+STEP 8 - Check element h1#None.None
+PASS - step 8
+STEP 9 - Check element p#None.None
+PASS - step 9
+STEP 10 - Check element p#None.None
+PASS - step 10
+STEP 11 - Check element a#None.None
+PASS - step 11

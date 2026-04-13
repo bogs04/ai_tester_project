@@ -1,0 +1,6 @@
+STEP 1 - Check page title
+PASS - step 1
+STEP 2 - Check H1
+PASS - step 2
+STEP 3 - Check paragraph
+PASS - step 3

@@ -1,0 +1,2117 @@
+[
+  {
+    "tag": "html",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "head",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "title",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "style",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "style",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "style",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "body",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "inner"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": "top",
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "skip"
+    ]
+  },
+  {
+    "tag": "b",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "fundraiser",
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "message"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "headline"
+    ]
+  },
+  {
+    "tag": "b",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "gnun-split"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "button"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "gnun-split"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "gnun-split"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "progress"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "progress-bar"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "percentage"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "goal"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "gnun-split"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "header",
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": "gnu-banner",
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "img",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "hide"
+    ]
+  },
+  {
+    "tag": "br",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": "fsf-support",
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "switches",
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "search-button",
+    "class": [
+      "switch"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "img",
+    "id": "search-icon",
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "language-button",
+    "class": [
+      "switch"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "img",
+    "id": "language-icon",
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "navigation",
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": "more-links",
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": "less-links",
+    "class": null
+  },
+  {
+    "tag": "b",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": "tabAboutGNU",
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": "tabPhilosophy",
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": "tabLicenses",
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": "tabEducation",
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": "tabSoftware",
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": "tabDistros",
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": "tabDoc",
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": "tabMalware",
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": "tabHelp",
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": "tabAV",
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": "tabArt",
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": "tabFun",
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": "tabPeople",
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "content",
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "no-display"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": "home",
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "first-column"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": "vid-container",
+    "class": null
+  },
+  {
+    "tag": "video",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "source",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "source",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "source",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "track",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "track",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "track",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "track",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "track",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "h2",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": "btn-left",
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "gnu-linux",
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "screenshot",
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "thumbs",
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "img",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "br",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "img",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "br",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "img",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "br",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "img",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "br",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "img",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "br",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "img",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "br",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": "btn-right",
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "h2",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "h2",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "h2",
+    "id": "More-GNU",
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "em",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "em",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "em",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "button",
+      "right-align"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "second-column"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "img",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "kind-comm",
+    "class": [
+      "emph-box",
+      "color1"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "franklin",
+    "class": [
+      "emph-box",
+      "color2"
+    ]
+  },
+  {
+    "tag": "blockquote",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "i",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "br",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "cite",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "Flashes",
+    "class": [
+      "emph-box",
+      "color1"
+    ]
+  },
+  {
+    "tag": "h3",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "gnun-split"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "img",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "ltr"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "gnun-split"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "gnun-split"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "gnun-split"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "gnun-split"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "gnun-split"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "gnun-split"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "gnun-split"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "gnun-split"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "gnun-split"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": "Action",
+    "class": [
+      "emph-box",
+      "color2"
+    ]
+  },
+  {
+    "tag": "h3",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": "petition",
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": "copilot",
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "back"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "priority",
+    "class": [
+      "emph-box",
+      "color1"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "emph-box",
+      "color2"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": "long-term",
+    "class": null
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "unmaint",
+    "class": [
+      "emph-box",
+      "color1"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "gnun-split"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "gnun-split"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "gnun-split"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "gnun-split"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "blurb",
+    "class": [
+      "emph-box",
+      "color2"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "ltr"
+    ]
+  },
+  {
+    "tag": "h4",
+    "id": "patch",
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "code",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "language-container",
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "backtotop"
+    ]
+  },
+  {
+    "tag": "hr",
+    "id": null,
+    "class": [
+      "no-display"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "b",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "languages",
+    "class": [
+      "rounded-corners"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "button"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "close"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "set-language",
+    "class": [
+      "button"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "gnun-split"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "gnun-split"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "translations",
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "original"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "mission-statement",
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "backtotop"
+    ]
+  },
+  {
+    "tag": "hr",
+    "id": null,
+    "class": [
+      "no-display"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "blockquote",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "img",
+    "id": "fsfbanner",
+    "class": null
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "support-the-fsf",
+    "class": [
+      "button"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "join"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "donate"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "shop"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": "sisters",
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "br",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "footer",
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "unprintable"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": "ContactInfo",
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "bottom-notes",
+    "class": [
+      "unprintable"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "generic",
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "unprintable"
+    ]
+  }
+]

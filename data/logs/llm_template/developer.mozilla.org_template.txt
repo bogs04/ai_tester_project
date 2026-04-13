@@ -1,0 +1,1585 @@
+STEP 1 - Check element html_1
+PASS - step 1
+STEP 2 - Check element head_2
+PASS - step 2
+STEP 3 - Check element meta_3
+PASS - step 3
+STEP 4 - Check element meta_4
+PASS - step 4
+STEP 5 - Check element title_5
+PASS - step 5
+STEP 6 - Check element script_6
+PASS - step 6
+STEP 7 - Check element link_7
+PASS - step 7
+STEP 8 - Check element link_8
+PASS - step 8
+STEP 9 - Check element link_9
+PASS - step 9
+STEP 10 - Check element link_10
+PASS - step 10
+STEP 11 - Check element link_11
+PASS - step 11
+STEP 12 - Check element link_12
+PASS - step 12
+STEP 13 - Check element link_13
+PASS - step 13
+STEP 14 - Check element link_14
+PASS - step 14
+STEP 15 - Check element link_15
+PASS - step 15
+STEP 16 - Check element link_16
+PASS - step 16
+STEP 17 - Check element link_17
+PASS - step 17
+STEP 18 - Check element link_18
+PASS - step 18
+STEP 19 - Check element link_19
+PASS - step 19
+STEP 20 - Check element link_20
+PASS - step 20
+STEP 21 - Check element link_21
+PASS - step 21
+STEP 22 - Check element link_22
+PASS - step 22
+STEP 23 - Check element link_23
+PASS - step 23
+STEP 24 - Check element link_24
+PASS - step 24
+STEP 25 - Check element link_25
+PASS - step 25
+STEP 26 - Check element link_26
+PASS - step 26
+STEP 27 - Check element link_27
+PASS - step 27
+STEP 28 - Check element link_28
+PASS - step 28
+STEP 29 - Check element script_29
+PASS - step 29
+STEP 30 - Check element script_30
+PASS - step 30
+STEP 31 - Check element script_31
+PASS - step 31
+STEP 32 - Check element script_32
+PASS - step 32
+STEP 33 - Check element link_33
+PASS - step 33
+STEP 34 - Check element link_34
+PASS - step 34
+STEP 35 - Check element meta_35
+PASS - step 35
+STEP 36 - Check element meta_36
+PASS - step 36
+STEP 37 - Check element meta_37
+PASS - step 37
+STEP 38 - Check element meta_38
+PASS - step 38
+STEP 39 - Check element meta_39
+PASS - step 39
+STEP 40 - Check element meta_40
+PASS - step 40
+STEP 41 - Check element meta_41
+PASS - step 41
+STEP 42 - Check element meta_42
+PASS - step 42
+STEP 43 - Check element meta_43
+PASS - step 43
+STEP 44 - Check element meta_44
+PASS - step 44
+STEP 45 - Check element meta_45
+PASS - step 45
+STEP 46 - Check element meta_46
+PASS - step 46
+STEP 47 - Check element meta_47
+PASS - step 47
+STEP 48 - Check element link_48
+PASS - step 48
+STEP 49 - Check element link_49
+PASS - step 49
+STEP 50 - Check element link_50
+PASS - step 50
+STEP 51 - Check element link_51
+PASS - step 51
+STEP 52 - Check element link_52
+PASS - step 52
+STEP 53 - Check element script_53
+PASS - step 53
+STEP 54 - Check element body_54
+PASS - step 54
+STEP 55 - Check element ul_55
+PASS - step 55
+STEP 56 - Check element li_56
+PASS - step 56
+STEP 57 - Check element a_57
+PASS - step 57
+STEP 58 - Check element li_58
+PASS - step 58
+STEP 59 - Check element a_59
+PASS - step 59
+STEP 60 - Check element div_60
+PASS - step 60
+STEP 61 - Check element mdn-placement-top_61
+PASS - step 61
+STEP 62 - Check element header_62
+PASS - step 62
+STEP 63 - Check element nav_63
+PASS - step 63
+STEP 64 - Check element div_64
+PASS - step 64
+STEP 65 - Check element a_65
+PASS - step 65
+STEP 66 - Check element svg_66
+PASS - step 66
+STEP 67 - Check element title_67
+PASS - step 67
+STEP 68 - Check element path_68
+PASS - step 68
+STEP 69 - Check element path_69
+PASS - step 69
+STEP 70 - Check element path_70
+PASS - step 70
+STEP 71 - Check element div_71
+PASS - step 71
+STEP 72 - Check element mdn-search-button_72
+PASS - step 72
+STEP 73 - Check element button_73
+PASS - step 73
+STEP 74 - Check element div_74
+PASS - step 74
+STEP 75 - Check element div_75
+PASS - step 75
+STEP 76 - Check element nav_76
+PASS - step 76
+STEP 77 - Check element div_77
+PASS - step 77
+STEP 78 - Check element mdn-dropdown_78
+PASS - step 78
+STEP 79 - Check element button_79
+PASS - step 79
+STEP 80 - Check element span_80
+PASS - step 80
+STEP 81 - Check element div_81
+PASS - step 81
+STEP 82 - Check element p_82
+PASS - step 82
+STEP 83 - Check element a_83
+PASS - step 83
+STEP 84 - Check element div_84
+PASS - step 84
+STEP 85 - Check element dl_85
+PASS - step 85
+STEP 86 - Check element dt_86
+PASS - step 86
+STEP 87 - Check element dd_87
+PASS - step 87
+STEP 88 - Check element ul_88
+PASS - step 88
+STEP 89 - Check element li_89
+PASS - step 89
+STEP 90 - Check element a_90
+PASS - step 90
+STEP 91 - Check element li_91
+PASS - step 91
+STEP 92 - Check element a_92
+PASS - step 92
+STEP 93 - Check element li_93
+PASS - step 93
+STEP 94 - Check element a_94
+PASS - step 94
+STEP 95 - Check element li_95
+PASS - step 95
+STEP 96 - Check element a_96
+PASS - step 96
+STEP 97 - Check element dl_97
+PASS - step 97
+STEP 98 - Check element dt_98
+PASS - step 98
+STEP 99 - Check element dd_99
+PASS - step 99
+STEP 100 - Check element ul_100
+PASS - step 100
+STEP 101 - Check element li_101
+PASS - step 101
+STEP 102 - Check element a_102
+PASS - step 102
+STEP 103 - Check element li_103
+PASS - step 103
+STEP 104 - Check element a_104
+PASS - step 104
+STEP 105 - Check element li_105
+PASS - step 105
+STEP 106 - Check element a_106
+PASS - step 106
+STEP 107 - Check element li_107
+PASS - step 107
+STEP 108 - Check element a_108
+PASS - step 108
+STEP 109 - Check element dl_109
+PASS - step 109
+STEP 110 - Check element dt_110
+PASS - step 110
+STEP 111 - Check element dd_111
+PASS - step 111
+STEP 112 - Check element ul_112
+PASS - step 112
+STEP 113 - Check element li_113
+PASS - step 113
+STEP 114 - Check element a_114
+PASS - step 114
+STEP 115 - Check element li_115
+PASS - step 115
+STEP 116 - Check element a_116
+PASS - step 116
+STEP 117 - Check element li_117
+PASS - step 117
+STEP 118 - Check element a_118
+PASS - step 118
+STEP 119 - Check element div_119
+PASS - step 119
+STEP 120 - Check element mdn-dropdown_120
+PASS - step 120
+STEP 121 - Check element button_121
+PASS - step 121
+STEP 122 - Check element span_122
+PASS - step 122
+STEP 123 - Check element div_123
+PASS - step 123
+STEP 124 - Check element p_124
+PASS - step 124
+STEP 125 - Check element a_125
+PASS - step 125
+STEP 126 - Check element div_126
+PASS - step 126
+STEP 127 - Check element dl_127
+PASS - step 127
+STEP 128 - Check element dt_128
+PASS - step 128
+STEP 129 - Check element dd_129
+PASS - step 129
+STEP 130 - Check element ul_130
+PASS - step 130
+STEP 131 - Check element li_131
+PASS - step 131
+STEP 132 - Check element a_132
+PASS - step 132
+STEP 133 - Check element li_133
+PASS - step 133
+STEP 134 - Check element a_134
+PASS - step 134
+STEP 135 - Check element li_135
+PASS - step 135
+STEP 136 - Check element a_136
+PASS - step 136
+STEP 137 - Check element li_137
+PASS - step 137
+STEP 138 - Check element a_138
+PASS - step 138
+STEP 139 - Check element li_139
+PASS - step 139
+STEP 140 - Check element a_140
+PASS - step 140
+STEP 141 - Check element dl_141
+PASS - step 141
+STEP 142 - Check element dt_142
+PASS - step 142
+STEP 143 - Check element dd_143
+PASS - step 143
+STEP 144 - Check element ul_144
+PASS - step 144
+STEP 145 - Check element li_145
+PASS - step 145
+STEP 146 - Check element a_146
+PASS - step 146
+STEP 147 - Check element li_147
+PASS - step 147
+STEP 148 - Check element a_148
+PASS - step 148
+STEP 149 - Check element li_149
+PASS - step 149
+STEP 150 - Check element a_150
+PASS - step 150
+STEP 151 - Check element li_151
+PASS - step 151
+STEP 152 - Check element a_152
+PASS - step 152
+STEP 153 - Check element li_153
+PASS - step 153
+STEP 154 - Check element a_154
+PASS - step 154
+STEP 155 - Check element dl_155
+PASS - step 155
+STEP 156 - Check element dt_156
+PASS - step 156
+STEP 157 - Check element dd_157
+PASS - step 157
+STEP 158 - Check element ul_158
+PASS - step 158
+STEP 159 - Check element li_159
+PASS - step 159
+STEP 160 - Check element a_160
+PASS - step 160
+STEP 161 - Check element li_161
+PASS - step 161
+STEP 162 - Check element a_162
+PASS - step 162
+STEP 163 - Check element li_163
+PASS - step 163
+STEP 164 - Check element a_164
+PASS - step 164
+STEP 165 - Check element li_165
+PASS - step 165
+STEP 166 - Check element a_166
+PASS - step 166
+STEP 167 - Check element div_167
+PASS - step 167
+STEP 168 - Check element mdn-dropdown_168
+PASS - step 168
+STEP 169 - Check element button_169
+PASS - step 169
+STEP 170 - Check element span_170
+PASS - step 170
+STEP 171 - Check element span_171
+PASS - step 171
+STEP 172 - Check element div_172
+PASS - step 172
+STEP 173 - Check element p_173
+PASS - step 173
+STEP 174 - Check element a_174
+PASS - step 174
+STEP 175 - Check element div_175
+PASS - step 175
+STEP 176 - Check element dl_176
+PASS - step 176
+STEP 177 - Check element dt_177
+PASS - step 177
+STEP 178 - Check element dd_178
+PASS - step 178
+STEP 179 - Check element ul_179
+PASS - step 179
+STEP 180 - Check element li_180
+PASS - step 180
+STEP 181 - Check element a_181
+PASS - step 181
+STEP 182 - Check element li_182
+PASS - step 182
+STEP 183 - Check element a_183
+PASS - step 183
+STEP 184 - Check element li_184
+PASS - step 184
+STEP 185 - Check element a_185
+PASS - step 185
+STEP 186 - Check element li_186
+PASS - step 186
+STEP 187 - Check element a_187
+PASS - step 187
+STEP 188 - Check element li_188
+PASS - step 188
+STEP 189 - Check element a_189
+PASS - step 189
+STEP 190 - Check element dl_190
+PASS - step 190
+STEP 191 - Check element dt_191
+PASS - step 191
+STEP 192 - Check element dd_192
+PASS - step 192
+STEP 193 - Check element ul_193
+PASS - step 193
+STEP 194 - Check element li_194
+PASS - step 194
+STEP 195 - Check element a_195
+PASS - step 195
+STEP 196 - Check element li_196
+PASS - step 196
+STEP 197 - Check element a_197
+PASS - step 197
+STEP 198 - Check element li_198
+PASS - step 198
+STEP 199 - Check element a_199
+PASS - step 199
+STEP 200 - Check element li_200
+PASS - step 200
+STEP 201 - Check element a_201
+PASS - step 201
+STEP 202 - Check element li_202
+PASS - step 202
+STEP 203 - Check element a_203
+PASS - step 203
+STEP 204 - Check element div_204
+PASS - step 204
+STEP 205 - Check element mdn-dropdown_205
+PASS - step 205
+STEP 206 - Check element button_206
+PASS - step 206
+STEP 207 - Check element span_207
+PASS - step 207
+STEP 208 - Check element div_208
+PASS - step 208
+STEP 209 - Check element p_209
+PASS - step 209
+STEP 210 - Check element a_210
+PASS - step 210
+STEP 211 - Check element div_211
+PASS - step 211
+STEP 212 - Check element dl_212
+PASS - step 212
+STEP 213 - Check element dt_213
+PASS - step 213
+STEP 214 - Check element dd_214
+PASS - step 214
+STEP 215 - Check element ul_215
+PASS - step 215
+STEP 216 - Check element li_216
+PASS - step 216
+STEP 217 - Check element a_217
+PASS - step 217
+STEP 218 - Check element li_218
+PASS - step 218
+STEP 219 - Check element a_219
+PASS - step 219
+STEP 220 - Check element li_220
+PASS - step 220
+STEP 221 - Check element a_221
+PASS - step 221
+STEP 222 - Check element li_222
+PASS - step 222
+STEP 223 - Check element a_223
+PASS - step 223
+STEP 224 - Check element li_224
+PASS - step 224
+STEP 225 - Check element a_225
+PASS - step 225
+STEP 226 - Check element li_226
+PASS - step 226
+STEP 227 - Check element a_227
+PASS - step 227
+STEP 228 - Check element li_228
+PASS - step 228
+STEP 229 - Check element a_229
+PASS - step 229
+STEP 230 - Check element dl_230
+PASS - step 230
+STEP 231 - Check element dt_231
+PASS - step 231
+STEP 232 - Check element dd_232
+PASS - step 232
+STEP 233 - Check element ul_233
+PASS - step 233
+STEP 234 - Check element li_234
+PASS - step 234
+STEP 235 - Check element a_235
+PASS - step 235
+STEP 236 - Check element li_236
+PASS - step 236
+STEP 237 - Check element a_237
+PASS - step 237
+STEP 238 - Check element li_238
+PASS - step 238
+STEP 239 - Check element a_239
+PASS - step 239
+STEP 240 - Check element li_240
+PASS - step 240
+STEP 241 - Check element a_241
+PASS - step 241
+STEP 242 - Check element li_242
+PASS - step 242
+STEP 243 - Check element a_243
+PASS - step 243
+STEP 244 - Check element div_244
+PASS - step 244
+STEP 245 - Check element mdn-dropdown_245
+PASS - step 245
+STEP 246 - Check element button_246
+PASS - step 246
+STEP 247 - Check element span_247
+PASS - step 247
+STEP 248 - Check element div_248
+PASS - step 248
+STEP 249 - Check element p_249
+PASS - step 249
+STEP 250 - Check element a_250
+PASS - step 250
+STEP 251 - Check element div_251
+PASS - step 251
+STEP 252 - Check element dl_252
+PASS - step 252
+STEP 253 - Check element dt_253
+PASS - step 253
+STEP 254 - Check element dd_254
+PASS - step 254
+STEP 255 - Check element ul_255
+PASS - step 255
+STEP 256 - Check element li_256
+PASS - step 256
+STEP 257 - Check element a_257
+PASS - step 257
+STEP 258 - Check element li_258
+PASS - step 258
+STEP 259 - Check element a_259
+PASS - step 259
+STEP 260 - Check element li_260
+PASS - step 260
+STEP 261 - Check element a_261
+PASS - step 261
+STEP 262 - Check element li_262
+PASS - step 262
+STEP 263 - Check element a_263
+PASS - step 263
+STEP 264 - Check element li_264
+PASS - step 264
+STEP 265 - Check element a_265
+PASS - step 265
+STEP 266 - Check element li_266
+PASS - step 266
+STEP 267 - Check element a_267
+PASS - step 267
+STEP 268 - Check element li_268
+PASS - step 268
+STEP 269 - Check element a_269
+PASS - step 269
+STEP 270 - Check element dl_270
+PASS - step 270
+STEP 271 - Check element dt_271
+PASS - step 271
+STEP 272 - Check element dd_272
+PASS - step 272
+STEP 273 - Check element ul_273
+PASS - step 273
+STEP 274 - Check element li_274
+PASS - step 274
+STEP 275 - Check element a_275
+PASS - step 275
+STEP 276 - Check element li_276
+PASS - step 276
+STEP 277 - Check element a_277
+PASS - step 277
+STEP 278 - Check element li_278
+PASS - step 278
+STEP 279 - Check element a_279
+PASS - step 279
+STEP 280 - Check element li_280
+PASS - step 280
+STEP 281 - Check element a_281
+PASS - step 281
+STEP 282 - Check element li_282
+PASS - step 282
+STEP 283 - Check element a_283
+PASS - step 283
+STEP 284 - Check element div_284
+PASS - step 284
+STEP 285 - Check element mdn-dropdown_285
+PASS - step 285
+STEP 286 - Check element button_286
+PASS - step 286
+STEP 287 - Check element span_287
+PASS - step 287
+STEP 288 - Check element div_288
+PASS - step 288
+STEP 289 - Check element p_289
+PASS - step 289
+STEP 290 - Check element a_290
+PASS - step 290
+STEP 291 - Check element div_291
+PASS - step 291
+STEP 292 - Check element dl_292
+PASS - step 292
+STEP 293 - Check element dt_293
+PASS - step 293
+STEP 294 - Check element dd_294
+PASS - step 294
+STEP 295 - Check element ul_295
+PASS - step 295
+STEP 296 - Check element li_296
+PASS - step 296
+STEP 297 - Check element a_297
+PASS - step 297
+STEP 298 - Check element li_298
+PASS - step 298
+STEP 299 - Check element a_299
+PASS - step 299
+STEP 300 - Check element li_300
+PASS - step 300
+STEP 301 - Check element a_301
+PASS - step 301
+STEP 302 - Check element dl_302
+PASS - step 302
+STEP 303 - Check element dt_303
+PASS - step 303
+STEP 304 - Check element dd_304
+PASS - step 304
+STEP 305 - Check element ul_305
+PASS - step 305
+STEP 306 - Check element li_306
+PASS - step 306
+STEP 307 - Check element a_307
+PASS - step 307
+STEP 308 - Check element dl_308
+PASS - step 308
+STEP 309 - Check element dt_309
+PASS - step 309
+STEP 310 - Check element dd_310
+PASS - step 310
+STEP 311 - Check element ul_311
+PASS - step 311
+STEP 312 - Check element li_312
+PASS - step 312
+STEP 313 - Check element a_313
+PASS - step 313
+STEP 314 - Check element li_314
+PASS - step 314
+STEP 315 - Check element a_315
+PASS - step 315
+STEP 316 - Check element dl_316
+PASS - step 316
+STEP 317 - Check element dt_317
+PASS - step 317
+STEP 318 - Check element dd_318
+PASS - step 318
+STEP 319 - Check element ul_319
+PASS - step 319
+STEP 320 - Check element li_320
+PASS - step 320
+STEP 321 - Check element a_321
+PASS - step 321
+STEP 322 - Check element div_322
+PASS - step 322
+STEP 323 - Check element mdn-dropdown_323
+PASS - step 323
+STEP 324 - Check element button_324
+PASS - step 324
+STEP 325 - Check element span_325
+PASS - step 325
+STEP 326 - Check element div_326
+PASS - step 326
+STEP 327 - Check element p_327
+PASS - step 327
+STEP 328 - Check element div_328
+PASS - step 328
+STEP 329 - Check element ul_329
+PASS - step 329
+STEP 330 - Check element li_330
+PASS - step 330
+STEP 331 - Check element a_331
+PASS - step 331
+STEP 332 - Check element li_332
+PASS - step 332
+STEP 333 - Check element a_333
+PASS - step 333
+STEP 334 - Check element ul_334
+PASS - step 334
+STEP 335 - Check element li_335
+PASS - step 335
+STEP 336 - Check element a_336
+PASS - step 336
+STEP 337 - Check element li_337
+PASS - step 337
+STEP 338 - Check element a_338
+PASS - step 338
+STEP 339 - Check element li_339
+PASS - step 339
+STEP 340 - Check element a_340
+PASS - step 340
+STEP 341 - Check element li_341
+PASS - step 341
+STEP 342 - Check element a_342
+PASS - step 342
+STEP 343 - Check element li_343
+PASS - step 343
+STEP 344 - Check element a_344
+PASS - step 344
+STEP 345 - Check element li_345
+PASS - step 345
+STEP 346 - Check element a_346
+PASS - step 346
+STEP 347 - Check element div_347
+PASS - step 347
+STEP 348 - Check element mdn-dropdown_348
+PASS - step 348
+STEP 349 - Check element button_349
+PASS - step 349
+STEP 350 - Check element span_350
+PASS - step 350
+STEP 351 - Check element div_351
+PASS - step 351
+STEP 352 - Check element p_352
+PASS - step 352
+STEP 353 - Check element div_353
+PASS - step 353
+STEP 354 - Check element ul_354
+PASS - step 354
+STEP 355 - Check element li_355
+PASS - step 355
+STEP 356 - Check element a_356
+PASS - step 356
+STEP 357 - Check element li_357
+PASS - step 357
+STEP 358 - Check element a_358
+PASS - step 358
+STEP 359 - Check element ul_359
+PASS - step 359
+STEP 360 - Check element li_360
+PASS - step 360
+STEP 361 - Check element a_361
+PASS - step 361
+STEP 362 - Check element li_362
+PASS - step 362
+STEP 363 - Check element a_363
+PASS - step 363
+STEP 364 - Check element div_364
+PASS - step 364
+STEP 365 - Check element a_365
+PASS - step 365
+STEP 366 - Check element div_366
+PASS - step 366
+STEP 367 - Check element mdn-search-button_367
+PASS - step 367
+STEP 368 - Check element mdn-user-menu_368
+PASS - step 368
+STEP 369 - Check element mdn-search-modal_369
+PASS - step 369
+STEP 370 - Check element div_370
+PASS - step 370
+STEP 371 - Check element ol_371
+PASS - step 371
+STEP 372 - Check element li_372
+PASS - step 372
+STEP 373 - Check element a_373
+PASS - step 373
+STEP 374 - Check element span_374
+PASS - step 374
+STEP 375 - Check element meta_375
+PASS - step 375
+STEP 376 - Check element mdn-color-theme_376
+PASS - step 376
+STEP 377 - Check element mdn-language-switcher_377
+PASS - step 377
+STEP 378 - Check element div_378
+PASS - step 378
+STEP 379 - Check element div_379
+PASS - step 379
+STEP 380 - Check element div_380
+PASS - step 380
+STEP 381 - Check element div_381
+PASS - step 381
+STEP 382 - Check element section_382
+PASS - step 382
+STEP 383 - Check element h1_383
+PASS - step 383
+STEP 384 - Check element br_384
+PASS - step 384
+STEP 385 - Check element p_385
+PASS - step 385
+STEP 386 - Check element a_386
+PASS - step 386
+STEP 387 - Check element a_387
+PASS - step 387
+STEP 388 - Check element a_388
+PASS - step 388
+STEP 389 - Check element div_389
+PASS - step 389
+STEP 390 - Check element mdn-homepage-search_390
+PASS - step 390
+STEP 391 - Check element div_391
+PASS - step 391
+STEP 392 - Check element div_392
+PASS - step 392
+STEP 393 - Check element svg_393
+PASS - step 393
+STEP 394 - Check element title_394
+PASS - step 394
+STEP 395 - Check element defs_395
+PASS - step 395
+STEP 396 - Check element path_396
+PASS - step 396
+STEP 397 - Check element path_397
+PASS - step 397
+STEP 398 - Check element path_398
+PASS - step 398
+STEP 399 - Check element path_399
+PASS - step 399
+STEP 400 - Check element path_400
+PASS - step 400
+STEP 401 - Check element text_401
+PASS - step 401
+STEP 402 - Check element textpath_402
+ERROR - step 402: Message: no such element: Unable to locate element: {"method":"tag name","selector":"textpath"}
+  (Session info: chrome=143.0.7499.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65d448245
+	0x7ff65d4482a0
+	0x7ff65d22165d
+	0x7ff65d279a33
+	0x7ff65d279d3c
+	0x7ff65d2cdf67
+	0x7ff65d2cac97
+	0x7ff65d26ac29
+	0x7ff65d26ba93
+	0x7ff65d75ffe0
+	0x7ff65d75a920
+	0x7ff65d779086
+	0x7ff65d465744
+	0x7ff65d46e6ec
+	0x7ff65d451964
+	0x7ff65d451b15
+	0x7ff65d437842
+	0x7ff8a52a7374
+	0x7ff8a6edcc91
+
+STEP 403 - Check element tspan_403
+PASS - step 403
+STEP 404 - Check element tspan_404
+PASS - step 404
+STEP 405 - Check element tspan_405
+PASS - step 405
+STEP 406 - Check element tspan_406
+PASS - step 406
+STEP 407 - Check element tspan_407
+PASS - step 407
+STEP 408 - Check element tspan_408
+PASS - step 408
+STEP 409 - Check element tspan_409
+PASS - step 409
+STEP 410 - Check element tspan_410
+PASS - step 410
+STEP 411 - Check element tspan_411
+PASS - step 411
+STEP 412 - Check element tspan_412
+PASS - step 412
+STEP 413 - Check element tspan_413
+PASS - step 413
+STEP 414 - Check element tspan_414
+PASS - step 414
+STEP 415 - Check element tspan_415
+PASS - step 415
+STEP 416 - Check element tspan_416
+PASS - step 416
+STEP 417 - Check element tspan_417
+PASS - step 417
+STEP 418 - Check element tspan_418
+PASS - step 418
+STEP 419 - Check element tspan_419
+PASS - step 419
+STEP 420 - Check element tspan_420
+PASS - step 420
+STEP 421 - Check element tspan_421
+PASS - step 421
+STEP 422 - Check element tspan_422
+PASS - step 422
+STEP 423 - Check element tspan_423
+PASS - step 423
+STEP 424 - Check element tspan_424
+PASS - step 424
+STEP 425 - Check element tspan_425
+PASS - step 425
+STEP 426 - Check element tspan_426
+PASS - step 426
+STEP 427 - Check element tspan_427
+PASS - step 427
+STEP 428 - Check element tspan_428
+PASS - step 428
+STEP 429 - Check element tspan_429
+PASS - step 429
+STEP 430 - Check element tspan_430
+PASS - step 430
+STEP 431 - Check element tspan_431
+PASS - step 431
+STEP 432 - Check element tspan_432
+PASS - step 432
+STEP 433 - Check element tspan_433
+PASS - step 433
+STEP 434 - Check element tspan_434
+PASS - step 434
+STEP 435 - Check element tspan_435
+PASS - step 435
+STEP 436 - Check element tspan_436
+PASS - step 436
+STEP 437 - Check element tspan_437
+PASS - step 437
+STEP 438 - Check element tspan_438
+PASS - step 438
+STEP 439 - Check element tspan_439
+PASS - step 439
+STEP 440 - Check element tspan_440
+PASS - step 440
+STEP 441 - Check element tspan_441
+PASS - step 441
+STEP 442 - Check element tspan_442
+PASS - step 442
+STEP 443 - Check element tspan_443
+PASS - step 443
+STEP 444 - Check element tspan_444
+PASS - step 444
+STEP 445 - Check element text_445
+PASS - step 445
+STEP 446 - Check element textpath_446
+ERROR - step 446: Message: no such element: Unable to locate element: {"method":"tag name","selector":"textpath"}
+  (Session info: chrome=143.0.7499.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65d448245
+	0x7ff65d4482a0
+	0x7ff65d22165d
+	0x7ff65d279a33
+	0x7ff65d279d3c
+	0x7ff65d2cdf67
+	0x7ff65d2cac97
+	0x7ff65d26ac29
+	0x7ff65d26ba93
+	0x7ff65d75ffe0
+	0x7ff65d75a920
+	0x7ff65d779086
+	0x7ff65d465744
+	0x7ff65d46e6ec
+	0x7ff65d451964
+	0x7ff65d451b15
+	0x7ff65d437842
+	0x7ff8a52a7374
+	0x7ff8a6edcc91
+
+STEP 447 - Check element tspan_447
+PASS - step 447
+STEP 448 - Check element tspan_448
+PASS - step 448
+STEP 449 - Check element tspan_449
+PASS - step 449
+STEP 450 - Check element tspan_450
+PASS - step 450
+STEP 451 - Check element tspan_451
+PASS - step 451
+STEP 452 - Check element tspan_452
+PASS - step 452
+STEP 453 - Check element tspan_453
+PASS - step 453
+STEP 454 - Check element tspan_454
+PASS - step 454
+STEP 455 - Check element tspan_455
+PASS - step 455
+STEP 456 - Check element tspan_456
+PASS - step 456
+STEP 457 - Check element tspan_457
+PASS - step 457
+STEP 458 - Check element tspan_458
+PASS - step 458
+STEP 459 - Check element tspan_459
+PASS - step 459
+STEP 460 - Check element tspan_460
+PASS - step 460
+STEP 461 - Check element tspan_461
+PASS - step 461
+STEP 462 - Check element tspan_462
+PASS - step 462
+STEP 463 - Check element tspan_463
+PASS - step 463
+STEP 464 - Check element tspan_464
+PASS - step 464
+STEP 465 - Check element tspan_465
+PASS - step 465
+STEP 466 - Check element tspan_466
+PASS - step 466
+STEP 467 - Check element tspan_467
+PASS - step 467
+STEP 468 - Check element text_468
+PASS - step 468
+STEP 469 - Check element textpath_469
+ERROR - step 469: Message: no such element: Unable to locate element: {"method":"tag name","selector":"textpath"}
+  (Session info: chrome=143.0.7499.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65d448245
+	0x7ff65d4482a0
+	0x7ff65d22165d
+	0x7ff65d279a33
+	0x7ff65d279d3c
+	0x7ff65d2cdf67
+	0x7ff65d2cac97
+	0x7ff65d26ac29
+	0x7ff65d26ba93
+	0x7ff65d75ffe0
+	0x7ff65d75a920
+	0x7ff65d779086
+	0x7ff65d465744
+	0x7ff65d46e6ec
+	0x7ff65d451964
+	0x7ff65d451b15
+	0x7ff65d437842
+	0x7ff8a52a7374
+	0x7ff8a6edcc91
+
+STEP 470 - Check element tspan_470
+PASS - step 470
+STEP 471 - Check element tspan_471
+PASS - step 471
+STEP 472 - Check element tspan_472
+PASS - step 472
+STEP 473 - Check element tspan_473
+PASS - step 473
+STEP 474 - Check element tspan_474
+PASS - step 474
+STEP 475 - Check element tspan_475
+PASS - step 475
+STEP 476 - Check element tspan_476
+PASS - step 476
+STEP 477 - Check element tspan_477
+PASS - step 477
+STEP 478 - Check element tspan_478
+PASS - step 478
+STEP 479 - Check element tspan_479
+PASS - step 479
+STEP 480 - Check element tspan_480
+PASS - step 480
+STEP 481 - Check element tspan_481
+PASS - step 481
+STEP 482 - Check element tspan_482
+PASS - step 482
+STEP 483 - Check element tspan_483
+PASS - step 483
+STEP 484 - Check element tspan_484
+PASS - step 484
+STEP 485 - Check element tspan_485
+PASS - step 485
+STEP 486 - Check element tspan_486
+PASS - step 486
+STEP 487 - Check element tspan_487
+PASS - step 487
+STEP 488 - Check element tspan_488
+PASS - step 488
+STEP 489 - Check element tspan_489
+PASS - step 489
+STEP 490 - Check element tspan_490
+PASS - step 490
+STEP 491 - Check element tspan_491
+PASS - step 491
+STEP 492 - Check element tspan_492
+PASS - step 492
+STEP 493 - Check element tspan_493
+PASS - step 493
+STEP 494 - Check element text_494
+PASS - step 494
+STEP 495 - Check element textpath_495
+ERROR - step 495: Message: no such element: Unable to locate element: {"method":"tag name","selector":"textpath"}
+  (Session info: chrome=143.0.7499.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65d448245
+	0x7ff65d4482a0
+	0x7ff65d22165d
+	0x7ff65d279a33
+	0x7ff65d279d3c
+	0x7ff65d2cdf67
+	0x7ff65d2cac97
+	0x7ff65d26ac29
+	0x7ff65d26ba93
+	0x7ff65d75ffe0
+	0x7ff65d75a920
+	0x7ff65d779086
+	0x7ff65d465744
+	0x7ff65d46e6ec
+	0x7ff65d451964
+	0x7ff65d451b15
+	0x7ff65d437842
+	0x7ff8a52a7374
+	0x7ff8a6edcc91
+
+STEP 496 - Check element text_496
+PASS - step 496
+STEP 497 - Check element textpath_497
+ERROR - step 497: Message: no such element: Unable to locate element: {"method":"tag name","selector":"textpath"}
+  (Session info: chrome=143.0.7499.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65d448245
+	0x7ff65d4482a0
+	0x7ff65d22165d
+	0x7ff65d279a33
+	0x7ff65d279d3c
+	0x7ff65d2cdf67
+	0x7ff65d2cac97
+	0x7ff65d26ac29
+	0x7ff65d26ba93
+	0x7ff65d75ffe0
+	0x7ff65d75a920
+	0x7ff65d779086
+	0x7ff65d465744
+	0x7ff65d46e6ec
+	0x7ff65d451964
+	0x7ff65d451b15
+	0x7ff65d437842
+	0x7ff8a52a7374
+	0x7ff8a6edcc91
+
+STEP 498 - Check element tspan_498
+PASS - step 498
+STEP 499 - Check element tspan_499
+PASS - step 499
+STEP 500 - Check element tspan_500
+PASS - step 500
+STEP 501 - Check element tspan_501
+PASS - step 501
+STEP 502 - Check element tspan_502
+PASS - step 502
+STEP 503 - Check element tspan_503
+PASS - step 503
+STEP 504 - Check element tspan_504
+PASS - step 504
+STEP 505 - Check element tspan_505
+PASS - step 505
+STEP 506 - Check element tspan_506
+PASS - step 506
+STEP 507 - Check element tspan_507
+PASS - step 507
+STEP 508 - Check element tspan_508
+PASS - step 508
+STEP 509 - Check element tspan_509
+PASS - step 509
+STEP 510 - Check element tspan_510
+PASS - step 510
+STEP 511 - Check element tspan_511
+PASS - step 511
+STEP 512 - Check element tspan_512
+PASS - step 512
+STEP 513 - Check element tspan_513
+PASS - step 513
+STEP 514 - Check element div_514
+PASS - step 514
+STEP 515 - Check element mdn-placement-hp-main_515
+PASS - step 515
+STEP 516 - Check element div_516
+PASS - step 516
+STEP 517 - Check element section_517
+PASS - step 517
+STEP 518 - Check element h2_518
+PASS - step 518
+STEP 519 - Check element ul_519
+PASS - step 519
+STEP 520 - Check element li_520
+PASS - step 520
+STEP 521 - Check element article_521
+PASS - step 521
+STEP 522 - Check element a_522
+PASS - step 522
+STEP 523 - Check element h3_523
+PASS - step 523
+STEP 524 - Check element a_524
+PASS - step 524
+STEP 525 - Check element p_525
+PASS - step 525
+STEP 526 - Check element li_526
+PASS - step 526
+STEP 527 - Check element article_527
+PASS - step 527
+STEP 528 - Check element a_528
+PASS - step 528
+STEP 529 - Check element h3_529
+PASS - step 529
+STEP 530 - Check element a_530
+PASS - step 530
+STEP 531 - Check element p_531
+PASS - step 531
+STEP 532 - Check element li_532
+PASS - step 532
+STEP 533 - Check element article_533
+PASS - step 533
+STEP 534 - Check element a_534
+PASS - step 534
+STEP 535 - Check element h3_535
+PASS - step 535
+STEP 536 - Check element a_536
+PASS - step 536
+STEP 537 - Check element p_537
+PASS - step 537
+STEP 538 - Check element li_538
+PASS - step 538
+STEP 539 - Check element article_539
+PASS - step 539
+STEP 540 - Check element a_540
+PASS - step 540
+STEP 541 - Check element h3_541
+PASS - step 541
+STEP 542 - Check element a_542
+PASS - step 542
+STEP 543 - Check element p_543
+PASS - step 543
+STEP 544 - Check element section_544
+PASS - step 544
+STEP 545 - Check element h2_545
+PASS - step 545
+STEP 546 - Check element ul_546
+PASS - step 546
+STEP 547 - Check element li_547
+PASS - step 547
+STEP 548 - Check element article_548
+PASS - step 548
+STEP 549 - Check element a_549
+PASS - step 549
+STEP 550 - Check element h3_550
+PASS - step 550
+STEP 551 - Check element a_551
+PASS - step 551
+STEP 552 - Check element time_552
+PASS - step 552
+STEP 553 - Check element p_553
+PASS - step 553
+STEP 554 - Check element li_554
+PASS - step 554
+STEP 555 - Check element article_555
+PASS - step 555
+STEP 556 - Check element a_556
+PASS - step 556
+STEP 557 - Check element h3_557
+PASS - step 557
+STEP 558 - Check element a_558
+PASS - step 558
+STEP 559 - Check element time_559
+PASS - step 559
+STEP 560 - Check element p_560
+PASS - step 560
+STEP 561 - Check element li_561
+PASS - step 561
+STEP 562 - Check element article_562
+PASS - step 562
+STEP 563 - Check element a_563
+PASS - step 563
+STEP 564 - Check element h3_564
+PASS - step 564
+STEP 565 - Check element a_565
+PASS - step 565
+STEP 566 - Check element time_566
+PASS - step 566
+STEP 567 - Check element p_567
+PASS - step 567
+STEP 568 - Check element li_568
+PASS - step 568
+STEP 569 - Check element article_569
+PASS - step 569
+STEP 570 - Check element a_570
+PASS - step 570
+STEP 571 - Check element h3_571
+PASS - step 571
+STEP 572 - Check element a_572
+PASS - step 572
+STEP 573 - Check element time_573
+PASS - step 573
+STEP 574 - Check element p_574
+PASS - step 574
+STEP 575 - Check element section_575
+PASS - step 575
+STEP 576 - Check element h2_576
+PASS - step 576
+STEP 577 - Check element ul_577
+PASS - step 577
+STEP 578 - Check element li_578
+PASS - step 578
+STEP 579 - Check element span_579
+PASS - step 579
+STEP 580 - Check element a_580
+PASS - step 580
+STEP 581 - Check element time_581
+PASS - step 581
+STEP 582 - Check element div_582
+PASS - step 582
+STEP 583 - Check element a_583
+PASS - step 583
+STEP 584 - Check element li_584
+PASS - step 584
+STEP 585 - Check element span_585
+PASS - step 585
+STEP 586 - Check element a_586
+PASS - step 586
+STEP 587 - Check element time_587
+PASS - step 587
+STEP 588 - Check element div_588
+PASS - step 588
+STEP 589 - Check element a_589
+PASS - step 589
+STEP 590 - Check element li_590
+PASS - step 590
+STEP 591 - Check element span_591
+PASS - step 591
+STEP 592 - Check element a_592
+PASS - step 592
+STEP 593 - Check element time_593
+PASS - step 593
+STEP 594 - Check element div_594
+PASS - step 594
+STEP 595 - Check element a_595
+PASS - step 595
+STEP 596 - Check element li_596
+PASS - step 596
+STEP 597 - Check element span_597
+PASS - step 597
+STEP 598 - Check element a_598
+PASS - step 598
+STEP 599 - Check element time_599
+PASS - step 599
+STEP 600 - Check element div_600
+PASS - step 600
+STEP 601 - Check element a_601
+PASS - step 601
+STEP 602 - Check element li_602
+PASS - step 602
+STEP 603 - Check element span_603
+PASS - step 603
+STEP 604 - Check element a_604
+PASS - step 604
+STEP 605 - Check element time_605
+PASS - step 605
+STEP 606 - Check element div_606
+PASS - step 606
+STEP 607 - Check element a_607
+PASS - step 607
+STEP 608 - Check element li_608
+PASS - step 608
+STEP 609 - Check element span_609
+PASS - step 609
+STEP 610 - Check element a_610
+PASS - step 610
+STEP 611 - Check element time_611
+PASS - step 611
+STEP 612 - Check element div_612
+PASS - step 612
+STEP 613 - Check element a_613
+PASS - step 613
+STEP 614 - Check element li_614
+PASS - step 614
+STEP 615 - Check element span_615
+PASS - step 615
+STEP 616 - Check element a_616
+PASS - step 616
+STEP 617 - Check element time_617
+PASS - step 617
+STEP 618 - Check element div_618
+PASS - step 618
+STEP 619 - Check element a_619
+PASS - step 619
+STEP 620 - Check element li_620
+PASS - step 620
+STEP 621 - Check element span_621
+PASS - step 621
+STEP 622 - Check element a_622
+PASS - step 622
+STEP 623 - Check element time_623
+PASS - step 623
+STEP 624 - Check element div_624
+PASS - step 624
+STEP 625 - Check element a_625
+PASS - step 625
+STEP 626 - Check element li_626
+PASS - step 626
+STEP 627 - Check element span_627
+PASS - step 627
+STEP 628 - Check element a_628
+PASS - step 628
+STEP 629 - Check element time_629
+PASS - step 629
+STEP 630 - Check element div_630
+PASS - step 630
+STEP 631 - Check element a_631
+PASS - step 631
+STEP 632 - Check element li_632
+PASS - step 632
+STEP 633 - Check element span_633
+PASS - step 633
+STEP 634 - Check element a_634
+PASS - step 634
+STEP 635 - Check element time_635
+PASS - step 635
+STEP 636 - Check element div_636
+PASS - step 636
+STEP 637 - Check element a_637
+PASS - step 637
+STEP 638 - Check element div_638
+PASS - step 638
+STEP 639 - Check element div_639
+PASS - step 639
+STEP 640 - Check element section_640
+PASS - step 640
+STEP 641 - Check element div_641
+PASS - step 641
+STEP 642 - Check element h2_642
+PASS - step 642
+STEP 643 - Check element a_643
+PASS - step 643
+STEP 644 - Check element blockquote_644
+PASS - step 644
+STEP 645 - Check element a_645
+PASS - step 645
+STEP 646 - Check element span_646
+PASS - step 646
+STEP 647 - Check element span_647
+PASS - step 647
+STEP 648 - Check element svg_648
+PASS - step 648
+STEP 649 - Check element path_649
+PASS - step 649
+STEP 650 - Check element figure_650
+PASS - step 650
+STEP 651 - Check element img_651
+PASS - step 651
+STEP 652 - Check element div_652
+PASS - step 652
+STEP 653 - Check element mdn-placement-bottom_653
+PASS - step 653
+STEP 654 - Check element footer_654
+PASS - step 654
+STEP 655 - Check element div_655
+PASS - step 655
+STEP 656 - Check element div_656
+PASS - step 656
+STEP 657 - Check element a_657
+PASS - step 657
+STEP 658 - Check element svg_658
+PASS - step 658
+STEP 659 - Check element path_659
+PASS - step 659
+STEP 660 - Check element p_660
+PASS - step 660
+STEP 661 - Check element ul_661
+PASS - step 661
+STEP 662 - Check element li_662
+PASS - step 662
+STEP 663 - Check element a_663
+PASS - step 663
+STEP 664 - Check element li_664
+PASS - step 664
+STEP 665 - Check element a_665
+PASS - step 665
+STEP 666 - Check element li_666
+PASS - step 666
+STEP 667 - Check element a_667
+PASS - step 667
+STEP 668 - Check element li_668
+PASS - step 668
+STEP 669 - Check element a_669
+PASS - step 669
+STEP 670 - Check element li_670
+PASS - step 670
+STEP 671 - Check element a_671
+PASS - step 671
+STEP 672 - Check element dl_672
+PASS - step 672
+STEP 673 - Check element dt_673
+PASS - step 673
+STEP 674 - Check element dd_674
+PASS - step 674
+STEP 675 - Check element ul_675
+PASS - step 675
+STEP 676 - Check element li_676
+PASS - step 676
+STEP 677 - Check element a_677
+PASS - step 677
+STEP 678 - Check element li_678
+PASS - step 678
+STEP 679 - Check element a_679
+PASS - step 679
+STEP 680 - Check element li_680
+PASS - step 680
+STEP 681 - Check element a_681
+PASS - step 681
+STEP 682 - Check element li_682
+PASS - step 682
+STEP 683 - Check element a_683
+PASS - step 683
+STEP 684 - Check element li_684
+PASS - step 684
+STEP 685 - Check element a_685
+PASS - step 685
+STEP 686 - Check element li_686
+PASS - step 686
+STEP 687 - Check element a_687
+PASS - step 687
+STEP 688 - Check element dl_688
+PASS - step 688
+STEP 689 - Check element dt_689
+PASS - step 689
+STEP 690 - Check element dd_690
+PASS - step 690
+STEP 691 - Check element ul_691
+PASS - step 691
+STEP 692 - Check element li_692
+PASS - step 692
+STEP 693 - Check element a_693
+PASS - step 693
+STEP 694 - Check element li_694
+PASS - step 694
+STEP 695 - Check element a_695
+PASS - step 695
+STEP 696 - Check element li_696
+PASS - step 696
+STEP 697 - Check element a_697
+PASS - step 697
+STEP 698 - Check element li_698
+PASS - step 698
+STEP 699 - Check element a_699
+PASS - step 699
+STEP 700 - Check element li_700
+PASS - step 700
+STEP 701 - Check element a_701
+PASS - step 701
+STEP 702 - Check element dl_702
+PASS - step 702
+STEP 703 - Check element dt_703
+PASS - step 703
+STEP 704 - Check element dd_704
+PASS - step 704
+STEP 705 - Check element ul_705
+PASS - step 705
+STEP 706 - Check element li_706
+PASS - step 706
+STEP 707 - Check element a_707
+PASS - step 707
+STEP 708 - Check element li_708
+PASS - step 708
+STEP 709 - Check element a_709
+PASS - step 709
+STEP 710 - Check element li_710
+PASS - step 710
+STEP 711 - Check element a_711
+PASS - step 711
+STEP 712 - Check element li_712
+PASS - step 712
+STEP 713 - Check element a_713
+PASS - step 713
+STEP 714 - Check element li_714
+PASS - step 714
+STEP 715 - Check element a_715
+PASS - step 715
+STEP 716 - Check element li_716
+PASS - step 716
+STEP 717 - Check element a_717
+PASS - step 717
+STEP 718 - Check element div_718
+PASS - step 718
+STEP 719 - Check element a_719
+PASS - step 719
+STEP 720 - Check element svg_720
+PASS - step 720
+STEP 721 - Check element path_721
+PASS - step 721
+STEP 722 - Check element ul_722
+PASS - step 722
+STEP 723 - Check element li_723
+PASS - step 723
+STEP 724 - Check element a_724
+PASS - step 724
+STEP 725 - Check element li_725
+PASS - step 725
+STEP 726 - Check element a_726
+PASS - step 726
+STEP 727 - Check element li_727
+PASS - step 727
+STEP 728 - Check element a_728
+PASS - step 728
+STEP 729 - Check element li_729
+PASS - step 729
+STEP 730 - Check element a_730
+PASS - step 730
+STEP 731 - Check element p_731
+PASS - step 731
+STEP 732 - Check element a_732
+PASS - step 732
+STEP 733 - Check element a_733
+PASS - step 733
+STEP 734 - Check element br_734
+PASS - step 734
+STEP 735 - Check element a_735
+PASS - step 735

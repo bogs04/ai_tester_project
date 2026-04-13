@@ -1,0 +1,907 @@
+<html lang="en-US" class="js ishttps retina w11ready" style="--u30scrollbar-width: 15px;"><!-- start : Framework/HomePage --><!-- start : ocom/common/global/components/framework/head --><head><style>@keyframes scale-in-center{0%{opacity:1;transform:scale(0)}100%{opacity:1;transform:scale(1)}}@keyframes scale-out-center{0%{display:flex;opacity:1;transform:scale(1)}100%{display:none;opacity:1;transform:scale(0)}}@keyframes scale-in-br{0%{opacity:1;transform:scale(0);transform-origin:100% 100%}100%{opacity:1;transform:scale(1);transform-origin:100% 100%}}@keyframes scale-in-bl{0%{opacity:1;transform:scale(0);transform-origin:0 100%}100%{opacity:1;transform:scale(1);transform-origin:0 100%}}@keyframes scale-in-tl{0%{opacity:1;transform:scale(0);transform-origin:0 0}100%{opacity:1;transform:scale(1);transform-origin:0 0}}@keyframes scale-in-tr{0%{opacity:1;transform:scale(0);transform-origin:100% 0}100%{opacity:1;transform:scale(1);transform-origin:100% 0}}@keyframes scale-out-br{0%{opacity:1;transform:scale(1);transform-origin:100% 100%}99%{opacity:1;transform:scale(0.01);transform-origin:100% 100%}100%{display:none;opacity:1;transform:scale(0);transform-origin:100% 100%}}@keyframes scale-out-bl{0%{opacity:1;transform:scale(1);transform-origin:0 100%}99%{opacity:1;transform:scale(0.01);transform-origin:0 100%}100%{display:none;opacity:1;transform:scale(0);transform-origin:0 100%}}@keyframes popup-suggestion{0%{box-shadow:0 0 0 0 rgba(0,0,0,0),0 0 0 0 rgba(0,0,0,0);transform:scaleY(0.4);transform-origin:0 100%}100%{box-shadow:0 -12px 15px -12px rgba(0,0,0,.35);transform:scaleY(1);transform-origin:0 100%}}@keyframes spin{from{transform:rotate(0)}to{transform:rotate(360deg)}}@keyframes banner-in{0%{transform:translateY(-20px);opacity:0}100%{transform:translateY(0);opacity:1}}@keyframes banner-out{0%{transform:translateY(0);opacity:1}100%{transform:translateY(-20px);opacity:0}}@keyframes typing-cue{0%{opacity:1}30%{opacity:.1}50%{opacity:1}100%{opacity:.1}}@keyframes oda-chat-webview-slide-out-bottom{0%{transform:translateY(0);opacity:1}95%{opacity:1}100%{transform:translateY(100%);opacity:0}}@keyframes oda-chat-webview-slide-in-bottom{0%{transform:translateY(100%);opacity:0}1%{opacity:1}100%{transform:translateY(0%);opacity:1}}.oda-chat-flex{display:flex;justify-content:space-between;align-items:center}.oda-chat-col{flex-direction:column}.oda-chat-none{display:none}.oda-chat-wrapper{--color-branding: #c0533f;--color-launch-icon-background: #c0533f;--color-text: #161513;--color-text-light: #161513;--color-header-background: #312D2A;--color-header-button-fill: #161513;--color-header-text: #FFFFFF;--color-header-button-background-hover: rgba(22, 21, 19, 0.04);--color-header-button-fill-hover: #161513;--color-conversation-background: #201E1C;--color-timestamp: rgba(22, 21, 19, 0.65);--color-typing-indicator: #161513;--color-bot-message-background: #D4CFCA;--color-bot-text: #000000;--color-user-message-background: #FFFFFF;--color-user-text: #000000;--color-error-message-background: #FFF8F7;--color-error-border: #DC5C5E;--color-error-title: #D63B25;--color-error-text: #161513;--color-card-background: #FFFFFF;--color-card-nav-button: #FFF;--color-card-nav-button-focus: #FBF9F8;--color-card-nav-button-hover: #FBF9F8;--color-actions-background: #fff;--color-actions-background-focus: rgba(22, 21, 19, 0.04);--color-actions-background-hover: rgba(22, 21, 19, 0.04);--color-actions-border: rgba(22, 21, 19, 0.5);--color-actions-text: #161513;--color-actions-text-focus: #161513;--color-actions-text-hover: #161513;--color-global-actions-background: transparent;--color-global-actions-background-focus: rgba(22, 21, 19, 0.04);--color-global-actions-background-hover: rgba(22, 21, 19, 0.04);--color-global-actions-border: rgba(22, 21, 19, 0.5);--color-global-actions-text: #161513;--color-global-actions-text-focus: #161513;--color-global-actions-text-hover: #161513;--color-links: #00688C;--color-user-links: #c0533f;--color-rating-star: #ececec;--color-rating-star-fill: #f0cc71;--color-agent-initials: #FFFFFF;--color-agent-avatar-background: #A890B6;--color-agent-name: rgba(22, 21, 19, 0.65);--color-horizontal-rule-background: #cbc5bf;--color-attachment-placeholder: #e3e1dc;--color-attachment-footer: #fff;--color-attachment-text: #161513;--color-footer-background: #312D2A;--color-footer-button-fill: #312D2A;--color-footer-button-background-hover: rgba(22, 21, 19, 0.04);--color-footer-button-fill-hover: #161513;--color-input-background: #FFFFFF;--color-input-border: #fff;--color-input-text: #000000;--color-recognition-view-text: #fff;--color-visualizer: #161513;--color-visualizer-container-background: #fff;--color-notification-badge-background: #312d2a;--color-notification-badge-text: #fff;--color-popup-background: #fff;--color-popup-text: #161513;--color-popup-button-background: #fff;--color-popup-button-text: #161513;--color-popup-horizontal-rule: #cbc5bf;--color-popup-item-background-hover: rgba(22, 21, 19, 0.04);--color-popup-input-text: #161513;--color-popup-input-background: #fff;--color-popup-input-border: #161513;--color-popup-input-border-error: #f00;--color-table-header-background: #f1efec;--color-table-background: #fff;--color-table-text: #161513;--color-table-separator: rgba(22, 21, 19, 0.1);--color-row-item-background-hover: rgba(22, 21, 19, 0.04);--color-form-input-border: rgba(22, 21, 19, 0.5);--color-form-input-border-focus: rgb(14, 114, 151);--color-form-label: rgba(22, 21, 19, 0.65);--color-form-error: rgba(179,49,31);--color-form-error-text: rgba(22, 21, 19, 0.65);--color-form-actions-background-hover: rgba(22, 21, 19, 0.04);--color-form-actions-border: rgba(22, 21, 19, 0.5);--color-form-actions-text: #161513;--width-full-screen: 375px;--position-top: unset;--position-left: unset;--position-right: 20px;--position-bottom: 20px;position:fixed;bottom:var(--position-bottom);left:var(--position-left);top:var(--position-top);right:var(--position-right);box-sizing:border-box;text-transform:none;z-index:10000;color:var(--color-text);font-size:16px;font-family:"Oracle Sans",-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",sans-serif;transition:all .25s ease-in-out;-webkit-font-smoothing:antialiased}.oda-chat-wrapper.oda-chat-classic{--color-branding: #025e7e;--color-launch-icon-background: #025e7e;--color-text: #161513;--color-text-light: #3a3631;--color-header-background: #312D2A;--color-header-button-fill: #fff;--color-header-button-fill-hover: #fff;--color-header-text: #FFFFFF;--color-conversation-background: #201E1C;--color-timestamp: #5b5652;--color-typing-indicator: #227e9e;--color-bot-message-background: #D4CFCA;--color-user-message-background: #FFFFFF;--color-card-background: #e5f1ff;--color-card-nav-button: #4190ac;--color-card-nav-button-focus: #5fa2ba;--color-card-nav-button-hover: #0e7295;--color-actions-background: #025e7e;--color-actions-background-focus: #053242;--color-actions-background-hover: #06485f;--color-actions-border: #025e7e;--color-actions-text: #fff;--color-actions-text-focus: #fff;--color-actions-text-hover: #fff;--color-global-actions-background: #fff;--color-global-actions-background-focus: #053242;--color-global-actions-background-hover: #025e7e;--color-global-actions-border: #0e7295;--color-global-actions-text: #0e7295;--color-global-actions-text-focus: #fff;--color-global-actions-text-hover: #fff;--color-links: #00688C;--color-user-links: #0e7295;--color-agent-name: #5b5652;--color-attachment-footer: #e5f1ff;--color-footer-background: #312D2A;--color-footer-button-fill: #312D2A;--color-footer-button-fill-hover: #025e7e;--color-visualizer: #025e7e;--color-notification-badge-background: #9a0007;--color-notification-badge-text: #fff;--color-popup-button-text: #025e7e}.oda-chat-wrapper.oda-chat-redwood-dark{--color-branding: #c0533f;--color-launch-icon-background: #c0533f;--color-text: #161513;--color-text-light: #fcfbfa;--color-header-background: #312D2A;--color-header-button-fill: #fff;--color-header-button-fill-hover: #fff;--color-header-button-background-hover: rgba(255, 255, 255, 0.04);--color-header-text: #FFFFFF;--color-conversation-background: #201E1C;--color-timestamp: #fcfbfa;--color-typing-indicator: #fff;--color-bot-message-background: #D4CFCA;--color-bot-text: #000000;--color-user-message-background: #FFFFFF;--color-user-text: #000000;--color-card-background: #655f5c;--color-card-nav-button: #d5b364;--color-card-nav-button-focus: #f7e0a1;--color-card-nav-button-hover: #b39554;--color-actions-background: #655f5c;--color-actions-background-focus: rgba(22, 21, 19, 0.5);--color-actions-background-hover: rgba(22, 21, 19, 0.3);--color-actions-border: #fff;--color-actions-text: #fff;--color-actions-text-focus: #fff;--color-actions-text-hover: #fff;--color-global-actions-background: #3a3631;--color-global-actions-background-focus: rgba(22, 21, 19, 0.3);--color-global-actions-background-hover: rgba(22, 21, 19, 0.3);--color-global-actions-border: #fff;--color-global-actions-text: #fff;--color-global-actions-text-focus: #fff;--color-global-actions-text-hover: #fff;--color-links: #00688C;--color-user-links: #c0533f;--color-agent-name: #fcfbfa;--color-footer-background: #312D2A;--color-footer-button-fill: #312D2A;--color-input-background: #FFFFFF;--color-input-text: #000000;--color-recognition-view-text: #fff;--color-visualizer-container-background: #fff;--color-notification-badge-background: #312d2a;--color-notification-badge-text: #fff;--color-popup-button-text: #201e1c}.oda-chat-wrapper *{box-sizing:border-box}.oda-chat-wrapper b{font-weight:700}.oda-chat-wrapper .oda-chat-widget{position:absolute;bottom:calc(var(--position-bottom) * -1);border-radius:6px 6px 0 0;box-shadow:0px -4px 32px rgba(0,0,0,.1);right:calc(var(--position-right) * -1);width:100vw;max-width:100vw;height:85vh;max-height:calc(100vh - 60px);margin:0;overflow:hidden;text-decoration:none;text-transform:none;z-index:10000;align-items:stretch;background:var(--color-conversation-background)}.oda-chat-wrapper .oda-chat-widget .oda-chat-alert-wrapper{position:absolute;top:48px;width:100%}.oda-chat-wrapper .oda-chat-widget .oda-chat-alert-wrapper .oda-chat-alert-prompt{position:relative;left:0;right:0;width:auto;margin:6px;padding:10px;border-radius:10px;z-index:11}.oda-chat-wrapper .oda-chat-widget .oda-chat-msg-icon{padding:5px 10px 0 0}.oda-chat-wrapper .oda-chat-widget .oda-chat-msg{flex-grow:1}.oda-chat-wrapper button{position:relative;max-width:100%;padding:9px 16px;margin:0 0 8px;min-height:36px;line-height:16px;font-size:13.75px;font-weight:600;font-family:inherit;border-radius:4px;border-width:thin;border-style:solid;cursor:pointer;overflow:hidden;word-break:break-word;flex-shrink:0}.oda-chat-wrapper button:disabled{opacity:.5;cursor:not-allowed}.oda-chat-wrapper button.oda-chat-icon{width:36px;height:36px;padding:8px;margin:0;margin-inline-start:4px;border:none;border-radius:4px;color:var(--color-text);background-color:transparent;justify-content:center}.oda-chat-wrapper button.oda-chat-icon.oda-chat-with-label{width:auto;max-width:200px}.oda-chat-wrapper button.oda-chat-icon.oda-chat-with-label svg,.oda-chat-wrapper button.oda-chat-icon.oda-chat-with-label img{margin-right:4px}.oda-chat-wrapper button.oda-chat-icon.oda-chat-label-only{width:auto;max-width:200px}.oda-chat-wrapper button.oda-chat-icon.oda-chat-label-only svg,.oda-chat-wrapper button.oda-chat-icon.oda-chat-label-only img{display:none}.oda-chat-wrapper button svg,.oda-chat-wrapper button img{width:20px;height:20px;flex-shrink:0}.oda-chat-wrapper button .oda-chat-action-image{margin-inline-end:10px}.oda-chat-wrapper .oda-chat-button{position:absolute;right:0;bottom:0;height:48px;width:48px;max-width:unset;padding:0;margin:0;border:none;background-position:center center;background-repeat:no-repeat;cursor:pointer;justify-content:center;align-items:center;z-index:10000;color:var(--color-text);background-color:var(--color-launch-icon-background);border-radius:0;overflow:visible}.oda-chat-wrapper .oda-chat-button svg,.oda-chat-wrapper .oda-chat-button img{height:unset;width:unset;max-width:100%;max-height:100%}.oda-chat-wrapper .oda-chat-button:not(:disabled):hover,.oda-chat-wrapper .oda-chat-button:not(:disabled):focus,.oda-chat-wrapper .oda-chat-button:not(:disabled):active{background-color:var(--color-launch-icon-background)}@media screen and (min-width: 769px){.oda-chat-wrapper .oda-chat-button{height:64px;width:64px}}.oda-chat-wrapper .oda-chat-header{height:56px;padding:0 8px;background-color:var(--color-header-background);color:var(--color-header-text)}.oda-chat-wrapper .oda-chat-header .oda-chat-logo{flex:0 0 auto;max-width:100px;height:36px;max-height:36px;overflow:hidden;padding:0}.oda-chat-wrapper .oda-chat-header .oda-chat-header-info-wrapper{flex-direction:column;flex-wrap:nowrap;width:100%;min-width:0;padding:0;margin:0 8px}.oda-chat-wrapper .oda-chat-header .oda-chat-header-info-wrapper .oda-chat-title{max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:1.125em;font-weight:700}.oda-chat-wrapper .oda-chat-header .oda-chat-header-info-wrapper .oda-chat-subtitle{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.oda-chat-wrapper .oda-chat-header .oda-chat-header-info-wrapper .oda-chat-connection-status{font-weight:bold;font-size:10px;justify-content:center;padding:0;margin:0;text-transform:uppercase;text-overflow:ellipsis;white-space:nowrap;overflow:hidden}.oda-chat-wrapper .oda-chat-header .oda-chat-header-gap{flex:auto}.oda-chat-wrapper .oda-chat-header-actions{flex:1 0 auto;justify-content:flex-end;flex-direction:inherit}.oda-chat-wrapper .oda-chat-header-button svg>path{fill:var(--color-header-button-fill)}.oda-chat-wrapper .oda-chat-header-button:not(:disabled):hover,.oda-chat-wrapper .oda-chat-header-button:not(:disabled):focus{background-color:var(--color-header-button-background-hover)}.oda-chat-wrapper .oda-chat-header-button:not(:disabled):hover svg>path,.oda-chat-wrapper .oda-chat-header-button:not(:disabled):focus svg>path{fill:var(--color-header-button-fill-hover)}.oda-chat-wrapper .oda-chat-conversation{display:flex;flex:1;-webkit-box-orient:vertical;-webkit-box-direction:normal;flex-direction:column;overflow-x:hidden;overflow-y:auto;scroll-behavior:smooth;width:100%;padding:16px}.oda-chat-wrapper .oda-chat-conversation .oda-chat-conversation-pane .oda-chat-message-date,.oda-chat-wrapper .oda-chat-conversation .oda-chat-conversation-pane .oda-chat-relative-timestamp{font-size:12px;margin:8px 0 8px;color:var(--color-timestamp);text-align:start}.oda-chat-wrapper .oda-chat-conversation .oda-chat-conversation-pane .oda-chat-message-date.oda-chat-right,.oda-chat-wrapper .oda-chat-conversation .oda-chat-conversation-pane .oda-chat-relative-timestamp.oda-chat-right{text-align:end}.oda-chat-wrapper .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-bot-icon .oda-chat-message.oda-chat-card-message-horizontal{margin-inline-start:-56px}.oda-chat-wrapper .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-bot-icon .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-header,.oda-chat-wrapper .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-bot-icon .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-footer,.oda-chat-wrapper .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-bot-icon .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-global-actions{margin-inline-start:56px}.oda-chat-wrapper .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-bot-icon .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-card-message-content .oda-chat-card-message-cards{padding-inline-start:56px}.oda-chat-wrapper .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-bot-icon .oda-chat-relative-timestamp.oda-chat-left{margin-inline-start:40px}.oda-chat-wrapper .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-user-icon .oda-chat-relative-timestamp.oda-chat-right{margin-inline-end:40px}.oda-chat-wrapper .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper,.oda-chat-wrapper .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-user-icon .oda-chat-message-block .oda-chat-messages-wrapper{max-width:calc(0.9 * (100% - 40px))}.oda-chat-wrapper .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-header,.oda-chat-wrapper .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-footer,.oda-chat-wrapper .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-global-actions,.oda-chat-wrapper .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-user-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-header,.oda-chat-wrapper .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-user-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-footer,.oda-chat-wrapper .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-user-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-global-actions{max-width:calc(0.9 * (100% - 72px))}.oda-chat-wrapper .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-user-icon.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper{max-width:calc(0.9 * (100% - 80px))}.oda-chat-wrapper .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-user-icon.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-header,.oda-chat-wrapper .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-user-icon.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-footer,.oda-chat-wrapper .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-user-icon.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-global-actions{max-width:calc(0.9 * (100% - 112px))}.oda-chat-wrapper .oda-chat-timestamp-header{text-align:center;font-size:12px;font-weight:700;color:var(--color-timestamp);margin:16px 0}.oda-chat-wrapper .oda-chat-hr{margin:24px 0;font-size:12px;color:var(--color-horizontal-rule-background)}.oda-chat-wrapper .oda-chat-hr:before{content:"";background-color:var(--color-horizontal-rule-background);height:1px;flex-grow:1;margin-right:10px}.oda-chat-wrapper .oda-chat-hr:after{content:"";background-color:var(--color-horizontal-rule-background);height:1px;flex-grow:1;margin-left:10px}.oda-chat-wrapper .oda-chat-card-actions,.oda-chat-wrapper .oda-chat-form-actions,.oda-chat-wrapper .oda-chat-message-actions,.oda-chat-wrapper .oda-chat-message-global-actions{margin-top:6px;display:flex;align-items:flex-start;justify-content:flex-start;flex-wrap:wrap}.oda-chat-wrapper .oda-chat-card-actions.oda-chat-form-message-actions-col,.oda-chat-wrapper .oda-chat-form-actions.oda-chat-form-message-actions-col,.oda-chat-wrapper .oda-chat-message-actions.oda-chat-form-message-actions-col,.oda-chat-wrapper .oda-chat-message-global-actions.oda-chat-form-message-actions-col{flex-basis:100%;max-width:100%}.oda-chat-wrapper .oda-chat-card-actions:not(.oda-chat-col) .oda-chat-action-postback,.oda-chat-wrapper .oda-chat-form-actions:not(.oda-chat-col) .oda-chat-action-postback,.oda-chat-wrapper .oda-chat-message-actions:not(.oda-chat-col) .oda-chat-action-postback,.oda-chat-wrapper .oda-chat-message-global-actions:not(.oda-chat-col) .oda-chat-action-postback{margin-right:8px}.oda-chat-wrapper .oda-chat-card-actions:not(.oda-chat-col) .oda-chat-action-postback:last-child,.oda-chat-wrapper .oda-chat-form-actions:not(.oda-chat-col) .oda-chat-action-postback:last-child,.oda-chat-wrapper .oda-chat-message-actions:not(.oda-chat-col) .oda-chat-action-postback:last-child,.oda-chat-wrapper .oda-chat-message-global-actions:not(.oda-chat-col) .oda-chat-action-postback:last-child{margin-right:0}.oda-chat-wrapper .oda-chat-action-postback{background:var(--color-actions-background);color:var(--color-actions-text);border-color:var(--color-actions-border);text-align:left}.oda-chat-wrapper .oda-chat-action-postback:not(:disabled):hover{color:var(--color-actions-text-hover);background-color:var(--color-actions-background-hover)}.oda-chat-wrapper .oda-chat-action-postback:not(:disabled):hover svg>path{fill:var(--color-actions-text-hover)}.oda-chat-wrapper .oda-chat-action-postback:not(:disabled):focus,.oda-chat-wrapper .oda-chat-action-postback:not(:disabled):active{background-color:var(--color-actions-background-focus);color:var(--color-actions-text-focus)}.oda-chat-wrapper .oda-chat-action-postback:not(:disabled):focus svg>path,.oda-chat-wrapper .oda-chat-action-postback:not(:disabled):active svg>path{fill:var(--color-actions-text-focus)}.oda-chat-wrapper .oda-chat-form-actions .oda-chat-action-postback{background:transparent;color:var(--color-form-actions-text);border-color:var(--color-form-actions-border)}.oda-chat-wrapper .oda-chat-form-actions .oda-chat-action-postback:not(:disabled):hover,.oda-chat-wrapper .oda-chat-form-actions .oda-chat-action-postback:not(:disabled):focus,.oda-chat-wrapper .oda-chat-form-actions .oda-chat-action-postback:not(:disabled):active{color:var(--color-form-actions-text);background-color:var(--color-form-actions-background-hover)}.oda-chat-wrapper .oda-chat-form-actions .oda-chat-action-postback:not(:disabled):hover svg>path,.oda-chat-wrapper .oda-chat-form-actions .oda-chat-action-postback:not(:disabled):focus svg>path,.oda-chat-wrapper .oda-chat-form-actions .oda-chat-action-postback:not(:disabled):active svg>path{fill:var(--color-form-actions-text)}.oda-chat-wrapper .oda-chat-message-global-actions{margin-top:8px}.oda-chat-wrapper .oda-chat-message-global-actions.oda-chat-stars{display:block}.oda-chat-wrapper .oda-chat-message-global-actions button{background:var(--color-global-actions-background);color:var(--color-global-actions-text);border-color:var(--color-global-actions-border)}.oda-chat-wrapper .oda-chat-message-global-actions button:not(:disabled):hover{background-color:var(--color-global-actions-background-hover);color:var(--color-global-actions-text-hover)}.oda-chat-wrapper .oda-chat-message-global-actions button:not(:disabled):hover svg>path{fill:var(--color-global-actions-text-hover)}.oda-chat-wrapper .oda-chat-message-global-actions button:not(:disabled):focus,.oda-chat-wrapper .oda-chat-message-global-actions button:not(:disabled):active{background-color:var(--color-global-actions-background-focus);color:var(--color-global-actions-text-focus)}.oda-chat-wrapper .oda-chat-message-global-actions button:not(:disabled):focus svg>path,.oda-chat-wrapper .oda-chat-message-global-actions button:not(:disabled):active svg>path{fill:var(--color-global-actions-text-focus)}.oda-chat-wrapper .oda-chat-message-bubble{position:relative;display:flex;flex-direction:column;align-items:flex-start;margin:0;padding:6px 16px;color:var(--color-bot-text);background:var(--color-bot-message-background);overflow:hidden;min-height:32px;line-height:20px;overflow-wrap:break-word;max-width:100%;border-radius:2px 10px 10px 2px;margin-top:2px}.oda-chat-wrapper .oda-chat-message-bubble>*{width:100%}.oda-chat-wrapper .oda-chat-message-bubble.oda-chat-before-card{border-radius:2px 10px 10px 10px}.oda-chat-wrapper .oda-chat-message-bubble .oda-chat-youtube-wrapper{margin:-6px -16px -11px}.oda-chat-wrapper .oda-chat-message-bubble .oda-chat-ovh-wrapper{width:100%;max-width:100%}.oda-chat-wrapper .oda-chat-message-bubble.oda-chat-error{background-color:var(--color-error-message-background);color:var(--color-error-text);border:1px dashed var(--color-error-border)}.oda-chat-wrapper .oda-chat-message-bubble.oda-chat-error .oda-chat-message-icon path{fill:var(--color-error-title)}.oda-chat-wrapper .oda-chat-message-bubble.oda-chat-error .oda-chat-message-title{color:var(--color-error-title)}.oda-chat-wrapper .oda-chat-message-bubble .oda-chat-message-with-icon{display:flex;align-items:flex-start;justify-content:space-between}.oda-chat-wrapper .oda-chat-message-bubble .oda-chat-message-with-icon .oda-chat-message-icon{width:24px;height:24px;align-items:center;margin-inline-end:16px}.oda-chat-wrapper .oda-chat-message-bubble .oda-chat-message-with-icon .oda-chat-message-text{word-break:break-word}.oda-chat-wrapper .oda-chat-message-bubble.oda-chat-message-header{margin-bottom:2px}.oda-chat-wrapper .oda-chat-message-bubble.oda-chat-message-footer{margin-top:2px}.oda-chat-wrapper .oda-chat-messages-wrapper{max-width:90%;align-items:flex-start}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-agent-name{position:relative;bottom:3px;max-width:calc(100%/0.9);height:16px;font-size:12px;line-height:16px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:var(--color-agent-name)}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-screen-reader-only{height:1px;left:-20000px;overflow:hidden;position:absolute;top:auto;width:1px}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list{width:100%;align-items:flex-start}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message{width:100%;white-space:pre-wrap}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message a{color:var(--color-links)}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message button.oda-chat-anchor-btn{padding:0}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message button.oda-chat-anchor-btn a{display:block;text-decoration:inherit;color:inherit;padding:10px 20px}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message button:last-child{margin-bottom:0}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message .oda-chat-message-wrapper{display:flex;align-items:flex-start;flex-direction:column;width:100%;max-width:100%}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message:first-child .oda-chat-message-bubble:not(.oda-chat-message-footer){margin-top:0}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message:first-child .oda-chat-card-message-content:first-child .oda-chat-card-message-cards{margin-top:0}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message:last-child .oda-chat-message-bubble:last-child{border-radius:2px 10px 10px 10px}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message:last-child .oda-chat-card-message-content:last-child .oda-chat-card-message-cards{margin-bottom:-8px}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message.oda-chat-card-message-horizontal{margin-inline-start:-16px;width:100vw}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-header,.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-footer,.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-global-actions{margin-inline-start:16px;max-width:calc(0.9 * (100% - 32px))}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-header{border-radius:2px 10px 10px 10px}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-card-message-cards{flex-direction:row;overflow-x:auto;padding:0 56px 0 16px}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-card{margin-inline-end:8px}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-next-wrapper,.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-prev-wrapper{position:absolute;height:100%;top:0;width:52px;z-index:1}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-next-wrapper{right:0;background:linear-gradient(90deg, rgba(255, 255, 255, 0), var(--color-conversation-background) 60%)}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-prev-wrapper{left:0;background:linear-gradient(90deg, var(--color-conversation-background) 40%, rgba(255, 255, 255, 0))}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-next,.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-previous{position:absolute;z-index:10;width:36px;height:36px;left:8px;padding:0;overflow:hidden;background-color:var(--color-card-nav-button);border:none;box-shadow:0px 2px 4px rgba(0,0,0,.1);top:calc(50% - 18px);justify-content:center}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-next:hover,.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-previous:hover{background-color:var(--color-card-nav-button-hover)}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-next:focus,.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-next:active,.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-previous:focus,.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-previous:active{background-color:var(--color-card-nav-button-focus)}.oda-chat-wrapper .oda-chat-message-block{justify-content:flex-start;align-items:flex-start;margin-bottom:8px}.oda-chat-wrapper .oda-chat-message-block.oda-chat-right{flex-direction:row-reverse}.oda-chat-wrapper .oda-chat-message-block.oda-chat-right .oda-chat-icon-wrapper{margin:unset;margin-inline-start:8px}.oda-chat-wrapper .oda-chat-message-block.oda-chat-right .oda-chat-messages-wrapper{align-items:flex-end}.oda-chat-wrapper .oda-chat-message-block.oda-chat-right .oda-chat-messages-wrapper .oda-chat-message a{color:var(--color-user-links)}.oda-chat-wrapper .oda-chat-message-block.oda-chat-right .oda-chat-messages-wrapper .oda-chat-message .oda-chat-message-wrapper{align-items:flex-end}.oda-chat-wrapper .oda-chat-message-block.oda-chat-right .oda-chat-messages-wrapper .oda-chat-message .oda-chat-message-bubble{border-radius:10px 2px 2px 10px}.oda-chat-wrapper .oda-chat-message-block.oda-chat-right .oda-chat-messages-wrapper .oda-chat-message .oda-chat-message-bubble:not(.oda-chat-error){color:var(--color-user-text);background:var(--color-user-message-background)}.oda-chat-wrapper .oda-chat-message-block.oda-chat-right .oda-chat-messages-wrapper .oda-chat-message:last-child .oda-chat-message-bubble:last-child{border-radius:10px 2px 10px 10px}.oda-chat-wrapper .oda-chat-message-block.oda-chat-right .oda-chat-message-date{text-align:right}.oda-chat-wrapper .oda-chat-icon-wrapper{margin-inline-end:8px;width:32px;min-width:32px;height:32px;border-radius:4px;overflow:hidden;z-index:1}.oda-chat-wrapper .oda-chat-icon-wrapper.oda-chat-agent-avatar{background:var(--color-agent-avatar-background);margin-top:16px}.oda-chat-wrapper .oda-chat-icon-wrapper .oda-chat-message-icon{height:32px;max-height:32px;max-width:32px;width:32px;color:var(--color-timestamp);overflow:hidden;text-overflow:ellipsis}.oda-chat-wrapper .oda-chat-icon-wrapper .oda-chat-agent-icon{position:relative;width:20px;height:20px;left:6px;top:6px;font-weight:700;font-size:16px;line-height:20px;text-align:center;color:var(--color-agent-initials)}.oda-chat-wrapper .oda-chat-attachment{width:100%}.oda-chat-wrapper .oda-chat-attachment .oda-chat-attachment-placeholder{background-color:var(--color-attachment-placeholder);max-width:calc(100% + 32px);min-width:228px;min-height:88px;max-height:230px;margin:-6px -16px 0;justify-content:center;overflow:hidden}.oda-chat-wrapper .oda-chat-attachment .oda-chat-attachment-placeholder>*{max-width:100%}.oda-chat-wrapper .oda-chat-attachment .oda-chat-attachment-placeholder .oda-chat-attachment-icon{height:48px;width:48px}.oda-chat-wrapper .oda-chat-attachment .oda-chat-attachment-placeholder .oda-chat-attachment-icon svg{height:48px;width:48px}.oda-chat-wrapper .oda-chat-attachment .oda-chat-attachment-placeholder .oda-chat-attachment-icon img{width:100%}.oda-chat-wrapper .oda-chat-attachment .oda-chat-attachment-placeholder .oda-chat-attachment-audio{height:50px;width:100%}.oda-chat-wrapper .oda-chat-attachment .oda-chat-attachment-placeholder .oda-chat-attachment-audio::-webkit-media-controls-enclosure{background-color:transparent}.oda-chat-wrapper .oda-chat-attachment .oda-chat-attachment-footer{background-color:var(--color-attachment-footer);color:var(--color-attachment-text);margin:0 -16px -6px;height:50px;padding:16px}.oda-chat-wrapper .oda-chat-attachment .oda-chat-attachment-footer.oda-chat-with-actions{border-bottom:thin solid rgba(22,21,19,.1);margin-bottom:6px}.oda-chat-wrapper .oda-chat-attachment .oda-chat-attachment-footer .oda-chat-attachment-title{flex-grow:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.oda-chat-wrapper .oda-chat-card{width:252px;border-radius:6px;padding:16px;margin-block-end:8px;justify-content:flex-start;flex-shrink:0;color:var(--color-bot-text);background:var(--color-card-background);overflow:hidden}.oda-chat-wrapper .oda-chat-card .oda-chat-card-image{display:block;width:calc(100% + 32px);margin:-16px -16px 10px;min-height:88px;background-color:var(--color-attachment-placeholder)}.oda-chat-wrapper .oda-chat-card .oda-chat-card-title{line-height:20px;margin:0 0 4px;font-weight:700;word-break:break-word}.oda-chat-wrapper .oda-chat-card .oda-chat-card-description{margin-bottom:16px;color:var(--color-text-light)}.oda-chat-wrapper .oda-chat-card-message-content{width:100%;position:relative}.oda-chat-wrapper .oda-chat-card-message-content .oda-chat-card-message-cards{width:100%;align-items:stretch;display:flex;scroll-behavior:smooth;overflow-x:visible;flex-direction:column;margin:8px 0 0;scrollbar-width:none}.oda-chat-wrapper .oda-chat-card-message-content .oda-chat-card-message-cards::-webkit-scrollbar{display:none}.oda-chat-wrapper .oda-chat-message-bubble-tabular-message{width:calc(1.11 * 100%);max-width:unset;border-radius:0 8px 8px 8px;padding:0;overflow:hidden;background-color:var(--color-table-background);color:var(--color-table-text);border:1px solid var(--color-table-header-background)}.oda-chat-wrapper .oda-chat-message-bubble-tabular-message~.oda-chat-message-footer{margin-top:8px}.oda-chat-wrapper .oda-chat-form-message-field,.oda-chat-wrapper .oda-chat-table-message-heading,.oda-chat-wrapper .oda-chat-table-message-item{overflow:hidden;overflow-wrap:break-word;word-break:break-word}.oda-chat-wrapper .oda-chat-table-message-wrapper{overflow:auto;background-color:#fff}.oda-chat-wrapper .oda-chat-table-message-wrapper .oda-chat-table-message{min-width:100%;max-width:200%;border-collapse:collapse}.oda-chat-wrapper .oda-chat-table-message-wrapper .oda-chat-table-message .oda-chat-table-message-headings{align-items:center;background-color:var(--color-table-header-background);display:flex}.oda-chat-wrapper .oda-chat-table-message-wrapper .oda-chat-table-message .oda-chat-table-message-headings .oda-chat-table-message-heading{color:rgba(22,21,19,.65);font-size:12px;font-weight:600;line-height:16px;padding:16px;min-width:120px}.oda-chat-wrapper .oda-chat-table-message-wrapper .oda-chat-table-message .oda-chat-table-message-row{border-top:1px solid var(--color-table-separator);display:flex;align-items:center}.oda-chat-wrapper .oda-chat-table-message-wrapper .oda-chat-table-message .oda-chat-table-message-row .oda-chat-table-message-item{color:var(--color-table-text);font-size:16px;line-height:20px;min-width:120px;padding:10px 16px}.oda-chat-wrapper .oda-chat-form-message-header{align-items:center;background-color:var(--color-table-header-background);color:var(--color-table-text);display:flex;font-weight:700;line-height:20px;padding:16px;text-align:start}.oda-chat-wrapper .oda-chat-form-message-item{display:flex;flex-flow:row wrap;justify-content:space-between;padding:16px 16px}.oda-chat-wrapper .oda-chat-form-message-item.oda-chat-with-border{border-bottom:1px solid var(--color-table-separator)}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-key{color:var(--color-form-label);font-size:12px;line-height:16px;font-weight:600}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-key.oda-chat-with-margin{margin-bottom:8px}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field{margin-bottom:16px}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-form-message-field-col-1{flex-basis:100%;max-width:100%}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field{display:flex;flex-direction:column}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field input.oda-chat-form-message-value,.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field select.oda-chat-form-message-value,.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field textarea.oda-chat-form-message-value{border-radius:4px;outline:none;border:1px solid var(--color-form-input-border);font-size:16px}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field input.oda-chat-form-message-value:focus,.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field select.oda-chat-form-message-value:focus,.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field textarea.oda-chat-form-message-value:focus{border-color:var(--color-form-input-border-focus);box-shadow:0 0 0 1px var(--color-form-input-border-focus) inset}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field.oda-chat-error input,.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field.oda-chat-error select,.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field.oda-chat-error textarea,.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field.oda-chat-error .oda-chat-text-field-container{border-color:var(--color-form-error)}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field input.oda-chat-form-message-value{height:42px;padding:0 12px}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field input.oda-chat-form-message-value[type=date]::-webkit-calendar-picker-indicator,.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field input.oda-chat-form-message-value[type=time]::-webkit-calendar-picker-indicator,.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field input.oda-chat-form-message-value[type=number]::-webkit-inner-spin-button{cursor:pointer;width:20px;height:20px;margin-right:-8px}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field select.oda-chat-form-message-value{height:42px;padding:0 12px;appearance:none;background-position-x:calc(100% - 4px);background-position-y:50%}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field textarea.oda-chat-form-message-value{overflow:auto;padding:11px 12px;resize:none}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field .oda-chat-form-container{display:flex}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field .oda-chat-form-container label{display:flex;min-height:36px;align-items:center;padding:7.5px 0;border-bottom:1px solid transparent}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field .oda-chat-form-container .oda-chat-radio-input{margin-right:8px}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field .oda-chat-text-field-container{border-radius:4px;border:1px solid var(--color-form-input-border);display:flex;min-height:44px;flex-direction:row;cursor:text}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field .oda-chat-text-field-container .oda-chat-selected-options{padding:0 12px 5px}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field .oda-chat-text-field-container .oda-chat-selected-options .oda-chat-multi-select-option{float:left;line-height:16px;display:flex;align-items:center;cursor:default;border-radius:4px;border:1px solid var(--color-form-input-border);color:#161513;background-clip:padding-box;font-size:12px;margin-inline-end:6px;margin-top:5px;padding-inline-end:4px;padding-inline-start:6px}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field .oda-chat-text-field-container .oda-chat-selected-options .oda-chat-multi-select-option .oda-chat-opt-close{cursor:pointer;height:16px;width:16px}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field .oda-chat-multi-select-list{position:relative;max-height:400px;animation:none;background-color:var(--color-popup-item-background-hover);z-index:3}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field .oda-chat-toggle{position:relative;width:36px;height:36px}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field .oda-chat-toggle input{display:none}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field .oda-chat-toggle input:checked+.oda-chat-round-slider{background-color:#227e9e;border-color:#227e9e}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field .oda-chat-toggle input:checked+.oda-chat-round-slider:before{right:1px;left:auto;transition:height .3s cubic-bezier(0, 0, 0.2, 1),width .3s cubic-bezier(0, 0, 0.2, 1),right .3s cubic-bezier(0, 0, 0.2, 1)}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field .oda-chat-toggle .oda-chat-round-slider{position:absolute;cursor:pointer;background-color:#8b8580;transition:background-color .2s linear .1s,opacity .2s linear .1s,border-color .2s linear .1s;top:8px;border:1px solid transparent;border-radius:4px;height:20px;width:36px}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-edit-form-message-field .oda-chat-toggle .oda-chat-round-slider:before{border-radius:4px;width:16px;height:16px;left:1px;right:auto;position:absolute;content:"";bottom:1px;background-color:var(--color-table-background);transition:height .3s cubic-bezier(0, 0, 0.2, 1),width .3s cubic-bezier(0, 0, 0.2, 1),left .3s cubic-bezier(0, 0, 0.2, 1)}.oda-chat-wrapper .oda-chat-form-message-item .oda-chat-form-message-field.oda-chat-form-message-field-col-2{flex-basis:calc(50% - 12px);max-width:calc(50% - 12px)}.oda-chat-wrapper .oda-chat-form-message-item span.oda-chat-field-error{display:flex;margin-top:2px;line-height:16px}.oda-chat-wrapper .oda-chat-form-message-item span.oda-chat-field-error .oda-chat-error-text{color:var(--color-form-error-text);font-size:12px;margin-left:4px}.oda-chat-wrapper .oda-chat-form-message-item span.oda-chat-field-error svg.oda-chat-form-error-icon{position:relative;height:16px;width:16px;fill:var(--color-form-error);flex-shrink:0}.oda-chat-wrapper .oda-chat-form-message-item span.oda-chat-field-error.oda-chat-form-error{padding:8px;background:var(--color-error-message-background);border-radius:4px;margin:16px 0;border:thin dashed var(--color-error-border)}.oda-chat-wrapper .oda-chat-form-message-item span.oda-chat-field-error.oda-chat-form-error svg.oda-chat-form-error-icon{top:0}.oda-chat-wrapper .oda-chat-form-message-item span.oda-chat-field-error.oda-chat-form-error .oda-chat-error-text{font-weight:600;color:var(--color-error-title);margin-left:8px;font-size:14px}.oda-chat-wrapper .oda-chat-tableform-message .oda-chat-table-message-row{cursor:pointer}.oda-chat-wrapper .oda-chat-tableform-message .oda-chat-table-message-row:hover{background-color:var(--color-row-item-background-hover)}.oda-chat-wrapper .oda-chat-tableform-message .oda-chat-table-message-row button:hover,.oda-chat-wrapper .oda-chat-tableform-message .oda-chat-table-message-row button:active,.oda-chat-wrapper .oda-chat-tableform-message .oda-chat-table-message-row button:focus{background-color:unset}.oda-chat-wrapper .oda-chat-tableform-message .oda-chat-table-message-headings .oda-chat-table-message-heading:last-child,.oda-chat-wrapper .oda-chat-tableform-message .oda-chat-table-message-row .oda-chat-table-message-item:last-child{min-width:unset;padding:0}.oda-chat-wrapper .oda-chat-tableform-message .oda-chat-table-message-headings .oda-chat-table-message-heading:last-child button,.oda-chat-wrapper .oda-chat-tableform-message .oda-chat-table-message-row .oda-chat-table-message-item:last-child button{margin:0 2px;transition:transform .25s ease-in-out}.oda-chat-wrapper .oda-chat-tableform-message .oda-chat-table-message-headings .oda-chat-table-message-heading:last-child button.oda-chat-rotate-180,.oda-chat-wrapper .oda-chat-tableform-message .oda-chat-table-message-row .oda-chat-table-message-item:last-child button.oda-chat-rotate-180{transform:rotate3d(0, 0, 1, 180deg)}.oda-chat-wrapper .oda-chat-tableform-message .oda-chat-form-message-item{background-color:#fbf9f8;margin:0;padding:16px;transition:all .25s ease-in-out;border-bottom:none}.oda-chat-wrapper .oda-chat-tableform-message .oda-chat-form-message-item.oda-chat-none{display:none}.oda-chat-wrapper .oda-chat-tableform-message .oda-chat-form-message-item:last-child{border-top:1px solid var(--color-table-bottom)}.oda-chat-wrapper .oda-chat-results-page-status{align-items:center;background-color:#fff;color:#161513;display:flex;flex-direction:row;font-size:13.75px;justify-content:flex-end;line-height:16px;padding:12px 16px;border-top:1px solid var(--color-table-separator)}.oda-chat-wrapper .oda-chat-footer{max-width:100%;padding:0;background-color:var(--color-footer-background);z-index:3;box-shadow:0px -1px 4px 0px #0000001a;border-top:1px solid rgba(22,21,19,.1)}.oda-chat-wrapper .oda-chat-footer .oda-chat-footer-mode-keyboard{min-height:44px;margin:5px;background-color:var(--color-input-background);color:var(--color-input-text);border:1px solid var(--color-input-border);border-radius:6px}.oda-chat-wrapper .oda-chat-footer .oda-chat-footer-mode-voice{height:60px;padding:14px 0;background:var(--color-visualizer-container-background);justify-content:center}.oda-chat-wrapper .oda-chat-footer .oda-chat-footer-mode-voice .oda-chat-footer-visualizer-wrapper{max-width:296px;height:32px}.oda-chat-wrapper .oda-chat-footer .oda-chat-audio-text-wrapper{width:100%}.oda-chat-wrapper .oda-chat-footer .oda-chat-audio-text-wrapper .oda-chat-audio-text{flex-grow:1;height:34px;margin:0px 5px;border:none;outline:none;font-size:1em;background-color:transparent;color:var(--color-recognition-view-text)}.oda-chat-wrapper .oda-chat-footer.oda-chat-mode-keyboard .oda-chat-button-switch-kbd{display:none}.oda-chat-wrapper .oda-chat-footer.oda-chat-mode-keyboard .oda-chat-footer-mode-voice{display:none}.oda-chat-wrapper .oda-chat-footer.oda-chat-mode-voice .oda-chat-button-switch-voice{display:none}.oda-chat-wrapper .oda-chat-user-input{flex-grow:1;min-height:44px;padding:10px;margin:0;font-size:1em;font-family:inherit;line-height:24px;outline:none;resize:none;border:none;border-radius:6px;background-color:transparent;color:var(--color-input-text)}.oda-chat-wrapper .oda-chat-footer-actions{padding-inline-end:4px}.oda-chat-wrapper .oda-chat-footer-button.oda-chat-button-send{background-color:var(--color-footer-button-fill);border-radius:50%}.oda-chat-wrapper .oda-chat-footer-button.oda-chat-button-send svg>path{fill:var(--color-input-background)}.oda-chat-wrapper .oda-chat-footer-button.oda-chat-button-send:not(:disabled):hover{background-color:var(--color-footer-button-fill-hover)}.oda-chat-wrapper .oda-chat-footer-button.oda-chat-button-send:not(:disabled):hover svg>path{fill:var(--color-input-background)}.oda-chat-wrapper .oda-chat-footer-button svg>path{fill:var(--color-footer-button-fill)}.oda-chat-wrapper .oda-chat-footer-button:not(:disabled):hover,.oda-chat-wrapper .oda-chat-footer-button:not(:disabled):focus{background-color:var(--color-footer-button-background-hover)}.oda-chat-wrapper .oda-chat-footer-button:not(:disabled):hover svg>path,.oda-chat-wrapper .oda-chat-footer-button:not(:disabled):focus svg>path{fill:var(--color-footer-button-fill-hover)}.oda-chat-wrapper .oda-chat-autocomplete-items{position:absolute;bottom:56px;width:100%;max-height:calc(100% - 56px);overflow-y:auto;background-color:var(--color-input-background);box-shadow:0px -1px 4px 0px #0000001a;padding:8px 0}.oda-chat-wrapper .oda-chat-autocomplete-items>div{min-height:40px;padding:8px 16px;cursor:pointer}.oda-chat-wrapper .oda-chat-autocomplete-items>div:hover,.oda-chat-wrapper .oda-chat-autocomplete-items>div.oda-chat-autocomplete-active{background-color:var(--color-card-nav-button-hover)}.oda-chat-wrapper .oda-chat-autocomplete-items>div strong{font-weight:700}.oda-chat-wrapper .oda-chat-dialog-wrapper{position:absolute;top:0;left:0;right:0;width:100%;height:100%}.oda-chat-wrapper .oda-chat-dialog-wrapper .oda-chat-prompt-banner-background{position:fixed;background:rgba(0,0,0,.2);height:100%;width:100%;z-index:5}.oda-chat-wrapper .oda-chat-dialog-wrapper .oda-chat-prompt-banner{align-items:center;box-shadow:rgba(0,0,0,.16) 0px 4px 8px 0px;border-radius:6px;display:flex;flex-direction:row;position:absolute;max-width:450px;min-height:48px;max-height:60%;top:30%;left:0;right:0;padding:8px 16px;margin:8px auto;width:calc(100% - 16px);z-index:5;animation:banner-in .2s cubic-bezier(0.22, 0.45, 0.42, 0.92) both;background-color:var(--color-popup-background);flex-direction:column;align-items:flex-start;overflow-y:auto}.oda-chat-wrapper .oda-chat-dialog-wrapper .oda-chat-prompt-banner.oda-chat-prompt-banner-out{animation:banner-out .2s cubic-bezier(0.5, 0.07, 0.68, 0.48) both}.oda-chat-wrapper .oda-chat-dialog-wrapper .oda-chat-prompt-banner .oda-chat-prompt-banner-main-content{margin:16px 0;align-items:flex-start}.oda-chat-wrapper .oda-chat-dialog-wrapper .oda-chat-prompt-banner .oda-chat-prompt-banner-main-content .oda-chat-prompt-banner-icon{margin:4px 16px 0 0}.oda-chat-wrapper .oda-chat-dialog-wrapper .oda-chat-prompt-banner .oda-chat-prompt-banner-main-content .oda-chat-prompt-banner-text{margin:0 28px 0 0;font-size:18px;font-weight:bold;color:var(--color-popup-text)}.oda-chat-wrapper .oda-chat-dialog-wrapper .oda-chat-prompt-banner .oda-chat-prompt-banner-main-content .oda-chat-prompt-banner-description{color:var(--color-popup-text);opacity:.6;font-size:13px;margin:8px 28px 0 0}.oda-chat-wrapper .oda-chat-dialog-wrapper .oda-chat-prompt-banner .oda-chat-prompt-banner-main-content .oda-chat-prompt-banner-label{color:var(--color-popup-text);font-size:large}.oda-chat-wrapper .oda-chat-dialog-wrapper .oda-chat-prompt-banner .oda-chat-prompt-banner-main-content .oda-chat-prompt-banner-input{font-size:medium;min-height:36px;width:100%;margin-bottom:10px;padding:10px;color:var(--color-popup-text);background-color:var(--color-popup-input-background);border:1px solid var(--color-popup-input-border);border-radius:4px}.oda-chat-wrapper .oda-chat-dialog-wrapper .oda-chat-prompt-banner .oda-chat-prompt-banner-close-button{position:absolute;border:none;right:16px}.oda-chat-wrapper .oda-chat-dialog-wrapper .oda-chat-prompt-banner .oda-chat-action-wrapper{width:100%;margin:16px 0 6px}.oda-chat-wrapper .oda-chat-dialog-wrapper .oda-chat-prompt-banner .oda-chat-action-wrapper .oda-chat-popup-action{background-color:var(--color-popup-button-background);border-color:var(--color-popup-button-text);color:var(--color-popup-button-text);border-style:solid;margin:0;height:34px;justify-content:center;width:49%}.oda-chat-wrapper .oda-chat-dialog-wrapper .oda-chat-prompt-banner .oda-chat-action-wrapper .oda-chat-popup-action:hover{background-color:var(--color-footer-button-background-hover)}.oda-chat-wrapper .oda-chat-dialog-wrapper .oda-chat-prompt-banner .oda-chat-action-wrapper .oda-chat-popup-action:last-child{margin:0}.oda-chat-wrapper .oda-chat-dialog-wrapper .oda-chat-prompt-banner .oda-chat-action-wrapper .oda-chat-popup-action.oda-chat-filled{background-color:var(--color-popup-button-text);color:var(--color-popup-button-background)}.oda-chat-wrapper .oda-chat-dialog-wrapper .oda-chat-prompt-banner .oda-chat-action-wrapper .oda-chat-popup-action.oda-chat-filled:hover{opacity:.9}.oda-chat-wrapper .oda-chat-dialog-wrapper.oda-chat-end-conversation-prompt .oda-chat-prompt-banner-close-button{display:none}.oda-chat-wrapper.oda-chat-embedded .oda-chat-open{width:100%;height:100%}.oda-chat-wrapper.oda-chat-embedded .oda-chat-open .oda-chat-widget{border-radius:0;width:100%;height:100%;position:inherit;box-shadow:none;max-height:unset}@media(min-width: 1024px){.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane .oda-chat-message-bubble{padding:16px 24px}.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane .oda-chat-message-bubble .oda-chat-attachment .oda-chat-attachment-placeholder{margin:-16px -24px 0;max-width:calc(100% + 48px)}.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane .oda-chat-message-bubble .oda-chat-attachment .oda-chat-attachment-footer{margin:0 -24px -16px}.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper,.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-user-icon .oda-chat-message-block .oda-chat-messages-wrapper{max-width:780px}.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message-header,.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message-footer,.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-user-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message-header,.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-user-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message-footer{max-width:780px}.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-bot-icon.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper,.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-user-icon.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper{max-width:780px}.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-bot-icon.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-header,.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-bot-icon.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-footer,.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-user-icon.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-header,.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-user-icon.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-footer{max-width:780px}.oda-chat-wrapper.oda-chat-embedded button:not(.oda-chat-icon){height:44px}}@media(min-width: 900px)and (max-width: 1023px){.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane .oda-chat-message-bubble{padding:8px 16px}.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane .oda-chat-message-bubble .oda-chat-attachment .oda-chat-attachment-placeholder{margin:-8px -16px 0}.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane .oda-chat-message-bubble .oda-chat-attachment .oda-chat-attachment-footer{margin:0 -16px -8px}.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper,.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-user-icon .oda-chat-message-block .oda-chat-messages-wrapper{max-width:680px}.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-header,.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-footer,.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-user-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-header,.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-user-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-footer{max-width:680px}.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-bot-icon.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper,.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-user-icon.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper{max-width:680px}.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-bot-icon.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-bubble,.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-user-icon.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-bubble{padding:16px 24px}.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-bot-icon.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-header,.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-bot-icon.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-footer,.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-user-icon.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-header,.oda-chat-wrapper.oda-chat-embedded .oda-chat-conversation .oda-chat-conversation-pane.oda-chat-user-icon.oda-chat-bot-icon .oda-chat-message-block .oda-chat-messages-wrapper .oda-chat-message.oda-chat-card-message-horizontal .oda-chat-message-footer{max-width:680px}.oda-chat-wrapper.oda-chat-embedded button:not(.oda-chat-icon){height:44px}}.oda-chat-wrapper .oda-chat-full-screen-modal{position:fixed;top:0;left:0;width:100%;height:100vh;z-index:1000000;background-color:rgba(0,0,0,.8)}.oda-chat-wrapper .oda-chat-modal-header{background:linear-gradient(180deg, rgba(0, 0, 0, 0.5), transparent);color:#fff;display:flex;justify-content:space-between;position:relative;padding:10px 20px;z-index:1000001}.oda-chat-wrapper .oda-chat-modal-header .oda-chat-close-btn{border:none;background:transparent;cursor:pointer}.oda-chat-wrapper .oda-chat-full-screen-image{position:absolute;max-width:100vw;max-height:100vh;margin:auto;top:0;bottom:0;left:0;right:0}.oda-chat-wrapper .oda-chat-typing-cue-wrapper{width:32px;margin:auto}.oda-chat-wrapper .oda-chat-typing-cue-wrapper .oda-chat-typing-cue{position:relative;left:0;right:0;margin:auto;width:8px;height:8px;border-radius:50%;background-color:var(--color-typing-indicator);animation:typing-cue 1550ms infinite linear alternate;animation-delay:250ms;opacity:.1}.oda-chat-wrapper .oda-chat-typing-cue-wrapper .oda-chat-typing-cue::before,.oda-chat-wrapper .oda-chat-typing-cue-wrapper .oda-chat-typing-cue::after{content:"";display:inline-block;position:absolute;width:8px;height:8px;border-radius:50%;background-color:var(--color-typing-indicator);animation:typing-cue 1550ms infinite linear alternate;opacity:.1}.oda-chat-wrapper .oda-chat-typing-cue-wrapper .oda-chat-typing-cue::before{left:-12px;animation-delay:0s}.oda-chat-wrapper .oda-chat-typing-cue-wrapper .oda-chat-typing-cue::after{left:12px;animation-delay:500ms}.oda-chat-wrapper .oda-chat-hidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.oda-chat-wrapper .oda-chat-rating-root{display:flex}.oda-chat-wrapper [dir=rtl] .oda-chat-rating-root{flex-direction:row-reverse}.oda-chat-wrapper .oda-chat-rating-wrapper{display:flex;margin-top:8px}.oda-chat-wrapper [dir=rtl] .oda-chat-rating-wrapper{flex-direction:row-reverse}.oda-chat-wrapper .oda-chat-rating-hidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.oda-chat-wrapper .oda-chat-star-label{background-color:transparent;border:0;cursor:pointer;padding:0}.oda-chat-wrapper .oda-chat-star-label>svg>path{fill:var(--color-rating-star)}.oda-chat-wrapper .oda-chat-star-input.oda-chat-active+label>svg>path{fill:var(--color-rating-star-fill)}.oda-chat-wrapper .oda-chat-star-input:disabled+.oda-chat-star-label{cursor:not-allowed;filter:brightness(0.8)}.oda-chat-wrapper .oda-chat-rating-star-icon{height:32px;width:32px}.oda-chat-wrapper.oda-chat-expanded .oda-chat-widget{animation:scale-in-br .25s cubic-bezier(0.25, 0.46, 0.45, 0.94) .2s both}.oda-chat-wrapper.oda-chat-expanded:not(.oda-chat-drag) .oda-chat-button{animation:scale-out-center .25s cubic-bezier(0.55, 0.085, 0.68, 0.53) forwards}.oda-chat-wrapper.oda-chat-collapsed .oda-chat-widget{animation:scale-out-br .25s cubic-bezier(0.55, 0.085, 0.68, 0.53) forwards}.oda-chat-wrapper.oda-chat-collapsed .oda-chat-notification-badge{background-color:var(--color-notification-badge-background);color:var(--color-notification-badge-text);right:-5px;top:-5px;align-items:center;border-radius:24px;display:flex;font-size:14px;height:24px;justify-content:center;position:absolute;text-align:center;width:32px}.oda-chat-wrapper.oda-chat-collapsed:not(.oda-chat-drag) .oda-chat-button{animation:scale-in-center .25s cubic-bezier(0.25, 0.46, 0.45, 0.94) .2s both}.oda-chat-wrapper.oda-chat-pos-left .oda-chat-widget{right:unset;left:calc(var(--position-left) * -1);max-width:100vw}.oda-chat-wrapper.oda-chat-pos-left.oda-chat-expanded .oda-chat-widget{animation:scale-in-bl .25s cubic-bezier(0.25, 0.46, 0.45, 0.94) .2s both}.oda-chat-wrapper.oda-chat-pos-left.oda-chat-collapsed .oda-chat-widget{animation:scale-out-bl .25s cubic-bezier(0.55, 0.085, 0.68, 0.53) forwards}.oda-chat-wrapper .oda-chat-ellipsis{display:inline-block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.oda-chat-wrapper .oda-chat-popup{position:absolute;background-color:var(--color-popup-background);color:var(--color-popup-text);min-width:140px;max-height:calc(100% - 128px);display:none;padding:4px 0;border-radius:6px;box-shadow:rgba(0,0,0,.16) 0px 4px 8px 0px;overflow-y:auto;z-index:5}.oda-chat-wrapper .oda-chat-popup li{display:flex;align-items:center;height:48px;margin:4px 0;cursor:pointer;overflow:hidden;color:var(--color-popup-button-text)}.oda-chat-wrapper .oda-chat-popup li svg>path{fill:var(--color-popup-text)}.oda-chat-wrapper .oda-chat-popup li#action-menu-option-lang{border-top:1px solid var(--color-popup-horizontal-rule)}.oda-chat-wrapper .oda-chat-popup li.oda-chat-disable{pointer-events:none;cursor:not-allowed;opacity:.5}.oda-chat-wrapper .oda-chat-popup li:hover,.oda-chat-wrapper .oda-chat-popup li:focus,.oda-chat-wrapper .oda-chat-popup li.oda-chat-active{background-color:var(--color-popup-item-background-hover)}.oda-chat-wrapper .oda-chat-popup li .oda-chat-icon{margin-inline-start:16px;height:20px;width:20px}.oda-chat-wrapper .oda-chat-popup li .oda-chat-text{padding:0 16px 0 16px}.oda-chat-wrapper .oda-chat-popup.oda-chat-expand{display:block;-webkit-animation:scale-in-br .25s cubic-bezier(0.25, 0.46, 0.45, 0.94) .2s both;animation:scale-in-br .25s cubic-bezier(0.25, 0.46, 0.45, 0.94) .2s both}.oda-chat-wrapper .oda-chat-popup.oda-chat-action-menu,.oda-chat-wrapper .oda-chat-popup.oda-chat-language-selection-menu{top:50px;bottom:unset}.oda-chat-wrapper .oda-chat-popup.oda-chat-action-menu.oda-chat-expand,.oda-chat-wrapper .oda-chat-popup.oda-chat-language-selection-menu.oda-chat-expand{display:block;-webkit-animation:scale-in-tr .25s cubic-bezier(0.25, 0.46, 0.45, 0.94) .2s both;animation:scale-in-tr .25s cubic-bezier(0.25, 0.46, 0.45, 0.94) .2s both}.oda-chat-wrapper .oda-chat-popup.oda-chat-language-selection-menu{max-height:calc(100% - 280px)}.oda-chat-wrapper .oda-chat-popup.oda-chat-share-popup-list{position:fixed;bottom:50px;left:unset}.oda-chat-wrapper .oda-chat-spinner{height:48px;width:48px}.oda-chat-wrapper .oda-chat-spinner svg{animation-duration:750ms;-webkit-animation:spin 1s linear infinite;animation:spin 1s linear infinite}.oda-chat-wrapper .oda-chat-spinner svg circle{fill:transparent;stroke:var(--color-user-text);stroke-width:2px;stroke-dasharray:128px;stroke-dashoffset:82px}.oda-chat-wrapper .oda-chat-webview-container{position:absolute;width:100%;height:80%;bottom:0;box-shadow:0px -4px 32px rgba(0,0,0,.1);z-index:10}.oda-chat-wrapper .oda-chat-webview-container .oda-chat-webview-header svg{fill:var(--color-actions-text)}.oda-chat-wrapper .oda-chat-webview-container .oda-chat-webview-header button{color:var(--color-actions-text)}.oda-chat-wrapper .oda-chat-webview-container .oda-chat-spinner{position:absolute;margin:auto;left:0;right:0;top:40%}.oda-chat-wrapper .oda-chat-webview-container iframe{width:100%;height:100%;background:var(--color-conversation-background);border:none}.oda-chat-wrapper .oda-chat-webview-container .oda-chat-webview-error{position:absolute;bottom:0;background:var(--color-popup-background);width:calc(100% - 32px);margin:10px 16px;padding:6px 16px;border-radius:6px;display:flex;align-items:center;box-shadow:0px -4px 32px rgba(0,0,0,.1)}.oda-chat-wrapper .oda-chat-webview-container .oda-chat-webview-error .oda-chat-webview-error-button-close{border:none}.oda-chat-wrapper .oda-chat-webview-container.oda-chat-webview-container-close{animation:oda-chat-webview-slide-out-bottom .4s cubic-bezier(0.55, 0.085, 0.68, 0.53) both}.oda-chat-wrapper .oda-chat-webview-container.oda-chat-webview-container-open{animation:oda-chat-webview-slide-in-bottom .4s cubic-bezier(0.25, 0.46, 0.45, 0.94) both}.oda-chat-button-drag-handle{position:absolute;width:100%;height:100%}.oda-chat-image-preview-wrapper{background:rgba(0,0,0,.8);height:100%;position:fixed;top:0;left:0;width:100%;z-index:10000}.oda-chat-image-preview-wrapper .oda-chat-image-preview-header{align-items:center;background:linear-gradient(180deg, rgba(0, 0, 0, 0.5), transparent);color:#fff;display:flex;justify-content:space-between;position:relative;padding:10px 20px;z-index:1000001}.oda-chat-image-preview-wrapper .oda-chat-image-preview-header .oda-chat-image-preview-close{background:transparent;border:none;cursor:pointer;height:36px;width:36px}.oda-chat-image-preview-wrapper .oda-chat-image-preview-header .oda-chat-image-preview-close .oda-chat-image-preview-close-icon{fill:#fff;height:100%;width:100%}.oda-chat-image-preview-wrapper .oda-chat-image-preview{bottom:0;left:0;margin:auto;max-height:100vh;max-width:100vw;position:absolute;right:0;top:0}.oda-chat-arrow-icon{margin-inline-end:2px;width:32px;height:32px;display:flex;align-items:center;flex-shrink:0}@media screen and (min-width: 426px){.oda-chat-wrapper .oda-chat-widget{width:var(--width-full-screen);height:620px;bottom:0;right:0}.oda-chat-wrapper .oda-chat-messages-wrapper .oda-chat-message-list .oda-chat-message.oda-chat-card-message-horizontal{width:var(--width-full-screen)}.oda-chat-wrapper.oda-chat-pos-left .oda-chat-widget{left:0}.oda-chat-wrapper:not(.oda-chat-embedded) .oda-chat-widget{max-width:calc(100vw - var(--position-right))}.oda-chat-wrapper:not(.oda-chat-embedded).oda-chat-pos-left .oda-chat-widget{max-width:calc(100vw - var(--position-left))}}@media(prefers-reduced-motion){.oda-chat-open{animation:none}.oda-chat-close{animation:none}}[dir=rtl] *:not(.oda-chat-card-message-horizontal .oda-chat-message-wrapper *){direction:rtl}[dir=rtl] .oda-chat-card-message-horizontal .oda-chat-message-wrapper .oda-chat-card{direction:rtl}[dir=rtl] .oda-chat-card-message-horizontal .oda-chat-message-wrapper .oda-chat-card *{direction:rtl}[dir=rtl] .oda-chat-wrapper{text-align:right}[dir=rtl] .oda-chat-wrapper .oda-chat-widget.oda-chat-open{animation:scale-in-bl .25s cubic-bezier(0.25, 0.46, 0.45, 0.94) .2s both}[dir=rtl] .oda-chat-wrapper .oda-chat-widget.oda-chat-close{animation:scale-out-bl .25s cubic-bezier(0.55, 0.085, 0.68, 0.53) forwards}[dir=rtl] .oda-chat-wrapper .oda-chat-message-bubble{border-radius:10px 2px 2px 10px}[dir=rtl] .oda-chat-wrapper .oda-chat-message-block .oda-chat-message:last-child .oda-chat-message-bubble:last-child{border-radius:10px 2px 10px 10px}[dir=rtl] .oda-chat-wrapper .oda-chat-message-block.oda-chat-right .oda-chat-messages-wrapper .oda-chat-message .oda-chat-message-bubble{border-radius:2px 10px 10px 2px}[dir=rtl] .oda-chat-wrapper .oda-chat-message-block.oda-chat-right .oda-chat-messages-wrapper .oda-chat-message:last-child .oda-chat-message-bubble:last-child{border-radius:2px 10px 10px 10px}[dir=rtl] .oda-chat-wrapper .oda-chat-button{left:0;right:unset}[dir=rtl] .oda-chat-wrapper .oda-chat-popup.oda-chat-expand{-webkit-animation:scale-in-bl .25s cubic-bezier(0.25, 0.46, 0.45, 0.94) .2s both;animation:scale-in-bl .25s cubic-bezier(0.25, 0.46, 0.45, 0.94) .2s both}[dir=rtl] .oda-chat-wrapper .oda-chat-popup.oda-chat-action-menu.oda-chat-expand,[dir=rtl] .oda-chat-wrapper .oda-chat-popup.oda-chat-language-selection-menu.oda-chat-expand{-webkit-animation:scale-in-tl .25s cubic-bezier(0.25, 0.46, 0.45, 0.94) .2s both;animation:scale-in-tl .25s cubic-bezier(0.25, 0.46, 0.45, 0.94) .2s both}.oda-chat-wrapper{font:14px "Oracle Sans"}</style><style type="text/css">.truste_caIcon_display {display: block !important;}</style><style type="text/css">@font-face {font-family: "Source Sans Pro";src: url(https://consent.trustarc.com/get?name=SourceSansPro-Regular.ttf) format("truetype"),url(https://consent.trustarc.com/get?name=SourceSansPro-Regular.woff) format("woff"),url(https://consent.trustarc.com/get?name=SourceSansPro-Regular.otf) format("opentype"),url(https://consent.trustarc.com/get?name=SourceSansPro-Regular.eot) format("embedded-opentype");}.truste_cursor_pointer {cursor: pointer;}.truste_border_none {border: none;}.truste_accessible_link {font-family: "Source Sans Pro", sans-serif;color: #1D4ED8;font-size: 14px;font-weight: 600;text-decoration: underline;}.truste_accessible_link:hover {color: #1D4ED8;text-decoration: none !important;}.truste_accessible_link:focus-visible {outline: none;border-radius: 4px;box-shadow: 0 0 0 1px #FFFFFF, 0 0 0 4px #3699F1;}</style><style type="text/css">.ta-display-none { display: none; }</style>
+<!-- start : ocom/common/global/components/head -->
+<title>Oracle | Cloud Applications and Cloud Platform</title>
+<meta name="Title" content="Oracle | Cloud Applications and Cloud Platform">
+<meta name="Description" content="Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services.">
+<meta name="Keywords" content="enterprise, applications, software, database, middleware, fusions, business, hardware, Oracle">
+<meta name="siteid" content="us">
+<meta name="countryid" content="US">
+<meta name="robots" content="index, follow">
+<meta name="country" content="United States">
+<meta name="region" content="americas">
+<meta name="Language" content="en">
+<meta name="Updated Date" content="2025-08-04T15:28:52Z">
+<script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/10ecb549/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script src="//www.youtube.com/iframe_api"></script><script type="text/javascript" async="" src="https://www.oracle.com/asset/web/analytics/infinity_click_tracking_ocom.js"></script><script type="text/javascript" async="" src="https://www.oracle.com/asset/web/analytics/infinity_common.js"></script><script type="text/javascript" async="" charset="utf-8" id="utag_5" src="//d.oracleinfinity.io/infy/acs/account/wh3g12c3gg/js/oracle/odc.js"></script><script type="text/javascript" async="" charset="utf-8" id="oracle_chat" src="/asset/sequoia/js/wc-chatbot.js"></script><script src="https://tms.oracle.com/main/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript">
+var pageData = pageData || {};
+//page info
+pageData.pageInfo = pageData.pageInfo || {};
+pageData.pageInfo.language = "en";
+pageData.pageInfo.country = "United States";
+pageData.pageInfo.region = "americas";
+pageData.pageInfo.pageTitle = "Oracle | Cloud Applications and Cloud Platform";
+pageData.pageInfo.description = "Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services.";
+pageData.pageInfo.keywords = "enterprise, applications, software, database, middleware, fusions, business, hardware, Oracle";
+pageData.pageInfo.siteId = "us";
+pageData.pageInfo.countryId = "US";
+pageData.pageInfo.updatedDate = "2025-08-04T15:28:52Z";
+</script>
+<!-- start : ocom/common/global/components/seo-taxonomy-meta-data-->
+<script type="text/javascript">
+var pageData = pageData || {};
+//taxonmy
+pageData.taxonomy = pageData.taxonomy || {};
+pageData.taxonomy.productServices = [];
+pageData.taxonomy.industry = [];
+pageData.taxonomy.region = [];
+pageData.taxonomy.contentType = [];
+pageData.taxonomy.buyersJourney = [];
+pageData.taxonomy.revenue = [];
+pageData.taxonomy.title = [];
+pageData.taxonomy.audience = [];
+pageData.taxonomy.persona = [];
+</script>
+<!-- end : ocom/common/global/components/seo-taxonomy-meta-data-->
+<!-- start : ocom/common/global/components/social-media-meta-tags --><!-- F13v0 -->
+<meta property="og:title" content="Oracle | Cloud Applications and Cloud Platform">
+<meta property="og:description" content="Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services.">
+<meta property="og:image" content="https://www.oracle.com/a/ocom/img/social-og-oracle-logo-default-1200x628.png">
+<!-- /F13v0 -->
+<!-- F13v1 -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Oracle | Cloud Applications and Cloud Platform">
+<meta name="twitter:description" content="Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services.">
+<meta name="twitter:image" content="https://www.oracle.com/a/ocom/img/social-og-oracle-logo-default-1200x1200.png">
+<!-- /F13v1 -->
+<!-- end : ocom/common/global/components/social-media-meta-tags -->
+<!-- start : ocom/common/global/components/seo-hreflang-meta-tags --><link rel="canonical" href="https://www.oracle.com/">
+<link rel="alternate" hreflang="en-US" href="https://www.oracle.com/">
+<link rel="alternate" hreflang="pt-BR" href="https://www.oracle.com/br/">
+<link rel="alternate" hreflang="zh-CN" href="https://www.oracle.com/cn/">
+<link rel="alternate" hreflang="de-DE" href="https://www.oracle.com/de/">
+<link rel="alternate" hreflang="fr-FR" href="https://www.oracle.com/fr/">
+<link rel="alternate" hreflang="en-IN" href="https://www.oracle.com/in/">
+<link rel="alternate" hreflang="ja-JP" href="https://www.oracle.com/jp/">
+<link rel="alternate" hreflang="en-GB" href="https://www.oracle.com/uk/">
+<link rel="alternate" hreflang="en-AE" href="https://www.oracle.com/ae/">
+<link rel="alternate" hreflang="ar-AE" href="https://www.oracle.com/ae-ar/">
+<link rel="alternate" hreflang="es-AR" href="https://www.oracle.com/latam/">
+<link rel="alternate" hreflang="en-AU" href="https://www.oracle.com/au/">
+<link rel="alternate" hreflang="en-CA" href="https://www.oracle.com/ca-en/">
+<link rel="alternate" hreflang="fr-CA" href="https://www.oracle.com/ca-fr/">
+<link rel="alternate" hreflang="de-CH" href="https://www.oracle.com/de/">
+<link rel="alternate" hreflang="fr-CH" href="https://www.oracle.com/fr/">
+<link rel="alternate" hreflang="es-CL" href="https://www.oracle.com/latam/">
+<link rel="alternate" hreflang="es-CO" href="https://www.oracle.com/latam/">
+<link rel="alternate" hreflang="es-ES" href="https://www.oracle.com/es/">
+<link rel="alternate" hreflang="en-HK" href="https://www.oracle.com/apac/">
+<link rel="alternate" hreflang="it-IT" href="https://www.oracle.com/it/">
+<link rel="alternate" hreflang="ko-KR" href="https://www.oracle.com/kr/">
+<link rel="alternate" hreflang="es-MX" href="https://www.oracle.com/latam/">
+<link rel="alternate" hreflang="nl-NL" href="https://www.oracle.com/nl/">
+<link rel="alternate" hreflang="en-SA" href="https://www.oracle.com/sa/">
+<link rel="alternate" hreflang="ar-SA" href="https://www.oracle.com/sa-ar/">
+<link rel="alternate" hreflang="en-SG" href="https://www.oracle.com/asean/">
+<link rel="alternate" hreflang="zh-TW" href="https://www.oracle.com/tw/">
+<link rel="alternate" hreflang="cs-CZ" href="https://www.oracle.com/europe/">
+<link rel="alternate" hreflang="en-ID" href="https://www.oracle.com/asean/">
+<link rel="alternate" hreflang="en-IE" href="https://www.oracle.com/europe/">
+<link rel="alternate" hreflang="he-IL" href="https://www.oracle.com/il/">
+<link rel="alternate" hreflang="en-IL" href="https://www.oracle.com/il-en/">
+<link rel="alternate" hreflang="en-MY" href="https://www.oracle.com/asean/">
+<link rel="alternate" hreflang="es-PE" href="https://www.oracle.com/latam/">
+<link rel="alternate" hreflang="en-PH" href="https://www.oracle.com/asean/">
+<link rel="alternate" hreflang="pl-PL" href="https://www.oracle.com/pl/">
+<link rel="alternate" hreflang="pt-PT" href="https://www.oracle.com/europe/">
+<link rel="alternate" hreflang="ro-RO" href="https://www.oracle.com/ro/">
+<link rel="alternate" hreflang="sv-SE" href="https://www.oracle.com/se/">
+<link rel="alternate" hreflang="tr-TR" href="https://www.oracle.com/tr/">
+<link rel="alternate" hreflang="en-ZA" href="https://www.oracle.com/africa/">
+<link rel="alternate" hreflang="de-AT" href="https://www.oracle.com/de/">
+<link rel="alternate" hreflang="en-BA" href="https://www.oracle.com/europe/">
+<link rel="alternate" hreflang="en-BD" href="https://www.oracle.com/apac/">
+<link rel="alternate" hreflang="en-BE" href="https://www.oracle.com/europe/">
+<link rel="alternate" hreflang="bg-BG" href="https://www.oracle.com/europe/">
+<link rel="alternate" hreflang="en-BH" href="https://www.oracle.com/middleeast/">
+<link rel="alternate" hreflang="ar-BH" href="https://www.oracle.com/middleeast-ar/">
+<link rel="alternate" hreflang="en-BZ" href="https://www.oracle.com/bz/">
+<link rel="alternate" hreflang="es-CR" href="https://www.oracle.com/latam/">
+<link rel="alternate" hreflang="en-CY" href="https://www.oracle.com/europe/">
+<link rel="alternate" hreflang="da-DK" href="https://www.oracle.com/europe/">
+<link rel="alternate" hreflang="fr-DZ" href="https://www.oracle.com/africa-fr/">
+<link rel="alternate" hreflang="en-EE" href="https://www.oracle.com/europe/">
+<link rel="alternate" hreflang="en-EG" href="https://www.oracle.com/middleeast/">
+<link rel="alternate" hreflang="ar-EG" href="https://www.oracle.com/middleeast-ar/">
+<link rel="alternate" hreflang="fi-FI" href="https://www.oracle.com/europe/">
+<link rel="alternate" hreflang="en-GH" href="https://www.oracle.com/africa/">
+<link rel="alternate" hreflang="el-GR" href="https://www.oracle.com/europe/">
+<link rel="alternate" hreflang="hr-HR" href="https://www.oracle.com/europe/">
+<link rel="alternate" hreflang="hu-HU" href="https://www.oracle.com/europe/">
+<link rel="alternate" hreflang="en-JO" href="https://www.oracle.com/middleeast/">
+<link rel="alternate" hreflang="ar-JO" href="https://www.oracle.com/middleeast-ar/">
+<link rel="alternate" hreflang="en-KE" href="https://www.oracle.com/africa/">
+<link rel="alternate" hreflang="en-KW" href="https://www.oracle.com/middleeast/">
+<link rel="alternate" hreflang="ar-KW" href="https://www.oracle.com/middleeast-ar/">
+<link rel="alternate" hreflang="en-LK" href="https://www.oracle.com/apac/">
+<link rel="alternate" hreflang="en-LU" href="https://www.oracle.com/europe/">
+<link rel="alternate" hreflang="lv-LV" href="https://www.oracle.com/europe/">
+<link rel="alternate" hreflang="fr-MA" href="https://www.oracle.com/ma/">
+<link rel="alternate" hreflang="en-NG" href="https://www.oracle.com/africa/">
+<link rel="alternate" hreflang="no-NO" href="https://www.oracle.com/europe/">
+<link rel="alternate" hreflang="en-NZ" href="https://www.oracle.com/nz/">
+<link rel="alternate" hreflang="en-QA" href="https://www.oracle.com/qa/">
+<link rel="alternate" hreflang="ar-QA" href="https://www.oracle.com/qa-ar/">
+<link rel="alternate" hreflang="sr-RS" href="https://www.oracle.com/europe/">
+<link rel="alternate" hreflang="sl-SI" href="https://www.oracle.com/europe/">
+<link rel="alternate" hreflang="sk-SK" href="https://www.oracle.com/europe/">
+<link rel="alternate" hreflang="fr-SN" href="https://www.oracle.com/africa-fr/">
+<link rel="alternate" hreflang="en-TH" href="https://www.oracle.com/asean/">
+<link rel="alternate" hreflang="uk-UA" href="https://www.oracle.com/ua/">
+<link rel="alternate" hreflang="es-UY" href="https://www.oracle.com/latam/">
+<link rel="alternate" hreflang="en-VN" href="https://www.oracle.com/asean/">
+<link rel="alternate" hreflang="lt-LT" href="https://www.oracle.com/lt/">
+<meta name="altpages" content="br,cn,de,fr,in,jp,uk,ae,ae-ar,ar,au,ca-en,ca-fr,ch-de,ch-fr,cl,co,es,hk,it,kr,mx,nl,sa,sa-ar,sg,tw,cz,id,ie,il,il-en,my,pe,ph,pl,pt,ro,se,tr,za,at,ba,bd,be,bg,bh,bh-ar,bz,cr,cy,dk,dz,ee,eg,eg-ar,fi,gh,gr,hr,hu,jo,jo-ar,ke,kw,kw-ar,lk,lu,lv,ma,ng,no,nz,qa,qa-ar,rs,si,sk,sn,th,ua,uy,vn,lt">
+<script type="text/javascript">
+var pageData = pageData || {};
+//page info
+pageData.pageInfo = pageData.pageInfo || {};
+pageData.pageInfo.altPages = "br,cn,de,fr,in,jp,uk,ae,ae-ar,ar,au,ca-en,ca-fr,ch-de,ch-fr,cl,co,es,hk,it,kr,mx,nl,sa,sa-ar,sg,tw,cz,id,ie,il,il-en,my,pe,ph,pl,pt,ro,se,tr,za,at,ba,bd,be,bg,bh,bh-ar,bz,cr,cy,dk,dz,ee,eg,eg-ar,fi,gh,gr,hr,hu,jo,jo-ar,ke,kw,kw-ar,lk,lu,lv,ma,ng,no,nz,qa,qa-ar,rs,si,sk,sn,th,ua,uy,vn,lt";
+</script>
+<!-- end : ocom/common/global/components/seo-hreflang-meta-tags -->
+<!-- end : ocom/common/global/components/head -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- start : ocom/common/global/components/framework/layoutAssetHeadInfo -->
+<!-- Container/Display Start -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<link rel="dns-prefetch" href="https://dc.oracleinfinity.io" crossorigin="anonymous">
+<link rel="dns-prefetch" href="https://oracle.112.2o7.net" crossorigin="anonymous">
+<link rel="dns-prefetch" href="https://s.go-mpulse.net" crossorigin="anonymous">
+<link rel="dns-prefetch" href="https://c.go-mpulse.net" crossorigin="anonymous">
+<link rel="preconnect" href="https://tms.oracle.com/" crossorigin="anonymous">
+<link rel="preconnect" href="https://tags.tiqcdn.com/" crossorigin="anonymous">
+<link rel="preconnect" href="https://consent.trustarc.com" crossorigin="anonymous">
+<link rel="preconnect" href="https://d.oracleinfinity.io" crossorigin="anonymous">
+<link rel="preload" href="https://www.oracle.com/asset/web/fonts/oraclesansvf.woff2" as="font" crossorigin="anonymous" type="font/woff2">
+<link rel="preload" href="https://www.oracle.com/asset/web/fonts/redwoodicons.woff2" as="font" crossorigin="anonymous" type="font/woff2">
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Container/Display end -->
+<!-- Container/Display Start -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- BEGIN CSS/JS -->
+<style>
+body{margin:0}
+.f20w1 > section{opacity:0;filter:opacity(0%)}
+.f20w1 > div{opacity:0;filter:opacity(0%)}
+.f20w1 > nav{opacity:0;filter:opacity(0%)}
+</style>
+<script>
+!function(){
+var d=document.documentElement;d.className=d.className.replace(/no-js/,'js');
+if(document.location.href.indexOf('betamode=') > -1) document.write('<script src="/asset/web/js/ocom-betamode.js"><\/script>');
+}();
+</script>
+<link data-wscss="" href="/asset/web/css/redwood-base.css" rel="stylesheet" as="style" onload="this.rel='stylesheet';" onerror="this.rel='stylesheet'">
+<link data-wscss="" href="/asset/web/css/redwood-styles.css" rel="stylesheet" as="style" onload="this.rel='stylesheet';" onerror="this.rel='stylesheet'">
+<noscript>
+<link href="/asset/web/css/redwood-base.css" rel="stylesheet">
+<link href="/asset/web/css/redwood-styles.css" rel="stylesheet">
+</noscript>
+<script src="/asset/web/js/redwood-base.js"></script><link data-wsjs="" data-reqjq="" href="/asset/web/js/redwood-base.js" rel="preload" as="script">
+<script src="/asset/web/js/redwood-lib.js"></script><link data-wsjs="" data-reqjq="" href="/asset/web/js/redwood-lib.js" rel="preload" as="script">
+<script data-wsjs="" src="/asset/web/js/jquery-min.js" async="" onload="$('head link[data-reqjq][rel=preload]').each(function(){var a = document.createElement('script');a.async=false;a.src=$(this).attr('href');this.parentNode.insertBefore(a, this);});$(function(){$('script[data-reqjq][data-src]').each(function(){this.async=true;this.src=$(this).data('src');});});"></script>
+<!-- END CSS/JS -->
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Container/Display end -->
+<!-- Container/Display Start -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- www-us HeadAdminContainer -->
+<link rel="icon" href="https://www.oracle.com/asset/web/favicons/favicon-32.png" sizes="32x32">
+<link rel="icon" href="https://www.oracle.com/asset/web/favicons/favicon-128.png" sizes="128x128">
+<link rel="icon" href="https://www.oracle.com/asset/web/favicons/favicon-192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://www.oracle.com/asset/web/favicons/favicon-120.png" sizes="120x120">
+<link rel="apple-touch-icon" href="https://www.oracle.com/asset/web/favicons/favicon-152.png" sizes="152x152">
+<link rel="apple-touch-icon" href="https://www.oracle.com/asset/web/favicons/favicon-180.png" sizes="180x180">
+<meta name="msapplication-TileColor" content="#fcfbfa">
+<meta name="msapplication-square70x70logo" content="favicon-128.png">
+<meta name="msapplication-square150x150logo" content="favicon-270.png">
+<meta name="msapplication-TileImage" content="favicon-270.png">
+<meta name="msapplication-config" content="none">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<style>
+#oReactiveChatContainer1 { display:none;}
+</style>
+<!--Tealium embed code Start -->
+<script src="https://tms.oracle.com/main/prod/utag.sync.js"></script>
+<!-- Loading script asynchronously -->
+<script type="text/javascript">
+(function(a,b,c,d){
+if(location.href.indexOf("tealium=dev") == -1) {
+a='https://tms.oracle.com/main/prod/utag.js';
+} else {
+a='https://tms.oracle.com/main/dev/utag.js';
+}
+b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+})();
+</script>
+<!--Tealium embed code End-->
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Container/Display end -->
+<!-- end : ocom/common/global/components/framework/layoutAssetHeadInfo -->
+
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"true","rua.cpre":"true","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"SJ-0b7c4cd0-9510-4e20-ab30-fbf8d37d29f0","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"true","rua.isuxp":"false","rua.texp":"norulematch","rua.ceh":"false","rua.ueh":"false","rua.ieh.st":"0"}]);</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="DXNLE-YBWWY-AR74T-WMD99-77VRA",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"DXNLE-YBWWY-AR74T-WMD99-77VRA";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n="true"=="true"?1:0,t="",a="eqcuqaqxzw2pajafjaabrqihrjuug4nk-f-848ffced9-clienttons-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"82485","ak.ai":parseInt("604074",10),"ak.ol":"0","ak.cr":3,"ak.ipv":6,"ak.proto":"h2","ak.rid":"61cd12c","ak.r":50336,"ak.a2":n,"ak.m":"dscx","ak.n":"essl","ak.bpcip":"2405:4802:17cd:b4f0::","ak.cport":63265,"ak.gh":"23.202.89.125","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1766027690","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==ZmdJ+GMQnLTwOI805FEVnAV6FSP5wKdtzAd9iCXBqEtk0CdGPK5w5l4Ft9oF4zajaKHnwnh4khTqDynoL/0IpqsHeD0259LK1wj0mUHpzs51OHxJAolEaCqRYpPOQw/4XkVcvB+/C1tCHB1+BhWCmSMqUqNhYlhbjfZkjwqm6IAx9tPADFbnvtl8NoOLpbPCtTzt+ZjVIm9+x7WFo0I5LWU0fpV9VWcU+FO5M2GC4XkIBbXc64NM+AF5SngpIIEbUIyFXXSY29W4paWRXhIIEiCTRqVZ+IZ7dUNM2JiLQo7bT0A6Juf/YNnmzmS1d6cX1cBZZhba2RmLwbS61rKMnhR8HcTexmTdGIZzi1Ulqb+0F6Z+Z8cXIgHAFOfF2gVWP0PD9DMaZzIqSYlCncHJ89lAXXnDI1890clgqvJ+r4Q=","ak.pv":"517","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><link href="https://s.go-mpulse.net/boomerang/DXNLE-YBWWY-AR74T-WMD99-77VRA" rel="preload" as="script"><script type="text/javascript" async="" charset="utf-8" id="tiqapp" src="https://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=oracle/main/202512171911&amp;cb=1766027690851"></script><script id="boomr-scr-as" src="https://s.go-mpulse.net/boomerang/DXNLE-YBWWY-AR74T-WMD99-77VRA" async=""></script><script type="text/javascript" async="" charset="utf-8" id="utag_oracle.main_42" src="//tms.oracle.com/main/prod/utag.42.js?utv=ut4.48.202508291757"></script><script type="text/javascript" async="" charset="utf-8" id="utag_oracle.main_124" src="//tms.oracle.com/main/prod/utag.124.js?utv=ut4.48.202505151423"></script><script type="text/javascript" async="" charset="utf-8" id="utag_oracle.main_5" src="//tms.oracle.com/main/prod/utag.5.js?utv=ut4.48.202508192308"></script><script src="/asset/web/js/handlebars-redwood.js" type="text/javascript"></script><style type="text/css">.oda-chat-button{display: none !important;}</style><script type="text/javascript" src="/asset/web/js/settings-v2.js" async=""></script><script type="text/javascript" src="/asset/web/js/web-sdk.js" async=""></script><script type="text/javascript" src="https://d.oracleinfinity.io/infy/acs/common/js/1.3.52/common.js" async="true" defer="true"></script><script type="text/javascript" src="https://d.oracleinfinity.io/infy/acs/account/wh3g12c3gg/js/oracle/analytics-production/analytics.js" async="true" defer="true"></script><meta http-equiv="origin-trial" content="A6ZlvBxsryW9hXgcaPJ9kpW0x7/fHa3bkV+ey55MdskMuoTzOWSI8Au9e4ZxhzDxsAv6uc//J3N1evSQQWPjZAAAAACaeyJvcmlnaW4iOiJodHRwczovL2NvbnNlbnQudHJ1c3RhcmMuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmcyIiwiZXhwaXJ5IjoxNzQyMzQyMzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><link id="dnsprefetchlink" rel="dns-prefetch" href="//eqcuqaqxzw2pajafjaabrqihrjuug4nk-f-848ffced9-clienttons-s.akamaihd.net"></head><!-- end : ocom/common/global/components/framework/head --><!-- start : ocom/common/global/components/framework/layoutAssetStartBodyInfo -->
+<body class="f20 f20v0 ready">
+<!-- Container/Display Start -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- www-us StartBodyAdminContainer -->
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Container/Display end -->
+<div id="u30skip2content">
+<ul><li><a id="u30skip2c" href="#maincontent">Skip to content</a></li>
+
+<li><a id="u30acc" href="https://www.oracle.com/corporate/accessibility/">Accessibility Policy</a></li>
+</ul>
+</div><div class="f20w1">
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- U30v3 -->
+<style>
+#u30{opacity:1 !important;filter:opacity(100%) !important;position:sticky;top:0}
+.u30v3{background:#3a3632;height:50px;overflow:hidden;border-top:5px solid #3a3632;border-bottom:5px solid #3a3632}
+#u30nav,#u30tools{visibility:hidden}
+.u30v3 #u30logo {width:121px;height: 44px;display: inline-flex;justify-content: flex-start;}
+#u30:not(.u30mobile) .u30-oicn-mobile,#u30.u30mobile .u30-oicn{display:none}
+#u30logo svg{height:auto;align-self:center}
+.u30brand{height:50px;display:flex;flex-direction:column;justify-content:center;align-items:flex-start;max-width:1344px;padding:0 48px;margin:0 auto}
+.u30brandw1{display:flex;flex-direction:row;color:#fff;text-decoration:none;align-items:center}
+@media (max-width:1024px){.u30brand{padding:0 24px}}
+#u30skip2,#u30skip2content{transform:translateY(-100%);position:fixed}
+.rtl #u30{direction:rtl}
+</style>
+<section id="u30" class="u30 u30v3 searchv2 u30tablet ws-sticky rw-sticky contentloaded" data-trackas="header" role="banner">
+
+<div class="u30w1 cwidth" id="u30w1">
+<div id="u30brand" class="u30brand">
+<div class="u30brandw1">
+<a id="u30btitle" href="https://www.oracle.com/" data-lbl="logo" aria-label="Oracle Home">
+<div id="u30logo">
+<svg class="u30-oicn-mobile" xmlns="http://www.w3.org/2000/svg" width="32" height="21" viewBox="0 0 32 21"><path fill="#C74634" d="M9.9,20.1c-5.5,0-9.9-4.4-9.9-9.9c0-5.5,4.4-9.9,9.9-9.9h11.6c5.5,0,9.9,4.4,9.9,9.9c0,5.5-4.4,9.9-9.9,9.9H9.9 M21.2,16.6c3.6,0,6.4-2.9,6.4-6.4c0-3.6-2.9-6.4-6.4-6.4h-11c-3.6,0-6.4,2.9-6.4,6.4s2.9,6.4,6.4,6.4H21.2"></path></svg>
+<svg class="u30-oicn" xmlns="http://www.w3.org/2000/svg" width="231" height="30" viewBox="0 0 231 30" preserveAspectRatio="xMinYMid"><path fill="#C74634" d="M99.61,19.52h15.24l-8.05-13L92,30H85.27l18-28.17a4.29,4.29,0,0,1,7-.05L128.32,30h-6.73l-3.17-5.25H103l-3.36-5.23m69.93,5.23V0.28h-5.72V27.16a2.76,2.76,0,0,0,.85,2,2.89,2.89,0,0,0,2.08.87h26l3.39-5.25H169.54M75,20.38A10,10,0,0,0,75,.28H50V30h5.71V5.54H74.65a4.81,4.81,0,0,1,0,9.62H58.54L75.6,30h8.29L72.43,20.38H75M14.88,30H32.15a14.86,14.86,0,0,0,0-29.71H14.88a14.86,14.86,0,1,0,0,29.71m16.88-5.23H15.26a9.62,9.62,0,0,1,0-19.23h16.5a9.62,9.62,0,1,1,0,19.23M140.25,30h17.63l3.34-5.23H140.64a9.62,9.62,0,1,1,0-19.23h16.75l3.38-5.25H140.25a14.86,14.86,0,1,0,0,29.71m69.87-5.23a9.62,9.62,0,0,1-9.26-7h24.42l3.36-5.24H200.86a9.61,9.61,0,0,1,9.26-7h16.76l3.35-5.25h-20.5a14.86,14.86,0,0,0,0,29.71h17.63l3.35-5.23h-20.6" transform="translate(-0.02 0)"></path></svg>
+</div>
+</a>
+</div>
+</div>
+<div id="u30nav" class="u30nav" data-closetxt="Close Menu" data-trackas="menu">
+<nav id="u30navw1" aria-label="Oracle website" class=""><ul class="u30navul">
+<li><button data-navtarget="products" aria-controls="products2" aria-expanded="false" class="u30navitem" id="products1">Products</button><div data-dropdown="products" class="u30navw2" id="products2" role="region" aria-labelledby="products1"></div></li>
+<li><button data-navtarget="industries" aria-controls="industries2" aria-expanded="false" class="u30navitem" id="industries1">Industries</button><div data-dropdown="industries" class="u30navw2" id="industries2" role="region" aria-labelledby="industries1"></div></li>
+<li><button data-navtarget="resources" aria-controls="resources2" aria-expanded="false" class="u30navitem" id="resources1">Resources</button><div data-dropdown="resources" class="u30navw2" id="resources2" role="region" aria-labelledby="resources1"></div></li>
+<li><button data-navtarget="customers" aria-controls="customers2" aria-expanded="false" class="u30navitem" id="customers1">Customers</button><div data-dropdown="customers" class="u30navw2" id="customers2" role="region" aria-labelledby="customers1"></div></li>
+<li><button data-navtarget="partners" aria-controls="partners2" aria-expanded="false" class="u30navitem" id="partners1">Partners</button><div data-dropdown="partners" class="u30navw2" id="partners2" role="region" aria-labelledby="partners1"></div></li>
+<li><button data-navtarget="developers" aria-controls="developers2" aria-expanded="false" class="u30navitem" id="developers1">Developers</button><div data-dropdown="developers" class="u30navw2" id="developers2" role="region" aria-labelledby="developers1"></div></li>
+<li><button data-navtarget="company" aria-controls="company2" aria-expanded="false" class="u30navitem" id="company1">Company</button><div data-dropdown="company" class="u30navw2" id="company2" role="region" aria-labelledby="company1"></div></li>
+</ul></nav>
+</div>
+<div id="u30tools" class="u30tools">
+<div id="u30search">
+<div id="u30searchw1" style="margin-right: 10px; right: 0px; width: 397px;">
+<div id="u30searchw2">
+<form name="u30searchForm" id="u30searchForm" data-contentpaths="/content/Web/Shared/Auto-Suggest Panel Event" method="get" action="https://search.oracle.com/results">
+<div class="u30s1">
+<button id="u30closesearch" aria-label="Close Search" type="button">
+<span>Close Search</span>
+<svg width="9" height="14" viewBox="0 0 9 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8 13L2 7L8 1" stroke="#161513" stroke-width="2"></path>
+</svg>
+</button>
+<span class="u30input">
+<div class="u30inputw1">
+<input id="u30input" name="q" value="" type="text" placeholder="Search" autocomplete="off" aria-autocomplete="both" aria-label="Search Oracle.com" role="combobox" aria-expanded="false" aria-haspopup="listbox" aria-controls="u30searchw3">
+</div>
+<input type="hidden" name="size" value="10">
+<input type="hidden" name="page" value="1">
+<input type="hidden" name="tab" value="all">
+<span id="u30searchw3title" class="u30visually-hidden">Search Oracle.com</span>
+<div id="u30searchw3" data-pagestitle="SUGGESTED LINKS" data-autosuggesttitle="SUGGESTED SEARCHES" data-allresultstxt="All results for" data-allsearchpath="https://search.oracle.com/results?q=u30searchterm&amp;size=10&amp;page=1&amp;tab=all" role="listbox" aria-labelledby="u30searchw3title" style="margin-left: 0px;">
+<ul id="u30quicklinks" class="autocomplete-items" role="group" aria-labelledby="u30quicklinks-title">
+<li role="presentation" class="u30auto-title" id="u30quicklinks-title">QUICK LINKS</li>
+<li role="option"><a href="/cloud/" data-lbl="quick-links:oci">Oracle Cloud Infrastructure</a>
+</li>
+<li role=" option"><a href="/applications/" data-lbl="quick-links:applications">Oracle Fusion Cloud Applications</a></li>
+<li role="option"><a href="/database/" data-lbl="quick-links:ai-database">Oracle AI Database</a></li>
+<li role="option"><a href="/java/technologies/downloads/" data-lbl="quick-links:download-java">Download Java</a>
+</li>
+<li role="option"><a href="/careers/" data-lbl="quick-links:careers">Careers at Oracle</a></li>
+</ul>
+</div>
+<span class="u30submit">
+<input class="u30searchbttn" type="submit" value="Submit Search">
+</span>
+<button id="u30clear" type="reset" aria-label="Clear Search">
+<svg width="20" height="20" viewBox="0 0 20 20" aria-hidden="true" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M7 7L13 13M7 13L13 7M19 10C19 14.9706 14.9706 19 10 19C5.02944 19 1 14.9706 1 10C1 5.02944 5.02944 1 10 1C14.9706 1 19 5.02944 19 10Z" stroke="#161513" stroke-width="2"></path>
+</svg>
+</button>
+</span>
+</div>
+</form>
+<div id="u30announce" data-alerttxt="suggestions found to navigate use up and down arrows" class="u30visually-hidden" aria-live="polite"></div>
+</div>
+</div>
+<button class="u30searchBtn" id="u30searchBtn" type="button" aria-label="Open Search Field" aria-expanded="false">
+<span>Search</span>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+<path d="M15,15l6,6M17,10a7,7,0,1,1-7-7A7,7,0,0,1,17,10Z"></path>
+</svg>
+</button>
+</div>
+<span id="ac-flag">
+<a class="flag-focus" href="/countries-list.html#countries" data-ajax="true" rel="lightbox" role="button" data-lbl="lightbox-open-
+country
+
+
+-lightbox-open" data-trackas="lightbox" data-attr="countrieslist">
+<span class="sr-only">Country</span>
+<img class="flag-image" src="https://www.oracle.com/asset/web/i/flg-us.svg" alt="United States selected" data-attr="countrieslist">
+
+</a>
+
+        <span class="acs-arrow show"></span><div class="acs-wrapper show" id="acs-wrapper" role="dialog" aria-labelledby="continue-message stay-message" data-trackas="active-country-select">
+            <button class="icn-close acs-close" aria-label="close country selector" data-lbl="close"><span class="sr-only">Close</span></button>
+            <div class="acs-details-wrapper">
+                <!--//Browser language-->
+                
+                <!--//Page language-->
+                <p class="stay-message" id="stay-message">Would you like to visit an Oracle country site closer to you?</p>
+                <div class="acs-buttons">
+                    <div class="obttns">
+                        <div>
+                            <a href="https://www.oracle.com/asean/" class="page-button" aria-label="visit Oracle Vietnam" data-lbl="visit-en:vn" lang="en-vn"><span class="countrynamewrapper">
+    
+                                    <span class="countrynamenoswap">
+                                        Visit Oracle
+                                        Vietnam
+                                    </span>
+                                </span>
+                                </a>
+                        </div>
+                        <div class="obttn1">
+                            <a href="" class="browser-button" lang="en">No thanks, I'll stay here</a>
+                        </div>
+                    </div>
+                </div>
+                <a href="/countries-list.html#countries" data-ajax="true" rel="lightbox" role="button" class="choose-language" lang="en" data-attr="countrieslist" data-lbl="lightbox-open-see-this-page-for-a-different-country/region" data-trackas="lightbox">See this page for a different country/region</a>
+            </div>
+        </div></span>
+<div id="u30-profile" class="u30-profile">
+<button id="u30-flyout" data-lbl="sign-in-account" aria-expanded="false" aria-labelledby="acctBtnLabel">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path d="M17,19.51A3,3,0,0,0,14,17H10a3,3,0,0,0-3,2.51m9.92,0a9,9,0,1,0-9.92,0m9.92,0a9,9,0,0,1-9.92,0M15,10a3,3,0,1,1-3-3A3,3,0,0,1,15,10Z"></path></svg>
+<span class="acttxt" id="acctBtnLabel">View Accounts</span>
+</button>
+<div id="u30-profilew1" style="">
+<button id="u30actbck" aria-label="close account flyout"><span class="u30actbcktxt">Back</span></button>
+<div class="u30-profilew2">
+<span class="u30acttitle">Cloud Account</span>
+<a href="/cloud/sign-in.html" class=" u30darkcta u30cloudbg" data-lbl="sign-in-to-cloud">Sign in to Cloud</a>
+<a href="/cloud/free/" class="u30lightcta" data-lbl="try-free-cloud-trial">Sign Up for Free Cloud Tier</a>
+</div>
+<span class="u30acttitle">Oracle Account</span>
+<ul class="u30l-out">
+<li><a href="https://www.oracle.com/webapps/redirect/signon?nexturl=https%3A%2F%2Fwww.oracle.com%2F" data-lbl="profile:sign-in-account" class="u30darkcta">Sign-In</a></li>
+<li><a href="https://profile.oracle.com/myprofile/account/create-account.jspx" data-lbl="profile:create-account" class="u30lightcta">Create an Account</a></li>
+</ul>
+<ul class="u30l-in">
+<li><a href="/corporate/contact/help.html" data-lbl="help">Help</a></li>
+<li><a href="https://www.oracle.com/webapps/cloudgate/logout.html?postlogouturl=https%3A%2F%2Fwww.oracle.com%2F" id="u30pfile-sout" data-lbl="signout">Sign Out</a></li>
+</ul>
+</div>
+</div>
+<div class="u30-contact">
+<a href="/corporate/contact/" data-lbl="contact-us" title="Contact Sales"><span>Contact Sales</span></a>
+</div>
+<a href="/global-menu-v2/" id="u30ham" role="button" aria-expanded="false" aria-controls="u30navw1">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+<title>Menu</title>
+<path d="M16,4 L2,4" class="p1"></path>
+<path d="M2,12 L22,12" class="p2"></path>
+<path d="M2,20 L16,20" class="p3"></path>
+<path d="M0,12 L24,12" class="p4"></path>
+<path d="M0,12 L24,12" class="p5"></path>
+</svg>
+<span>Menu</span>
+</a>
+</div>
+</div>
+<script>
+var u30min = [722,352,0,0];
+var u30brsz = new ResizeObserver(u30 => {
+document.getElementById('u30').classList.remove('u30mobile','u30tablet','u30notitle');
+let u30b = document.getElementById('u30brand').offsetWidth,
+u30t = document.getElementById('u30tools').offsetWidth ;
+u30v = document.getElementById('u30navw1');
+u30w = document.getElementById('u30w1').offsetWidth - 48;
+if((u30b + u30t) > u30min[0]){
+u30min[2] = ((u30b + u30t) > 974) ? u30b + u30t + 96 : u30b + u30t + 48;
+}else{
+u30min[2] = u30min[0];
+}
+u30min[3] = ((u30b + 112) > u30min[1]) ? u30min[3] = u30b + 112 : u30min[3] = u30min[1];
+u30v.classList.add('u30navchk');
+u30min[2] = (u30v.lastElementChild.getBoundingClientRect().right > u30min[2]) ? Math.ceil(u30v.lastElementChild.getBoundingClientRect().right) : u30min[2];
+u30v.classList.remove('u30navchk');
+if(u30w <= u30min[3]){
+document.getElementById('u30').classList.add('u30notitle');
+}
+if(u30w <= u30min[2]){
+document.getElementById('u30').classList.add('u30mobile');
+}
+});
+var u30wrsz = new ResizeObserver(u30 => {
+let u30n = document.getElementById('u30navw1').getBoundingClientRect().height,
+u30h = u30[0].contentRect.height;
+let u30c = document.getElementById('u30').classList,
+u30w = document.getElementById('u30w1').offsetWidth - 48,
+u30m = 'u30mobile',
+u30t = 'u30tablet';
+if(u30c.contains('navexpand') && u30c.contains(u30m) && u30w > u30min[2]){
+if(!document.querySelector('button.u30navitem.active')){
+document.getElementById('u30ham').click();
+}
+u30c.remove(u30m);
+if(document.getElementById('u30').getBoundingClientRect().height > 80){
+u30c.add(u30t);
+}else{
+u30c.remove(u30t);
+}
+}else if(u30w <= u30min[2]){
+if(getComputedStyle(document.getElementById('u30tools')).visibility != "hidden"){
+u30c.add(u30m);
+u30c.remove(u30t);
+}
+}else if(u30n < 30 && u30h > 80){
+u30c.add(u30t);
+u30c.remove(u30m);
+}else if(u30n > 30){
+u30c.add(u30m);
+u30c.remove(u30t);
+}else if(u30n < 30 && u30h <= 80){
+u30c.remove(u30m);
+if(document.getElementById('u30').getBoundingClientRect().height > 80){
+u30c.add(u30t);
+}else{
+u30c.remove(u30t);
+}
+}
+});
+u30brsz.observe(document.getElementById('u30btitle'));
+u30wrsz.observe(document.getElementById('u30'));
+</script>
+<span id="u30pgOverlay"></span><div id="u30navBg"><div id="u30navBgscroll" class="cwidth"><div></div></div></div></section><div id="maincontent" class="sr-only"></div>
+<!-- /U30v3 -->
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- end : ocom/common/global/components/framework/layoutAssetStartBodyInfo -->
+<!-- Home Page Widget - 1 -->
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<style>
+main > *{opacity:0;filter:opacity(0%)}
+.f20w1 > footer{opacity:0;filter:opacity(0%)}
+</style>
+<main>
+<h1 class="sr-only">Oracle | Cloud Applications and Cloud Platform</h1>
+<!-- RH08v0 -->
+<section class="rh08 rh08v0 rw-neutral-40bg" data-trackas="rh08" data-ocomid="rh08" data-autorotate="5" data-randomize="true" data-playtext="Play" data-pausetext="Pause" data-a11y="true">
+<div class="cwidth">
+<div class="bgimgw1" style="display: block;">
+<div class="bg-texture2 bgimg bgimgw2 bgimg-cover bgimg-fsize bgimg-med"></div>
+<div class="bg-texture1 bgimg bgimgw2 bgimg-cover bgimg-fsize bgimg-med"></div>
+<br>
+</div>
+<div id="rh08" class="rh08slider rh08init rh08t-fade" style="visibility: visible;">
+<div class="rh08-arrows"><button data-lbl="scroll-left" class="rh08-arrow rh08-prevarrow" aria-label="previous slide" type="button"></button><button data-lbl="scroll-right" class="rh08-arrow rh08-nextarrow" aria-label="next slide" type="button"></button></div><div class="rh08sliderw1" id="rh08rh08sliderw1">
+<div class="rh08sliderw2" id="rh08rh08sliderw2">
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Home Page Widget - 2 -->
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<div class="rh08slide slick-active is-visible" aria-hidden="false" tabindex="0" id="rh08-s01" role="group" style="width: 925px;">
+<div class="rh08w1 cpad">
+<div class="rh08w2 rh02-img fadein-right-img" style="background-image:url('/a/ocom/img/rh08-q2fy26-2x85.webp')"></div>
+<div class="rh08w2 rh02txt" style="height: 393px; min-width: 454px;">
+<div class="rh08w5 fadein-text">
+<div class="rh08w6">
+<h2 class="rwaccent-4">Customer highlights from Oracle’s Q2FY26 earnings</h2>
+<div class="rh08body">
+<p>Thank you, Milwaukee Tool, DHL Supply Chain, Modal AI, Vail Resorts, Qatar Airways, Runway, and many others for trusting us to help drive your business success. Learn more about these and other Oracle customers.</p>
+<div class="obttns" style="display: none;">
+<div class="obttn"> <a href="/customers/earnings/?intcmp=OHP121025" data-lbl="cta-121025-panelx-earnings-q2fy26">Read their stories</a> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Home Page Widget - 3 -->
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<div class="rh08slide" aria-hidden="true" tabindex="-1" id="rh08-s02" role="group" style="width: 925px;">
+<div class="rh08w1 cpad">
+<div class="rh08w2 rh02-img" style="background-image:url('/a/ocom/img/rh08-gartner-erp.jpg')"></div>
+<div class="rh08w2 rh02txt" style="height: 393px; min-width: 454px;">
+<div class="rh08w5">
+<div class="rh08w6">
+<h2 class="rwaccent-4">Oracle named a Leader in 2025 Gartner® Magic Quadrant™ for Cloud ERP</h2>
+<div class="rh08body">
+<p>In both the Service-Centric Enterprises and Product-Centric Enterprises sections, Oracle has been recognized for its "Ability to Execute" and "Completeness of Vision" for Fusion Cloud ERP.</p>
+<div class="obttns" style="display: none;">
+<div class="obttn"> <a href="/news/announcement/oracle-recognized-as-a-leader-two-gartner-mq-reports-2025-11-05/" data-lbl="cta-110525-panelx-gartner-mq-erp-pr">Read the release</a> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Home Page Widget - 4 -->
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<div class="rh08slide" aria-hidden="true" tabindex="-1" id="rh08-s03" role="group" style="width: 925px;">
+<div class="rh08w1 cpad">
+<div class="rh08w2 rh02-img" style="background-image:url('/a/ocom/img/rh08-quest-2x85.webp')"></div>
+<div class="rh08w2 rh02txt" style="height: 393px; min-width: 454px;">
+<div class="rh08w5">
+<div class="rh08w6">
+<h2 class="rwaccent-4">Quest Diagnostics simplifies HR support with Oracle Fusion Cloud HCM</h2>
+<div class="rh08body">
+<p>Embedded AI agents help the company’s 55,000 employees get faster answers to their routine HR questions.</p>
+<div class="obttns" style="display: none;">
+<div class="obttn"> <a href="//www.oracle.com/customers/quest-diagnostics/" data-lbl="cta-121425-panelx-quest-diagnostics-cs">Read more</a> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Home Page Widget - 5 -->
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<div class="rh08slide" aria-hidden="true" tabindex="-1" id="rh08-s04" role="group" style="width: 925px;">
+<div class="rh08w1 cpad">
+<div class="rh08w2 rh02-img" style="background-image:url('/a/ocom/img/rh08-aidp-2x85.webp')"></div>
+<div class="rh08w2 rh02txt" style="height: 393px; min-width: 454px;">
+<div class="rh08w5">
+<div class="rh08w6">
+<h2 class="rwaccent-4">Oracle AI Data Platform simplifies AI application and agent development</h2>
+<div class="rh08body">
+<p>Enterprise platform integrates a broad set of LLMs, emerging AI dev tools, open source tools, and an extensible AI-ready data repository.</p>
+<div class="obttns" style="display: none;">
+<div class="obttn"> <a href="/ai-data-platform/ai-data-platform-ai-transformation-oci/" data-lbl="cta-101525-panelx-connect-aidp">Read more</a> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Home Page Widget - 6 -->
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<div class="rh08slide" aria-hidden="true" tabindex="-1" id="rh08-s05" role="group" style="width: 925px;">
+<div class="rh08w1 cpad">
+<div class="rh08w2 rh02-img" style="background-image:url('/a/ocom/img/rh08-govivace-2x85.webp')"></div>
+<div class="rh08w2 rh02txt" style="height: 393px; min-width: 454px;">
+<div class="rh08w5">
+<div class="rh08w6">
+<h2 class="rwaccent-4">GoVivace moves from MongoDB to Oracle Autonomous AI Database</h2>
+<div class="rh08body">
+<p>Migration helps provider of AI apps for call centers cut its data management and compute costs in half, simplify compliance.</p>
+<div class="obttns" style="display: none;">
+<div class="obttn"> <a href="//www.oracle.com/customers/govivace/" data-lbl="cta-121425-panelx-govivace-cs">Learn more</a> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Home Page Widget - 7 -->
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<div class="rh08slide" aria-hidden="true" tabindex="-1" id="rh08-s06" role="group" style="width: 925px;">
+<div class="rh08w1 cpad">
+<div class="rh08w2 rh02-img" style="background-image:url('/a/ocom/img/rh08-db26ai-2x85.webp')"></div>
+<div class="rh08w2 rh02txt" style="height: 393px; min-width: 454px;">
+<div class="rh08w5">
+<div class="rh08w6">
+<h2 class="rwaccent-4">Oracle introduces AI-native version of its flagship database</h2>
+<div class="rh08body">
+<p>Oracle AI Database 26ai integrates AI across all major functions and workloads.</p>
+<div class="obttns" style="display: none;">
+<div class="obttn"> <a href="/database/ai-native-database-26ai/" data-lbl="cta-101525-panelx-connect-database-26ai">Read more</a> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Home Page Widget - 8 -->
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<div class="rh08slide" aria-hidden="true" tabindex="-1" id="rh08-s07" role="group" style="width: 925px;">
+<div class="rh08w1 cpad">
+<div class="rh08w2 rh02-img" style="background-image:url('/a/ocom/img/rh08-oaiwt-ocom-carousel-tours-promo.webp')"></div>
+<div class="rh08w2 rh02txt" style="height: 393px; min-width: 454px;">
+<div class="rh08w5">
+<div class="rh08w6">
+<h2 class="rwaccent-4">Oracle AI World Tour: Experience the present and future of AI</h2>
+<div class="rh08body">
+<p>Join us at one of these complimentary one-day events in cities worldwide. Learn about the latest AI innovations from Oracle and other experts and how you can apply them to your business.</p>
+<div class="obttns" style="display: none;">
+<div class="obttn"> <a href="/ai-world-tour/?source=:ow:o:h:feb:::RC_WWMK250829P00026:OAIWT_Series_OcomCarousel_Nov10&amp;intcmp=:ow:o:h:feb:::RC_WWMK250829P00026:OAIWT_Series_OcomCarousel_Nov10" data-lbl="cta-111725-panelx-ai-world-tours">Learn more</a> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Home Page Widget - 9 -->
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+</div>
+</div>
+<div class="rh08-pills rh02w6" data-trackas="pills"><ul class="rh08-pillsw1  slick-animated-dots init dot-height"><li class="rh08-pill slick-active"><button class="rh08-pillbtn" type="button" title="Slide 1" data-lbl="view-slide-1" tabindex="0" aria-current="true"><span>Slide 1</span></button></li><li class="rh08-pill"><button class="rh08-pillbtn" type="button" title="Slide 2" data-lbl="view-slide-2"><span>Slide 2</span></button></li><li class="rh08-pill"><button class="rh08-pillbtn" type="button" title="Slide 3" data-lbl="view-slide-3"><span>Slide 3</span></button></li><li class="rh08-pill"><button class="rh08-pillbtn" type="button" title="Slide 4" data-lbl="view-slide-4"><span>Slide 4</span></button></li><li class="rh08-pill"><button class="rh08-pillbtn" type="button" title="Slide 5" data-lbl="view-slide-5"><span>Slide 5</span></button></li><li class="rh08-pill"><button class="rh08-pillbtn" type="button" title="Slide 6" data-lbl="view-slide-6"><span>Slide 6</span></button></li><li class="rh08-pill"><button class="rh08-pillbtn" type="button" title="Slide 7" data-lbl="view-slide-7"><span>Slide 7</span></button></li></ul><div class="rh08-pause"><button class="rh08-pausew1" tabindex="0" data-lbl="play" title="Play" data-play="Play" data-pause="Pause" aria-label="Start autoplay"><i class="rh08-pausebtn rh08-paused"></i><span>Play</span></button></div></div></div>
+</div>
+</section>
+<!-- /RH08v0 -->
+<!--/RH08-footer-section-->
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Home Page Widget - 10 -->
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<style>.rh09tile:before{background-color:#4C825C}</style>
+<!-- RH09v3 -->
+<section class="rh09 rh09v3 rw-neutral-10bg rw-pattern9 rw-pattern-50p rw-pattern-small lazyrwpattern-observed rw-pattern-load" data-trackas="rh09" data-ocomid="rh09" data-a11y="true">
+<h2 class="sr-only">Featured customers</h2>
+<div class="rh09w1 cwidth">
+<div class="rh09tiles col-framework col-justified col-gutters col3">
+<ul class="col-w1">
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Home Page Widget - 11 -->
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<li class="col-item rh09tile rw-neutral-00bg rw-theme-accent-beforebg">
+<div class="rh09-body">
+<div class="rh09-ttl">
+<h4 role="heading" aria-level="3">Oracle Health helps Milton Keynes University Hospital reduce wait times</h4>
+</div>
+<div class="rh09-copy">
+<p>Digital pre-op assessment tool, integrated with hospital's Oracle Health EHR, expands number of patients ready for surgery.</p>
+<div class="rh09-cta"> <a href="https://www.oracle.com/customers/milton-keynes-university-hospital/" data-lbl="hp-rh09-120925-milton-keynes-cs">Read more</a> </div>
+</div>
+<div class="rh09-img"> <img data-src="/a/ocom/img/rh09-milton-keynes.jpg" alt="Milton Keynes logo"> </div>
+</div>
+<div class="rh09-cta"> <a href="https://www.oracle.com/customers/milton-keynes-university-hospital/" data-lbl="hp-rh09-120925-milton-keynes-cs">Read Milton Keynes University Hospital's story</a> </div>
+</li>
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Home Page Widget - 12 -->
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<li class="col-item rh09tile rw-neutral-00bg rw-theme-accent-beforebg">
+<div class="rh09-body">
+<div class="rh09-ttl">
+<h4 role="heading" aria-level="3">SoundHound boosts performance, cuts costs with Oracle Cloud Infrastructure</h4>
+</div>
+<div class="rh09-copy">
+<p>With OCI as its core infrastructure, the AI solutions provider developed new capabilities, expanded into more industries, and grew globally.</p>
+<div class="rh09-cta"> <a href="https://www.oracle.com/customers/soundhound-ai-infrastructure/" data-lbl="hp-rh09-100925-soundhound-cs">Read SoundHound’s story</a> </div>
+</div>
+<div class="rh09-img"> <img data-src="/a/ocom/img/rh09-soundhound.jpg" alt="SoundHound logo"> </div>
+</div>
+<div class="rh09-cta"> <a href="https://www.oracle.com/customers/soundhound-ai-infrastructure/" data-lbl="hp-rh09-100925-soundhound-cs">Read SoundHound’s story</a> </div>
+</li>
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Home Page Widget - 13 -->
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<li class="col-item rh09tile rw-neutral-00bg rw-theme-accent-beforebg">
+<div class="rh09-body">
+<div class="rh09-ttl">
+<h4 role="heading" aria-level="3">Oracle Health Clinical AI Agent helps health system reduce documentation</h4>
+</div>
+<div class="rh09-copy">
+<p>In pilot program, Sarah Bush Lincoln providers were able to spend 14.8% less time in the EHR.</p><br>
+<div class="rh09-cta"> <a href="https://www.oracle.com/customers/sarah-bush-lincoln/" data-lbl="hp-rh09-100925-sarah-bush-lincoln-cs">Read Sarah Bush Lincoln’s story</a> </div>
+</div>
+<div class="rh09-img"> <img data-src="/a/ocom/img/rh09-sarah-bush-lincoln.jpg" alt="Sarah Bush Lincoln logo"> </div>
+</div>
+<div class="rh09-cta"> <a href="https://www.oracle.com/customers/sarah-bush-lincoln/" data-lbl="hp-rh09-100925-sarah-bush-lincoln-cs">Read Sarah Bush Lincoln’s story</a> </div>
+</li>
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Home Page Widget - 14 -->
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+</ul>
+</div>
+</div>
+</section>
+<!-- /RH09v3 -->
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Home Page Widget - 15 -->
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- RC20v4 -->
+<section class="rc20v1 rc20v3 rc20v4 rh02  rh02v1" data-trackas="rc20" data-a11y="true">
+<div id="rc20panels" class="rh02w1 rc20panels ">
+<div id="rc20p1" class="rh02panel rh02p1" data-trackas="rc20:panel1">
+<div class="rh02w2 darktheme rh02defpanel">
+<div class="rh02w5">
+<div class="rh02-pcontent focus-visible" data-lbl="panel1-home-apps-content-area">
+<h1 role="heading" aria-level="2" class="rh02-ttl oracleprefix">Cloud <b>Applications</b></h1>
+<div class="rh02-sub">A complete suite of cloud applications delivering consistent processes and data across your business Cloud</div>
+<div class="rh02-cta">
+<div class="obttns">
+<div><a data-lbl="panel1-home-apps-learn-more" href="/applications/">Explore cloud apps</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="rc20p2" class="rh02panel rh02p2" data-trackas="rc20:panel2">
+<div class="rh02w2 darktheme rh02defpanel">
+<div class="rh02w5">
+<div class="rh02-pcontent focus-visible" data-lbl="panel2-home-oci-content-area">
+<h1 role="heading" aria-level="2" class="rh02-ttl oracleprefix">Cloud <b>Infrastructure</b></h1>
+<div class="rh02-sub">An automated, secure platform for migrating enterprise workloads and building new cloud native apps</div>
+<div class="rh02-cta">
+<div class="obttns">
+<div><a data-lbl="panel2-home-oci-learn-more" href="/cloud/">Explore OCI</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- /RC20v4 -->
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- start : ocom/common/global/components/compass/related-widgets -->
+<!-- end : ocom/common/global/components/compass/related-widgets -->
+<!-- start : ocom/common/global/components/framework/layoutAssetEndBodyInfo -->
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- U10v0 -->
+<footer class="u10 u10v6" data-trackas="footer" type="redwood" data-ocomid="u10" data-a11y="true">
+<nav class="u10w1" aria-label="Footer">
+<div class="u10w2">
+<div class="u10w3" aria-labelledby="resourcesfor"><a class="u10btn" aria-hidden="true" tabindex="-1" role="" aria-labelledby="resourcesfor"></a>
+<h4 class="u10ttl" aria-hidden="true" id="resourcesfor">Resources for</h4>
+<ul aria-labelledby="resourcesfor">
+<li><a data-lbl="resources-for:career" href="/careers/">Careers</a></li>
+<li><a data-lbl="resources-for:developers" href="/developer/">Developers</a></li>
+<li><a data-lbl="resources-for:investors" href="https://investor.oracle.com/home/default.aspx">Investors</a></li>
+<li><a data-lbl="resources-for:partners" href="/partner/">Partners</a></li>
+<li><a data-lbl="resources-for:researchers" href="/research/">Researchers</a></li>
+<li><a data-lbl="resources-for:students-educators" href="https://academy.oracle.com/en/oa-web-overview.html">Students and Educators</a></li>
+</ul>
+</div>
+</div>
+<div class="u10w2">
+<div class="u10w3" aria-labelledby="whyoracle"><a class="u10btn" aria-hidden="true" tabindex="-1" role="" aria-labelledby="whyoracle"></a>
+<h4 class="u10ttl" aria-hidden="true" id="whyoracle">Why Oracle</h4>
+<ul aria-labelledby="whyoracle">
+<li><a data-lbl="why-oracle:analyst-reports" href="/corporate/analyst-reports/">Analyst Reports</a>
+</li>
+<li><a data-lbl="why-oracle:gartner-mq-erp-cloud" href="/erp/what-is-erp/best-erp/">Best cloud-based
+ERP</a></li>
+<li><a data-lbl="why-oracle:cloud-economics" href="/cloud/economics/">Cloud Economics</a></li>
+<li><a data-lbl="why-oracle:corporate-responsibility" href="/social-impact/">Social Impact</a></li>
+<li><a data-lbl="why-oracle:security-pracitices" href="/corporate/security-practices/">Security Practices</a></li>
+</ul>
+</div>
+</div>
+<div class="u10w2">
+<div class="u10w3" aria-labelledby="learn"><a class="u10btn" aria-hidden="true" tabindex="-1" role="" aria-labelledby="learn"></a>
+<h4 class="u10ttl" aria-hidden="true" id="learn">Learn</h4>
+<ul aria-labelledby="learn">
+<li><a data-lbl="learn:sovreign-cloud" href="/cloud/sovereign-cloud/what-is-sovereign-cloud/">What is a sovereign cloud?</a></li>
+<li><a data-lbl="learn:zero-trust" href="/security/what-is-zero-trust/">What is zero trust security?</a></li>
+<li><a data-lbl="learn:ai-finance" href="/erp/financials/ai-finance/">How AI is transforming finance</a></li>
+<li><a data-lbl="learn:vector-db" href="/database/vector-database/">What is a vector database?</a></li>
+<li><a data-lbl="learn:multicloud" href="/cloud/multicloud/what-is-multicloud/">What is multicloud?</a></li>
+<li><a data-lbl="learn:ai-agents" href="/artificial-intelligence/ai-agents/">What are AI agents?</a></li>
+</ul>
+</div>
+</div>
+<div class="u10w2">
+<div class="u10w3" aria-labelledby="newsandevents"><a class="u10btn" aria-hidden="true" tabindex="-1" role="" aria-labelledby="newsandevents"></a>
+<h4 class="u10ttl" aria-hidden="true" id="newsandevents">News and Events</h4>
+<ul aria-labelledby="newsandevents">
+<li><a data-lbl="newsandevents:news" href="/news/">News</a></li>
+<li><a data-lbl="newsandevents:oracle-ai-world" href="/ai-world/">Oracle AI World</a></li>
+<li><a data-lbl="newsandevents:oracle-health-summit" href="/health/health-summit/">Oracle Health Summit</a></li>
+<li><a data-lbl="newsandevents:dev-tour" href="/developer/dev-tour/">Oracle Dev Tour</a></li>
+<li><a data-lbl="newsandevents:search-all-events" href="https://search.oracle.com/events?q=&amp;lang=english">Search all events</a></li>
+</ul>
+</div>
+</div>
+<div class="u10w2">
+<div class="u10w3" aria-labelledby="contactus"><a class="u10btn" aria-hidden="true" tabindex="-1" role="" aria-labelledby="contactus"></a>
+<h4 class="u10ttl" aria-hidden="true" id="contactus">Contact Us</h4>
+<ul aria-labelledby="contactus"><li class="contact-details"> <img alt="" src="https://www.oracle.com/asset/web/i/flg-vn.svg"> <span>VN Sales</span> <a href="tel:842439447521">842439447521</a></li>
+<li><a href="tel:18006330738">US Sales: +1.800.633.0738</a></li>
+<li><a data-lbl="contact-us:how-can-we-help" href="/corporate/contact/">How can we help?</a></li>
+<li><a data-lbl="contact-us:subscribe-to-emails" href="https://go.oracle.com/subscribe/?l_code=en&amp;src1=OW:O:FO">Subscribe to emails</a></li>
+<li><a data-lbl="contact-us:integrity-helpline" href="https://secure.ethicspoint.com/domain/media/en/gui/31053/index.html">Integrity Helpline</a></li>
+<li><a data-lbl="contact-us:accessibility" href="/corporate/accessibility/">Accessibility</a></li>
+</ul>
+</div>
+</div>
+<div class="u10w4">
+<hr>
+</div>
+</nav>
+<div class="u10w11">
+
+<nav class="u10w5 u10w10" aria-label="Site info">
+<ul class="u10-links">
+<li></li>
+<li><a data-lbl="copyright" href="/legal/copyright/">© 2025 Oracle</a></li>
+<li><a data-lbl="privacy" href="/legal/privacy/" id="u10footer1">Privacy</a><span>/</span><a data-lbl="do-not-sell-my-info" href="/legal/privacy/privacy-choices/" id="u10footer2">Do Not Sell My
+Info</a></li>
+<li>
+<div id="teconsent" consent="undefined" aria-label="Open Cookie Preferences Modal" class="truste_caIcon_display" role="complementary"><script async="async" type="text/javascript" crossorigin="" importance="high" src="https://consent.trustarc.com/asset/notice.js/v/v1.7-6939"></script><a role="link" id="icon-id09295508092737126" tabindex="0" lang="en" aria-haspopup="dialog" aria-label="Cookie Preferences, opens a dedicated popup modal window" class="truste_cursor_pointer">Cookie Preferences</a></div>
+</li>
+<li><a data-lbl="ad-choices" href="/legal/privacy/privacy-policy/#adchoices" id="u10footer3">Ad
+Choices</a></li>
+<li><a data-lbl="careers" href="/corporate/careers/">Careers</a></li>
+</ul>
+</nav>
+<nav class="u10scl" aria-label="Social media links">
+<ul class="scl-icons" id="scl-icons">
+<li class="scl-facebook"><a data-lbl="scl-icon:facebook" href="https://www.facebook.com/Oracle/" rel="noopener noreferrer" target="_blank" aria-label="Oracle on Facebook"> </a></li>
+<li class="scl-twitter"><a data-lbl="scl-icon:twitter" href="https://twitter.com/oracle" rel="noopener noreferrer" target="_blank" aria-label="Follow Oracle on Twitter"> </a></li>
+<li class="scl-linkedin"><a data-lbl="scl-icon:linkedin" href="https://www.linkedin.com/company/oracle/" rel="noopener noreferrer" target="_blank" aria-label="Oracle on LinkedIn"> </a></li>
+<li class="scl-youtube"><a data-lbl="scl-icon:you-tube" href="https://www.youtube.com/oracle/" rel="noopener noreferrer" target="_blank" aria-label="Watch Oracle on YouTube"> </a></li>
+</ul>
+</nav>
+</div>
+</footer>
+<!-- /U10v6 -->
+<!-- END: oWidget_C/_Raw-Text/Display -->
+</main></div>
+<!-- Container/Display Start -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- Start - End Body Admin Container -->
+<!-- Start SiteCatalyst code -->
+<script type="text/javascript" data-reqjq="" data-src="/asset/web/analytics/ora_ocom.js" async="" src="/asset/web/analytics/ora_ocom.js"></script>
+<!-- End SiteCatalyst code -->
+<!-- End - End Body Admin Container -->
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Container/Display end -->
+<!-- end : ocom/common/global/components/framework/layoutAssetEndBodyInfo -->
+<script type="text/javascript" src="/OMl6/F5dy/wa/0Ryj/Y80Q/Jh5pSpiJEJai/DAVEagRFFAY/ExBTXgZ/NCkBt?v=cebad804-3060-86c5-f977-3ef0da7317ca" defer=""></script>
+
+
+
+<span aria-live="polite" aria-atomic="false" class="sr-only" id="aria-announcement"></span><script type="text/javascript" src="//consent.trustarc.com/notice?domain=oracle.com&amp;c=teconsent&amp;text=true&amp;gtm=1&amp;cdn=1&amp;pcookie" id="truste_0.628094115645364"></script><ocom-chatbot sales-txt="Talk to sales" chat-txt="Chat now" close-txt="Close" number-txt="Call US Sales" number="+1.800.633.0738" number-list="Complete list of &lt;a href=/corporate/contact/global.html&gt;local country numbers" proactive="5"><style>
+		.oda-chat-button{display:none}
+		.oda-chat-wrapper{font-family:var(--oraclesans,Oracle Sans,sans-serif) !important}
+		.oda-chat-wrapper div{color:unset;}
+		#oda-chat-end-conversation:focus{outline-color:#fff}
+		ocom-chatbot{position:relative;top:-20px;transition:opacity .2s ease .2s}
+		body:has(.oda-chat-expanded) ocom-chatbot {opacity:0}
+	</style></ocom-chatbot><script type="text/javascript" src="https://www.oracle.com/us/assets/metrics/ora_code.js"></script><iframe class="ta-display-none" name="trustarc_notice" id="trustarcNoticeFrame" title="Trustarc Cross-Domain Consent Frame" src="https://consent.trustarc.com/get?name=crossdomain.html&amp;domain=oracle.com"></iframe><div dir="auto" class="oda-chat-wrapper oda-chat-redwood-dark oda-chat- oda-chat-collapsed" style="height: 0px; width: 0px;"><div dir="auto" class="oda-chat-widget oda-chat-flex oda-chat-col oda-chat-none" role="region" aria-labelledby="oda-chat-title" style="width: 375px; height: 620px;"><div dir="auto" class="oda-chat-header oda-chat-flex"><div dir="auto" class="oda-chat-header-info-wrapper"><div dir="auto" class="oda-chat-title" id="oda-chat-title" title="Oracle Chatbot">Oracle Chatbot</div><div dir="auto" class="oda-chat-subtitle oda-chat-none"></div><div dir="auto" class="oda-chat-connection-status oda-chat-disconnected" title="Disconnected">Disconnected</div></div><div dir="auto" class="oda-chat-header-gap"></div><div dir="auto" class="oda-chat-header-actions oda-chat-flex"><button dir="auto" class="oda-chat-icon oda-chat-header-button oda-chat-button-close oda-chat-flex" type="button" title="Show Options" role="button" aria-haspopup="true" aria-expanded="false" aria-controls="oda-chat-action-menu"><svg xmlns="http://www.w3.org/2000/svg" height="20" width="20" viewBox="0 0 20 20" dir="auto" role="img" aria-label="Show Options"><path d="M4.99935 9.99967C4.99935 10.9201 4.25316 11.6663 3.33268 11.6663C2.41221 11.6663 1.66602 10.9201 1.66602 9.99967C1.66602 9.0792 2.41221 8.33301 3.33268 8.33301C4.25316 8.33301 4.99935 9.0792 4.99935 9.99967Z" fill="#161513"></path><path d="M11.666 9.99967C11.666 10.9201 10.9198 11.6663 9.99935 11.6663C9.07887 11.6663 8.33268 10.9201 8.33268 9.99967C8.33268 9.0792 9.07887 8.33301 9.99935 8.33301C10.9198 8.33301 11.666 9.0792 11.666 9.99967Z" fill="#161513"></path><path d="M18.3327 9.99967C18.3327 10.9201 17.5865 11.6663 16.666 11.6663C15.7455 11.6663 14.9993 10.9201 14.9993 9.99967C14.9993 9.0792 15.7455 8.33301 16.666 8.33301C17.5865 8.33301 18.3327 9.0792 18.3327 9.99967Z" fill="#161513"></path></svg></button><button dir="auto" class="oda-chat-icon oda-chat-header-button oda-chat-flex" type="button" title="Close Chatbot" id="oda-chat-end-conversation" disabled=""><svg xmlns="http://www.w3.org/2000/svg" height="20" width="20" viewBox="0 0 24 24" dir="auto" role="img" aria-label="Close Chatbot"><path d="M17.524 5 19 6.476 13.475 12 19 17.524 17.524 19 12 13.475 6.476 19 5 17.524 10.525 12 5 6.476 6.476 5 12 10.525z"></path></svg></button><ul dir="auto" class="oda-chat-popup oda-chat-action-menu" id="oda-chat-action-menu" tabindex="-1" role="menu" aria-labelledby="oda-chat-action-menu-button"><li dir="auto" class="oda-chat-action-item oda-chat-false" id="oda-chat-collapse" tabindex="-1" role="menuitem" data-value="collapse" title="Close widget"><svg xmlns="http://www.w3.org/2000/svg" height="20" width="20" viewBox="0 0 24 24" dir="auto" class="oda-chat-icon oda-chat-action-item-icon" role="img"><path d="M11 13v9H9v-5.586l-6.293 6.293-1.414-1.414L7.586 15H2v-2zM21.293 1.293l1.414 1.414L16.414 9H22v2h-9V2h2v5.586z"></path></svg><span dir="auto" class="oda-chat-text oda-chat-action-item-text oda-chat-ellipsis">Close widget</span></li><li dir="auto" class="oda-chat-action-item oda-chat-with-sub-menu" id="action-menu-option-lang" tabindex="-1" role="button" data-value="lang" title="Select chat language" aria-haspopup="true" aria-expanded="false" aria-controls="oda-chat-language-selection-menu"><svg xmlns="http://www.w3.org/2000/svg" height="20" width="20" viewBox="0 0 24 24" dir="auto" class="oda-chat-icon oda-chat-action-item-icon" role="img"><path d="M13 14c-1.5 0-2.9-.4-4-1.1 1.1-2.4 1.7-5 1.9-6.9h9V4H7V2H5v2H2v2h6.9c-.2 1.7-.7 3.7-1.5 5.6C6.5 10.5 6 9.2 6 8H4c0 1.9.9 4 2.5 5.5C5.3 15.5 3.8 17 2 17v2c2.6 0 4.6-1.9 6.1-4.3 1.4.8 3 1.3 4.9 1.3zm7.6 4.6L17 10.5l-3.6 8.1-1.3 3 1.8.8L15 20h4l1.1 2.4 1.8-.8zm-4.7-.6l1.1-2.5 1.1 2.5z"></path></svg><span dir="auto" class="oda-chat-text oda-chat-action-item-text oda-chat-ellipsis">Select chat language</span><div dir="auto" class="oda-chat-arrow-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none" dir="auto" role="img"><path fill-rule="evenodd" clip-rule="evenodd" d="M6 9L11.9746 15L18 9H6Z" fill="#161513"></path></svg></div></li></ul></div></div><div dir="auto" class="oda-chat-conversation"><div dir="auto" class="oda-chat-conversation-pane oda-chat-bot-icon oda-chat-"><div dir="auto" class="oda-chat-conversation-container" role="log" aria-live="polite" aria-atomic="false"></div></div></div><div dir="auto" class="oda-chat-footer oda-chat-mode-keyboard"><div dir="auto" class="oda-chat-footer-mode-keyboard oda-chat-flex"><textarea dir="auto" class="oda-chat-user-input oda-chat-disabled" placeholder="Type here..." aria-label="Type here..." rows="1"></textarea><div dir="auto" class="oda-chat-footer-actions oda-chat-flex"><button dir="auto" class="oda-chat-icon oda-chat-footer-button oda-chat-flex oda-chat-button-send oda-chat-none" type="button" title="Send message"><svg xmlns="http://www.w3.org/2000/svg" height="20" width="20" viewBox="0 0 24 24" dir="auto" role="img" aria-label="Send message"><path d="M13 22V5.414l5.293 5.293 1.414-1.414L12 1.585 4.293 9.293l1.414 1.414L11 5.414V22h2z" fill="#161513"></path></svg></button></div></div></div><div dir="auto" class="oda-chat-webview-container oda-chat-none"><div dir="auto" class="oda-chat-header oda-chat-webview-header oda-chat-flex"><div dir="auto" class="oda-chat-title oda-chat-webview-title oda-chat-ellipsis"></div><button dir="auto" class="oda-chat-icon oda-chat-header-button oda-chat-webview-button-close oda-chat-flex" type="button" title="Done" id="oda-chat-webview-button-close"><svg xmlns="http://www.w3.org/2000/svg" height="20" width="20" viewBox="0 0 24 24" dir="auto" role="img" aria-label="Done"><path d="M17.524 5 19 6.476 13.475 12 19 17.524 17.524 19 12 13.475 6.476 19 5 17.524 10.525 12 5 6.476 6.476 5 12 10.525z"></path></svg></button></div><iframe dir="auto" class="oda-chat-webview" name="oda-chat-webview" title="In-widget WebView to display links" referrerpolicy="no-referrer-when-downgrade"></iframe></div><ul dir="auto" class="oda-chat-popup oda-chat-language-selection-menu" id="oda-chat-language-selection-menu" tabindex="-1" role="menu" aria-labelledby="oda-chat-language-selection-button"><li dir="auto" class="oda-chat-language-selection-option oda-chat-false" id="language-selection-option-und" tabindex="-1" role="menuitem" data-value="und" title="Detect Language"><span dir="auto" class="oda-chat-text oda-chat-language-selection-option-text oda-chat-ellipsis">Detect Language</span></li><li dir="auto" class="oda-chat-language-selection-option oda-chat-false" id="language-selection-option-en" tabindex="-1" role="menuitem" data-value="en" title="undefined"><span dir="auto" class="oda-chat-text oda-chat-language-selection-option-text oda-chat-ellipsis">undefined</span></li><li dir="auto" class="oda-chat-language-selection-option oda-chat-false" id="language-selection-option-es" tabindex="-1" role="menuitem" data-value="es" title="Español"><span dir="auto" class="oda-chat-text oda-chat-language-selection-option-text oda-chat-ellipsis">Español</span></li><li dir="auto" class="oda-chat-language-selection-option oda-chat-false" id="language-selection-option-pt" tabindex="-1" role="menuitem" data-value="pt" title="Português"><span dir="auto" class="oda-chat-text oda-chat-language-selection-option-text oda-chat-ellipsis">Português</span></li><li dir="auto" class="oda-chat-language-selection-option oda-chat-false" id="language-selection-option-de" tabindex="-1" role="menuitem" data-value="de" title="Deutsch"><span dir="auto" class="oda-chat-text oda-chat-language-selection-option-text oda-chat-ellipsis">Deutsch</span></li><li dir="auto" class="oda-chat-language-selection-option oda-chat-false" id="language-selection-option-fr" tabindex="-1" role="menuitem" data-value="fr" title="French"><span dir="auto" class="oda-chat-text oda-chat-language-selection-option-text oda-chat-ellipsis">French</span></li><li dir="auto" class="oda-chat-language-selection-option oda-chat-false" id="language-selection-option-nl" tabindex="-1" role="menuitem" data-value="nl" title="Dutch"><span dir="auto" class="oda-chat-text oda-chat-language-selection-option-text oda-chat-ellipsis">Dutch</span></li><li dir="auto" class="oda-chat-language-selection-option oda-chat-false" id="language-selection-option-it" tabindex="-1" role="menuitem" data-value="it" title="Italian"><span dir="auto" class="oda-chat-text oda-chat-language-selection-option-text oda-chat-ellipsis">Italian</span></li></ul></div><button dir="auto" class="oda-chat-button oda-chat-flex" type="button" title="Oracle Chatbot"><svg width="36" height="36" viewBox="0 0 36 36" dir="auto" class="oda-chat-button-icon" role="img" aria-label="Oracle Chatbot"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.875 8.625a2.25 2.25 0 00-2.25 2.25v16c0 .621.504 1.125 1.125 1.125h.284c.298 0 .585-.119.796-.33l2.761-2.76a2.25 2.25 0 011.59-.66h15.944a2.25 2.25 0 002.25-2.25V10.875a2.25 2.25 0 00-2.25-2.25H7.875zM24.75 18a2.25 2.25 0 100-4.5 2.25 2.25 0 000 4.5zm-4.5-2.25a2.25 2.25 0 11-4.5 0 2.25 2.25 0 014.5 0zm-9 2.25a2.25 2.25 0 100-4.5 2.25 2.25 0 000 4.5z" fill="#fff"></path></svg></button></div></body><!-- end : Framework/HomePage --></html>

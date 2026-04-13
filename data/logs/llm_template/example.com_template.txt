@@ -1,0 +1,22 @@
+STEP 1 - Check element html_1
+PASS - step 1
+STEP 2 - Check element head_2
+PASS - step 2
+STEP 3 - Check element title_3
+PASS - step 3
+STEP 4 - Check element meta_4
+PASS - step 4
+STEP 5 - Check element style_5
+PASS - step 5
+STEP 6 - Check element body_6
+PASS - step 6
+STEP 7 - Check element div_7
+PASS - step 7
+STEP 8 - Check element h1_8
+PASS - step 8
+STEP 9 - Check element p_9
+PASS - step 9
+STEP 10 - Check element p_10
+PASS - step 10
+STEP 11 - Check element a_11
+PASS - step 11

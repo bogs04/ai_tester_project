@@ -1,0 +1,313 @@
+STEP 1 - Check element html#None.None
+PASS - step 1
+STEP 2 - Check element head#None.None
+PASS - step 2
+STEP 3 - Check element title#None.None
+PASS - step 3
+STEP 4 - Check element meta#None.None
+PASS - step 4
+STEP 5 - Check element meta#None.None
+PASS - step 5
+STEP 6 - Check element meta#None.None
+PASS - step 6
+STEP 7 - Check element meta#None.None
+PASS - step 7
+STEP 8 - Check element style#None.None
+PASS - step 8
+STEP 9 - Check element meta#None.None
+PASS - step 9
+STEP 10 - Check element script#None.None
+PASS - step 10
+STEP 11 - Check element style#None.None
+PASS - step 11
+STEP 12 - Check element script#None.None
+PASS - step 12
+STEP 13 - Check element body#None.None
+PASS - step 13
+STEP 14 - Check element div#None.['main-wrapper']
+ERROR - step 14: Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=143.0.7499.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65d448245
+	0x7ff65d4482a0
+	0x7ff65d22165d
+	0x7ff65d2292cc
+	0x7ff65d22c3b4
+	0x7ff65d22c47f
+	0x7ff65d2792e5
+	0x7ff65d279d3c
+	0x7ff65d2cdf67
+	0x7ff65d2cac97
+	0x7ff65d26ac29
+	0x7ff65d26ba93
+	0x7ff65d75ffe0
+	0x7ff65d75a920
+	0x7ff65d779086
+	0x7ff65d465744
+	0x7ff65d46e6ec
+	0x7ff65d451964
+	0x7ff65d451b15
+	0x7ff65d437842
+	0x7ff8a52a7374
+	0x7ff8a6edcc91
+
+STEP 15 - Check element div#None.['main-content']
+ERROR - step 15: Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=143.0.7499.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65d448245
+	0x7ff65d4482a0
+	0x7ff65d22165d
+	0x7ff65d2292cc
+	0x7ff65d22c3b4
+	0x7ff65d22c47f
+	0x7ff65d2792e5
+	0x7ff65d279d3c
+	0x7ff65d2cdf67
+	0x7ff65d2cac97
+	0x7ff65d26ac29
+	0x7ff65d26ba93
+	0x7ff65d75ffe0
+	0x7ff65d75a920
+	0x7ff65d779086
+	0x7ff65d465744
+	0x7ff65d46e6ec
+	0x7ff65d451964
+	0x7ff65d451b15
+	0x7ff65d437842
+	0x7ff8a52a7374
+	0x7ff8a6edcc91
+
+STEP 16 - Check element h1#None.['zone-name-title', 'h1']
+ERROR - step 16: Message: Compound class names are not allowed.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+
+STEP 17 - Check element p#Xhed9.['h2', 'spacer-bottom']
+PASS - step 17
+STEP 18 - Check element div#HXrjT5.None
+PASS - step 18
+STEP 19 - Check element div#None.None
+PASS - step 19
+STEP 20 - Check element div#None.None
+PASS - step 20
+STEP 21 - Check element input#cf-chl-widget-mc0vz_response.None
+ERROR - step 21: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65d448245
+	0x7ff65d4482a0
+	0x7ff65d22165d
+	0x7ff65d279a33
+	0x7ff65d279d3c
+	0x7ff65d2cdf67
+	0x7ff65d2cac97
+	0x7ff65d26ac29
+	0x7ff65d26ba93
+	0x7ff65d75ffe0
+	0x7ff65d75a920
+	0x7ff65d779086
+	0x7ff65d465744
+	0x7ff65d46e6ec
+	0x7ff65d451964
+	0x7ff65d451b15
+	0x7ff65d437842
+	0x7ff8a52a7374
+	0x7ff8a6edcc91
+
+STEP 22 - Check element div#WwBsf2.['spacer', 'loading-verifying']
+PASS - step 22
+STEP 23 - Check element div#None.['lds-ring']
+ERROR - step 23: Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=143.0.7499.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65d448245
+	0x7ff65d4482a0
+	0x7ff65d22165d
+	0x7ff65d2292cc
+	0x7ff65d22c3b4
+	0x7ff65d22c47f
+	0x7ff65d2792e5
+	0x7ff65d279d3c
+	0x7ff65d2cdf67
+	0x7ff65d2cac97
+	0x7ff65d26ac29
+	0x7ff65d26ba93
+	0x7ff65d75ffe0
+	0x7ff65d75a920
+	0x7ff65d779086
+	0x7ff65d465744
+	0x7ff65d46e6ec
+	0x7ff65d451964
+	0x7ff65d451b15
+	0x7ff65d437842
+	0x7ff8a52a7374
+	0x7ff8a6edcc91
+
+STEP 24 - Check element div#None.None
+PASS - step 24
+STEP 25 - Check element div#None.None
+PASS - step 25
+STEP 26 - Check element div#None.None
+PASS - step 26
+STEP 27 - Check element div#None.None
+PASS - step 27
+STEP 28 - Check element div#BeMea7.['core-msg', 'spacer', 'spacer-top']
+PASS - step 28
+STEP 29 - Check element div#dKUe9.None
+PASS - step 29
+STEP 30 - Check element div#challenge-success-text.['h2']
+PASS - step 30
+STEP 31 - Check element div#None.['core-msg', 'spacer']
+ERROR - step 31: Message: Compound class names are not allowed.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+
+STEP 32 - Check element noscript#None.None
+PASS - step 32
+STEP 33 - Check element div#None.['h2']
+ERROR - step 33: Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=143.0.7499.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65d448245
+	0x7ff65d4482a0
+	0x7ff65d22165d
+	0x7ff65d2292cc
+	0x7ff65d22c3b4
+	0x7ff65d22c47f
+	0x7ff65d2792e5
+	0x7ff65d279d3c
+	0x7ff65d2cdf67
+	0x7ff65d2cac97
+	0x7ff65d26ac29
+	0x7ff65d26ba93
+	0x7ff65d75ffe0
+	0x7ff65d75a920
+	0x7ff65d779086
+	0x7ff65d465744
+	0x7ff65d46e6ec
+	0x7ff65d451964
+	0x7ff65d451b15
+	0x7ff65d437842
+	0x7ff8a52a7374
+	0x7ff8a6edcc91
+
+STEP 34 - Check element span#challenge-error-text.None
+ERROR - step 34: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65d448245
+	0x7ff65d4482a0
+	0x7ff65d22165d
+	0x7ff65d279a33
+	0x7ff65d279d3c
+	0x7ff65d2cdf67
+	0x7ff65d2cac97
+	0x7ff65d26ac29
+	0x7ff65d26ba93
+	0x7ff65d75ffe0
+	0x7ff65d75a920
+	0x7ff65d779086
+	0x7ff65d465744
+	0x7ff65d46e6ec
+	0x7ff65d451964
+	0x7ff65d451b15
+	0x7ff65d437842
+	0x7ff8a52a7374
+	0x7ff8a6edcc91
+
+STEP 35 - Check element script#None.None
+PASS - step 35
+STEP 36 - Check element div#None.['footer']
+ERROR - step 36: Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=143.0.7499.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65d448245
+	0x7ff65d4482a0
+	0x7ff65d22165d
+	0x7ff65d2292cc
+	0x7ff65d22c3b4
+	0x7ff65d22c47f
+	0x7ff65d2792e5
+	0x7ff65d279d3c
+	0x7ff65d2cdf67
+	0x7ff65d2cac97
+	0x7ff65d26ac29
+	0x7ff65d26ba93
+	0x7ff65d75ffe0
+	0x7ff65d75a920
+	0x7ff65d779086
+	0x7ff65d465744
+	0x7ff65d46e6ec
+	0x7ff65d451964
+	0x7ff65d451b15
+	0x7ff65d437842
+	0x7ff8a52a7374
+	0x7ff8a6edcc91
+
+STEP 37 - Check element div#None.['footer-inner']
+ERROR - step 37: Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=143.0.7499.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65d448245
+	0x7ff65d4482a0
+	0x7ff65d22165d
+	0x7ff65d2292cc
+	0x7ff65d22c3b4
+	0x7ff65d22c47f
+	0x7ff65d2792e5
+	0x7ff65d279d3c
+	0x7ff65d2cdf67
+	0x7ff65d2cac97
+	0x7ff65d26ac29
+	0x7ff65d26ba93
+	0x7ff65d75ffe0
+	0x7ff65d75a920
+	0x7ff65d779086
+	0x7ff65d465744
+	0x7ff65d46e6ec
+	0x7ff65d451964
+	0x7ff65d451b15
+	0x7ff65d437842
+	0x7ff8a52a7374
+	0x7ff8a6edcc91
+
+STEP 38 - Check element div#None.['clearfix', 'diagnostic-wrapper']
+ERROR - step 38: Message: Compound class names are not allowed.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+
+STEP 39 - Check element div#None.['ray-id']
+ERROR - step 39: Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=143.0.7499.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65d448245
+	0x7ff65d4482a0
+	0x7ff65d22165d
+	0x7ff65d2292cc
+	0x7ff65d22c3b4
+	0x7ff65d22c47f
+	0x7ff65d2792e5
+	0x7ff65d279d3c
+	0x7ff65d2cdf67
+	0x7ff65d2cac97
+	0x7ff65d26ac29
+	0x7ff65d26ba93
+	0x7ff65d75ffe0
+	0x7ff65d75a920
+	0x7ff65d779086
+	0x7ff65d465744
+	0x7ff65d46e6ec
+	0x7ff65d451964
+	0x7ff65d451b15
+	0x7ff65d437842
+	0x7ff8a52a7374
+	0x7ff8a6edcc91
+
+STEP 40 - Check element code#None.None
+PASS - step 40
+STEP 41 - Check element div#footer-text.['text-center']
+PASS - step 41
+STEP 42 - Check element a#None.None
+PASS - step 42

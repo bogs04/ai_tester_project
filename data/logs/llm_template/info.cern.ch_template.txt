@@ -1,0 +1,32 @@
+STEP 1 - Check element html_1
+PASS - step 1
+STEP 2 - Check element head_2
+PASS - step 2
+STEP 3 - Check element body_3
+PASS - step 3
+STEP 4 - Check element header_4
+PASS - step 4
+STEP 5 - Check element title_5
+PASS - step 5
+STEP 6 - Check element h1_6
+PASS - step 6
+STEP 7 - Check element p_7
+PASS - step 7
+STEP 8 - Check element ul_8
+PASS - step 8
+STEP 9 - Check element li_9
+PASS - step 9
+STEP 10 - Check element a_10
+PASS - step 10
+STEP 11 - Check element li_11
+PASS - step 11
+STEP 12 - Check element a_12
+PASS - step 12
+STEP 13 - Check element li_13
+PASS - step 13
+STEP 14 - Check element a_14
+PASS - step 14
+STEP 15 - Check element li_15
+PASS - step 15
+STEP 16 - Check element a_16
+PASS - step 16

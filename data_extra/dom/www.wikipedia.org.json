@@ -1,0 +1,6592 @@
+[
+  {
+    "tag": "html",
+    "id": null,
+    "class": [
+      "js-enabled"
+    ]
+  },
+  {
+    "tag": "head",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "title",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "script",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "style",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "style",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "body",
+    "id": "www-wikipedia-org",
+    "class": [
+      "jsl10n-visible"
+    ]
+  },
+  {
+    "tag": "main",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "central-textlogo"
+    ]
+  },
+  {
+    "tag": "img",
+    "id": null,
+    "class": [
+      "central-featured-logo"
+    ]
+  },
+  {
+    "tag": "h1",
+    "id": null,
+    "class": [
+      "central-textlogo-wrapper"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "central-textlogo__image",
+      "sprite",
+      "svg-Wikipedia_wordmark"
+    ]
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": [
+      "jsl10n",
+      "localized-slogan"
+    ]
+  },
+  {
+    "tag": "nav",
+    "id": null,
+    "class": [
+      "central-featured"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "central-featured-lang",
+      "lang1"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": "js-link-box-en",
+    "class": [
+      "link-box"
+    ]
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "central-featured-lang",
+      "lang2"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": "js-link-box-ja",
+    "class": [
+      "link-box"
+    ]
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "central-featured-lang",
+      "lang3"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": "js-link-box-de",
+    "class": [
+      "link-box"
+    ]
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "central-featured-lang",
+      "lang4"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": "js-link-box-fr",
+    "class": [
+      "link-box"
+    ]
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "central-featured-lang",
+      "lang5"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": "js-link-box-ru",
+    "class": [
+      "link-box"
+    ]
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "central-featured-lang",
+      "lang6"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": "js-link-box-es",
+    "class": [
+      "link-box"
+    ]
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "central-featured-lang",
+      "lang7"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": "js-link-box-it",
+    "class": [
+      "link-box"
+    ]
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "central-featured-lang",
+      "lang8"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": "js-link-box-zh",
+    "class": [
+      "link-box",
+      "localize-variant"
+    ]
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "central-featured-lang",
+      "lang9"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": "js-link-box-pl",
+    "class": [
+      "link-box"
+    ]
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "central-featured-lang",
+      "lang10"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": "js-link-box-pt",
+    "class": [
+      "link-box"
+    ]
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "search-container"
+    ]
+  },
+  {
+    "tag": "form",
+    "id": "search-form",
+    "class": [
+      "pure-form"
+    ]
+  },
+  {
+    "tag": "fieldset",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "input",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "search-input",
+    "class": [
+      "search-input"
+    ]
+  },
+  {
+    "tag": "label",
+    "id": null,
+    "class": [
+      "screen-reader-text"
+    ]
+  },
+  {
+    "tag": "input",
+    "id": "searchInput",
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "styled-select",
+      "js-enabled"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "hide-arrow"
+    ]
+  },
+  {
+    "tag": "label",
+    "id": "jsLangLabel",
+    "class": [
+      "js-langpicker-label"
+    ]
+  },
+  {
+    "tag": "select",
+    "id": "searchLanguage",
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "styled-select-active-helper"
+    ]
+  },
+  {
+    "tag": "i",
+    "id": null,
+    "class": [
+      "sprite",
+      "svg-arrow-down"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": "typeahead-suggestions",
+    "class": null
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "pure-button",
+      "pure-button-primary-progressive"
+    ]
+  },
+  {
+    "tag": "i",
+    "id": null,
+    "class": [
+      "sprite",
+      "svg-search-icon"
+    ]
+  },
+  {
+    "tag": "input",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "nav",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "lang-list-button-wrapper"
+    ]
+  },
+  {
+    "tag": "button",
+    "id": "js-lang-list-button",
+    "class": [
+      "lang-list-button"
+    ]
+  },
+  {
+    "tag": "i",
+    "id": null,
+    "class": [
+      "sprite",
+      "svg-language-icon"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "lang-list-button-text",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "i",
+    "id": null,
+    "class": [
+      "sprite",
+      "svg-arrow-down-blue"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "lang-list-border"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "lang-list-container"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": "js-lang-lists",
+    "class": [
+      "lang-list-content"
+    ]
+  },
+  {
+    "tag": "h2",
+    "id": null,
+    "class": [
+      "bookshelf-container"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "bookshelf"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "text"
+    ]
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "langlist",
+      "langlist-large",
+      "hlist"
+    ]
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "h2",
+    "id": null,
+    "class": [
+      "bookshelf-container"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "bookshelf"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "text"
+    ]
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "langlist",
+      "langlist-large",
+      "hlist"
+    ]
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "h2",
+    "id": null,
+    "class": [
+      "bookshelf-container"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "bookshelf"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "text"
+    ]
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "langlist",
+      "hlist"
+    ]
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "h2",
+    "id": null,
+    "class": [
+      "bookshelf-container"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "bookshelf"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "text"
+    ]
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "langlist",
+      "hlist"
+    ]
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "jscnconv"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "h2",
+    "id": null,
+    "class": [
+      "bookshelf-container"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "bookshelf"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "text"
+    ]
+  },
+  {
+    "tag": "bdi",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "langlist",
+      "langlist-tiny",
+      "hlist"
+    ]
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "langlist",
+      "langlist-others",
+      "hlist"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "hr",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "portalBanner_en6C_2526_1208_currentBest",
+    "class": [
+      "banner",
+      "banner-overlay"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "overlay-banner"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "overlay-banner-main"
+    ]
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "frb-header-minimize",
+      "overlay-banner-toggle"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "frb-header-minimize-icon"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "g",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "overlay-banner-main-header"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "frb-donate"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "overlay-banner-main-header-divider"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "frb-iad"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "overlay-banner-main-scroll"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "overlay-banner-main-message",
+      "overlay-banner-control"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "overlay-banner-main-message-greeting"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "overlay-banner-main-message-subheading"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "banner__country"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "banner__amount1"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "banner__amount1"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "frb-decoration",
+      "frb-decoration-bottom-left"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "frb-decoration",
+      "frb-decoration-top-right"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "overlay-banner-main-amounts"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "frb-message",
+      "frb-message-amount"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "error-highlight"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "banner__currency"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "frb-explanation"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "banner__country"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "banner__average"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "banner__amount1"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": "amountsGrid",
+    "class": [
+      "button-grid"
+    ]
+  },
+  {
+    "tag": "label",
+    "id": null,
+    "class": [
+      "banner-button",
+      "button-33"
+    ]
+  },
+  {
+    "tag": "input",
+    "id": null,
+    "class": [
+      "sr-only"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "banner__amount1"
+    ]
+  },
+  {
+    "tag": "label",
+    "id": null,
+    "class": [
+      "banner-button",
+      "button-33"
+    ]
+  },
+  {
+    "tag": "input",
+    "id": null,
+    "class": [
+      "sr-only"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "banner__currency"
+    ]
+  },
+  {
+    "tag": "label",
+    "id": null,
+    "class": [
+      "banner-button",
+      "button-33"
+    ]
+  },
+  {
+    "tag": "input",
+    "id": null,
+    "class": [
+      "sr-only"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "banner__currency"
+    ]
+  },
+  {
+    "tag": "label",
+    "id": null,
+    "class": [
+      "banner-button",
+      "button-33"
+    ]
+  },
+  {
+    "tag": "input",
+    "id": null,
+    "class": [
+      "sr-only"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "banner__currency"
+    ]
+  },
+  {
+    "tag": "label",
+    "id": null,
+    "class": [
+      "banner-button",
+      "button-33"
+    ]
+  },
+  {
+    "tag": "input",
+    "id": null,
+    "class": [
+      "sr-only"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "banner__currency"
+    ]
+  },
+  {
+    "tag": "label",
+    "id": null,
+    "class": [
+      "banner-button",
+      "button-33"
+    ]
+  },
+  {
+    "tag": "input",
+    "id": null,
+    "class": [
+      "sr-only"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "banner__currency"
+    ]
+  },
+  {
+    "tag": "label",
+    "id": null,
+    "class": [
+      "banner-button",
+      "button-33"
+    ]
+  },
+  {
+    "tag": "input",
+    "id": null,
+    "class": [
+      "sr-only"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "banner__currency"
+    ]
+  },
+  {
+    "tag": "label",
+    "id": null,
+    "class": [
+      "banner-button",
+      "button-67"
+    ]
+  },
+  {
+    "tag": "input",
+    "id": null,
+    "class": [
+      "sr-only"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "overlay-banner-main-frequency",
+      "button-grid"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "frb-message",
+      "error-highlight"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": "frequencyGrid",
+    "class": [
+      "button-grid"
+    ]
+  },
+  {
+    "tag": "label",
+    "id": null,
+    "class": [
+      "banner-button",
+      "button-50"
+    ]
+  },
+  {
+    "tag": "input",
+    "id": null,
+    "class": [
+      "sr-only"
+    ]
+  },
+  {
+    "tag": "label",
+    "id": null,
+    "class": [
+      "banner-button",
+      "button-50"
+    ]
+  },
+  {
+    "tag": "input",
+    "id": null,
+    "class": [
+      "sr-only"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": "frb-donate",
+    "class": [
+      "frb-submit",
+      "banner-button",
+      "banner-button-disabled",
+      "frb-donate"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "overlay-banner-main-footer"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "overlay-banner-main-footer-cta"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": [
+      "frb-message-icon"
+    ]
+  },
+  {
+    "tag": "g",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "circle",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "overlay-banner-main-footer-identity"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "overlay-banner-main-footer-identity-logo"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "button-center",
+      "button-collapse",
+      "overlay-banner-toggle"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "overlay-banner-mini"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "frb-conversation-open",
+      "frb-bubble-message-close",
+      "overlay-banner-toggle"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "frb-conversation-open-icon"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "g",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "frb-conversation-close",
+      "frb-bubble-message-close",
+      "overlay-banner-close"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "frb-conversation-close-icon"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "overlay-banner-mini-message"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "overlay-banner-mini-message-text",
+      "overlay-banner-control"
+    ]
+  },
+  {
+    "tag": "h3",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": [
+      "frb-message-icon"
+    ]
+  },
+  {
+    "tag": "g",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "circle",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "banner__amount1"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "banner__amount1"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "em",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "overlay-banner-mini-message-actions"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "banner__button",
+      "banner__button--progressive",
+      "frb-submit",
+      "frb-donate"
+    ]
+  },
+  {
+    "tag": "dialog",
+    "id": null,
+    "class": [
+      "frb-iad-dialog"
+    ]
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "frb-iad-dialog-close",
+      "frb-dialog-back",
+      "skin-invert"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "g",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "rect",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "frb-w25-logo"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": [
+      "stw0"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "frb-dialog-title"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "frb-dialog-text"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "frb-dialog-text"
+    ]
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "frb-iad-dialog-buttons"
+    ]
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "frb-dialog-action"
+    ]
+  },
+  {
+    "tag": "br",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "frb-iad-dialog-close"
+    ]
+  },
+  {
+    "tag": "footer",
+    "id": null,
+    "class": [
+      "footer"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "footer-sidebar"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "footer-sidebar-content"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "footer-sidebar-icon",
+      "sprite",
+      "svg-Wikimedia-logo_black"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "footer-sidebar-text",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "footer-sidebar-text"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "footer-sidebar",
+      "app-badges"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "footer-sidebar-content"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "footer-sidebar-text"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "footer-sidebar-icon",
+      "sprite",
+      "svg-wikipedia_app_tile"
+    ]
+  },
+  {
+    "tag": "strong",
+    "id": null,
+    "class": [
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": [
+      "app-badge",
+      "app-badge-android"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "jsl10n",
+      "sprite",
+      "svg-badge_google_play_store"
+    ]
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": [
+      "app-badge",
+      "app-badge-ios"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "jsl10n",
+      "sprite",
+      "svg-badge_ios_app_store"
+    ]
+  },
+  {
+    "tag": "nav",
+    "id": null,
+    "class": [
+      "other-projects"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-icon"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "sprite",
+      "svg-Commons-logo_sister"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-text"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-tagline",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-icon"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "sprite",
+      "svg-Wikivoyage-logo_sister"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-text"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-tagline",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-icon"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "sprite",
+      "svg-Wiktionary-logo_sister"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-text"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-tagline",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-icon"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "sprite",
+      "svg-Wikibooks-logo_sister"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-text"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-tagline",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-icon"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "sprite",
+      "svg-Wikinews-logo_sister"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-text"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-tagline",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-icon"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "sprite",
+      "svg-Wikidata-logo_sister"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-text"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-tagline",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-icon"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "sprite",
+      "svg-Wikiversity-logo_sister"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-text"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-tagline",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-icon"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "sprite",
+      "svg-Wikiquote-logo_sister"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-text"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-tagline",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-icon"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "sprite",
+      "svg-MediaWiki-logo_sister"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-text"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-tagline",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-icon"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "sprite",
+      "svg-Wikisource-logo_sister"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-text"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-tagline",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-icon"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "sprite",
+      "svg-Wikispecies-logo_sister"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-text"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-tagline",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-icon"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "sprite",
+      "svg-Wikifunctions-logo_sister"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-text"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-tagline",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-icon"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "sprite",
+      "svg-Meta-Wiki-logo_sister"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "other-project-text"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "other-project-tagline",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "hr",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": [
+      "site-license"
+    ]
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": [
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": [
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": [
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "script",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "script",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "script",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "style",
+    "id": null,
+    "class": null
+  }
+]

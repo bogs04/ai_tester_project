@@ -1,0 +1,16 @@
+ model  steps  coverage  hallucination_rate   latency_ms  parse_success                         url
+  rule      5  1.000000            0.000000     0.000000           True         https://httpbin.org
+   GPT      3  1.000000            0.000000  2157.990456           True         https://httpbin.org
+Claude      1  0.500000            0.666667  3137.587786           True         https://httpbin.org
+  rule    114  1.000000            0.000000     0.000000           True  https://books.toscrape.com
+   GPT      4  1.000000            0.000000  1620.211124           True  https://books.toscrape.com
+Claude      3  1.000000            0.000000  4301.336050           True  https://books.toscrape.com
+  rule     55  1.000000            0.000000     0.000000           True https://quotes.toscrape.com
+   GPT      3  0.666667            0.000000  1711.722851           True https://quotes.toscrape.com
+Claude      3  1.000000            0.000000  1486.081600           True https://quotes.toscrape.com
+  rule    209  1.000000            0.000000     0.000000           True      https://www.python.org
+   GPT      4  0.222222            0.000000  1889.647007           True      https://www.python.org
+Claude      3  0.166667            0.000000  1915.718317           True      https://www.python.org
+  rule    143  1.000000            0.000000     0.000000           True       https://vnexpress.net
+   GPT      4  0.250000            0.000000 12954.414606           True       https://vnexpress.net
+Claude      3  0.187500            0.000000  2775.150776           True       https://vnexpress.net

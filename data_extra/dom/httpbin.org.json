@@ -1,0 +1,1310 @@
+[
+  {
+    "tag": "html",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "head",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "meta",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "title",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "link",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "style",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "body",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "github-corner"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": [
+      "octo-arm"
+    ]
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": [
+      "octo-body"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "defs",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "symbol",
+    "id": "unlocked",
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "symbol",
+    "id": "locked",
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "symbol",
+    "id": "close",
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "symbol",
+    "id": "large-arrow",
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "symbol",
+    "id": "large-arrow-down",
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "symbol",
+    "id": "jump-to",
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "symbol",
+    "id": "expand",
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": "swagger-ui",
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "swagger-ui"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "defs",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "symbol",
+    "id": "unlocked",
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "symbol",
+    "id": "locked",
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "symbol",
+    "id": "close",
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "symbol",
+    "id": "large-arrow",
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "symbol",
+    "id": "large-arrow-down",
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "symbol",
+    "id": "jump-to",
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "symbol",
+    "id": "expand",
+    "class": null
+  },
+  {
+    "tag": "path",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "information-container",
+      "wrapper"
+    ]
+  },
+  {
+    "tag": "section",
+    "id": null,
+    "class": [
+      "block",
+      "col-12"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "info"
+    ]
+  },
+  {
+    "tag": "hgroup",
+    "id": null,
+    "class": [
+      "main"
+    ]
+  },
+  {
+    "tag": "h2",
+    "id": null,
+    "class": [
+      "title"
+    ]
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "pre",
+    "id": null,
+    "class": [
+      "version"
+    ]
+  },
+  {
+    "tag": "pre",
+    "id": null,
+    "class": [
+      "base-url"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "description"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "markdown"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "br",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "br",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "b",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "code",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "scheme-container"
+    ]
+  },
+  {
+    "tag": "section",
+    "id": null,
+    "class": [
+      "schemes",
+      "wrapper",
+      "block",
+      "col-12"
+    ]
+  },
+  {
+    "tag": "label",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": [
+      "schemes-title"
+    ]
+  },
+  {
+    "tag": "select",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "option",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "wrapper"
+    ]
+  },
+  {
+    "tag": "section",
+    "id": null,
+    "class": [
+      "block",
+      "col-12",
+      "block-desktop",
+      "col-12-desktop"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "opblock-tag-section"
+    ]
+  },
+  {
+    "tag": "h4",
+    "id": "operations-tag-HTTP_Methods",
+    "class": [
+      "opblock-tag"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "nostyle"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "markdown"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "expand-operation"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": [
+      "arrow"
+    ]
+  },
+  {
+    "tag": "use",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "noscript",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "opblock-tag-section"
+    ]
+  },
+  {
+    "tag": "h4",
+    "id": "operations-tag-Auth",
+    "class": [
+      "opblock-tag"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "nostyle"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "markdown"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "expand-operation"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": [
+      "arrow"
+    ]
+  },
+  {
+    "tag": "use",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "noscript",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "opblock-tag-section"
+    ]
+  },
+  {
+    "tag": "h4",
+    "id": "operations-tag-Status_codes",
+    "class": [
+      "opblock-tag"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "nostyle"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "markdown"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "expand-operation"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": [
+      "arrow"
+    ]
+  },
+  {
+    "tag": "use",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "noscript",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "opblock-tag-section"
+    ]
+  },
+  {
+    "tag": "h4",
+    "id": "operations-tag-Request_inspection",
+    "class": [
+      "opblock-tag"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "nostyle"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "markdown"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "expand-operation"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": [
+      "arrow"
+    ]
+  },
+  {
+    "tag": "use",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "noscript",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "opblock-tag-section"
+    ]
+  },
+  {
+    "tag": "h4",
+    "id": "operations-tag-Response_inspection",
+    "class": [
+      "opblock-tag"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "nostyle"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "markdown"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "expand-operation"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": [
+      "arrow"
+    ]
+  },
+  {
+    "tag": "use",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "noscript",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "opblock-tag-section"
+    ]
+  },
+  {
+    "tag": "h4",
+    "id": "operations-tag-Response_formats",
+    "class": [
+      "opblock-tag"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "nostyle"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "markdown"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "expand-operation"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": [
+      "arrow"
+    ]
+  },
+  {
+    "tag": "use",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "noscript",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "opblock-tag-section"
+    ]
+  },
+  {
+    "tag": "h4",
+    "id": "operations-tag-Dynamic_data",
+    "class": [
+      "opblock-tag"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "nostyle"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "markdown"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "expand-operation"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": [
+      "arrow"
+    ]
+  },
+  {
+    "tag": "use",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "noscript",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "opblock-tag-section"
+    ]
+  },
+  {
+    "tag": "h4",
+    "id": "operations-tag-Cookies",
+    "class": [
+      "opblock-tag"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "nostyle"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "markdown"
+    ]
+  },
+  {
+    "tag": "p",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "expand-operation"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": [
+      "arrow"
+    ]
+  },
+  {
+    "tag": "use",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "noscript",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "opblock-tag-section"
+    ]
+  },
+  {
+    "tag": "h4",
+    "id": "operations-tag-Images",
+    "class": [
+      "opblock-tag"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "nostyle"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "markdown"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "expand-operation"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": [
+      "arrow"
+    ]
+  },
+  {
+    "tag": "use",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "noscript",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "opblock-tag-section"
+    ]
+  },
+  {
+    "tag": "h4",
+    "id": "operations-tag-Redirects",
+    "class": [
+      "opblock-tag"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "nostyle"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "markdown"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "expand-operation"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": [
+      "arrow"
+    ]
+  },
+  {
+    "tag": "use",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "noscript",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "opblock-tag-section"
+    ]
+  },
+  {
+    "tag": "h4",
+    "id": "operations-tag-Anything",
+    "class": [
+      "opblock-tag"
+    ]
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": [
+      "nostyle"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "small",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "markdown"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "button",
+    "id": null,
+    "class": [
+      "expand-operation"
+    ]
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "class": [
+      "arrow"
+    ]
+  },
+  {
+    "tag": "use",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "noscript",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "wrapper"
+    ]
+  },
+  {
+    "tag": "section",
+    "id": null,
+    "class": [
+      "block",
+      "col-12",
+      "block-desktop",
+      "col-12-desktop"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "swagger-ui"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "wrapper"
+    ]
+  },
+  {
+    "tag": "section",
+    "id": null,
+    "class": [
+      "clear"
+    ]
+  },
+  {
+    "tag": "span",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "br",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "script",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "script",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "script",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "script",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "swagger-ui"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": [
+      "wrapper"
+    ]
+  },
+  {
+    "tag": "section",
+    "id": null,
+    "class": [
+      "block",
+      "col-12",
+      "block-desktop",
+      "col-12-desktop"
+    ]
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "h2",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "ul",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "li",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "a",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "br",
+    "id": null,
+    "class": null
+  },
+  {
+    "tag": "br",
+    "id": null,
+    "class": null
+  }
+]

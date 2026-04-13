@@ -1,0 +1,122 @@
+[
+  {
+    "url": "https://www.w3schools.com",
+    "results": {
+      "rule": [
+        1,
+        1,
+        0
+      ],
+      "gpt": [
+        0,
+        0,
+        0
+      ],
+      "claude": [
+        1,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "url": "https://httpbin.org",
+    "results": {
+      "rule": [
+        1,
+        0,
+        1
+      ],
+      "gpt": [
+        0,
+        0,
+        0
+      ],
+      "claude": [
+        1,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "url": "https://books.toscrape.com",
+    "results": {
+      "rule": [
+        1,
+        0,
+        1
+      ],
+      "gpt": [
+        0,
+        0,
+        0
+      ],
+      "claude": [
+        1,
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "url": "https://quotes.toscrape.com",
+    "results": {
+      "rule": [
+        1,
+        1,
+        0
+      ],
+      "gpt": [
+        0,
+        0,
+        0
+      ],
+      "claude": [
+        1,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "url": "https://www.python.org",
+    "results": {
+      "rule": [
+        1,
+        1,
+        0
+      ],
+      "gpt": [
+        0,
+        0,
+        0
+      ],
+      "claude": [
+        1,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "url": "https://www.wikipedia.org",
+    "results": {
+      "rule": [
+        1,
+        1,
+        0
+      ],
+      "gpt": [
+        0,
+        0,
+        0
+      ],
+      "claude": [
+        1,
+        1,
+        0
+      ]
+    }
+  }
+]
