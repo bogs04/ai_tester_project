@@ -18,3 +18,17 @@ Hệ thống sinh và thực thi test case tự động bằng AI (OpenAI + Sele
 ```bash
 pip install -r requirements.txt
 python main.py
+
+## 🔄 Workflow
+1. Input: URL website
+2. AI sinh test case
+3. Selenium thực thi
+4. Pytest đánh giá
+
+## 📊 Example Output
+- Test case: login button clickable
+- Result: PASS / FAIL
+
+## 🎯 Result
+- Số test case sinh ra
+- Tỉ lệ pass
